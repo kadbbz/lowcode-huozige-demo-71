@@ -1,0 +1,263 @@
+{
+  "Rows": {
+    "Count": 24
+  },
+  "Cols": {
+    "Count": 18
+  },
+  "AttachInfos": {
+    "0,0": {
+      "IsPlaceHolderCell": true
+    },
+    "21,0": {
+      "CellType": {
+        "$type": "Forguncy.CustomMenu.ForguncyIconMenuCellType, Forguncy.CustomMenu",
+        "Items": [
+          {
+            "Text": "首页",
+            "IconPath": "Navigation/165_home_3.svg",
+            "IconColor": "Text 1 50",
+            "SelectedIconPath": "Navigation/165_home_3.svg",
+            "IsDefaultItem": true,
+            "IsOldMenuPath": false,
+            "CommandList": [
+              {
+                "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                "PageName": "首页(手机)",
+                "PassValues": []
+              }
+            ],
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ]
+          },
+          {
+            "Text": "添加",
+            "IconPath": "Application/004_add_4.svg",
+            "IconColor": "Text 1 50",
+            "SelectedIconPath": "Application/004_add_4.svg",
+            "IsOldMenuPath": false,
+            "CommandList": [
+              {
+                "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                "PageName": "企业徽标物品详情页面(手机)",
+                "PassValues": [
+                  {
+                    "Source": "添加",
+                    "TargetCell": {
+                      "SerializeProperty": "='企业徽标物品详情页面(手机)'!D36"
+                    }
+                  },
+                  {
+                    "Source": "添加企业徽标物品",
+                    "TargetCell": {
+                      "SerializeProperty": "='企业徽标物品详情页面(手机)'!E2"
+                    }
+                  }
+                ]
+              }
+            ],
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ]
+          },
+          {
+            "Text": "列表",
+            "IconPath": "Application/131_list_3.svg",
+            "IconColor": "Text 1 50",
+            "SelectedIconPath": "Application/131_list_3.svg",
+            "IsOldMenuPath": false,
+            "CommandList": [
+              {
+                "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                "PageName": "图文列表(手机)",
+                "PassValues": []
+              }
+            ],
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ]
+          },
+          {
+            "Text": "报表",
+            "IconPath": "Chart/362_column_chart_1.svg",
+            "IconColor": "Text 1 50",
+            "SelectedIconPath": "Chart/362_column_chart_1.svg",
+            "IsOldMenuPath": false,
+            "CommandList": [
+              {
+                "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                "PageName": "徽标物品报表(手机)",
+                "PassValues": []
+              }
+            ],
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ]
+          },
+          {
+            "Text": "我的",
+            "IconPath": "Mobile/387_user_2.svg",
+            "SelectedIconColor": "Accent 1 0",
+            "IconColor": "Text 1 50",
+            "SelectedIconPath": "Mobile/387_user_2.svg",
+            "IsOldMenuPath": false,
+            "CommandList": [
+              {
+                "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                "PageName": "我的(手机)",
+                "PassValues": []
+              }
+            ],
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ]
+          }
+        ],
+        "Orientation": 0,
+        "MenuLevelsStyle": [
+          {
+            "BackColor": "#FFFFFF",
+            "ForeColor": "Background 1 -35",
+            "SelectedBackColor": "Background 1 0",
+            "SelectedForeColor": "Accent 1 0",
+            "FontSize": 11.0,
+            "Bold": true,
+            "Height": 55.0,
+            "IconHeight": 32.0,
+            "IconWidth": 32.0
+          }
+        ]
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "Background": 0,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontFamily": 1,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "LightGray",
+        "Body"
+      ]
+    },
+    "CellStyles": {
+      "0,0": 0,
+      "21,0": 1,
+      "21,1": 1,
+      "21,2": 1,
+      "21,3": 1,
+      "21,4": 1,
+      "21,5": 1,
+      "21,6": 1,
+      "21,7": 1,
+      "21,8": 1,
+      "21,9": 1,
+      "21,10": 1,
+      "21,11": 1,
+      "21,12": 1,
+      "21,13": 1,
+      "21,14": 1,
+      "21,15": 1,
+      "21,16": 1,
+      "21,17": 1,
+      "22,0": 1,
+      "22,1": 1,
+      "22,2": 1,
+      "22,3": 1,
+      "22,4": 1,
+      "22,5": 1,
+      "22,6": 1,
+      "22,7": 1,
+      "22,8": 1,
+      "22,9": 1,
+      "22,10": 1,
+      "22,11": 1,
+      "22,12": 1,
+      "22,13": 1,
+      "22,14": 1,
+      "22,15": 1,
+      "22,16": 1,
+      "22,17": 1,
+      "23,0": 1,
+      "23,1": 1,
+      "23,2": 1,
+      "23,3": 1,
+      "23,4": 1,
+      "23,5": 1,
+      "23,6": 1,
+      "23,7": 1,
+      "23,8": 1,
+      "23,9": 1,
+      "23,10": 1,
+      "23,11": 1,
+      "23,12": 1,
+      "23,13": 1,
+      "23,14": 1,
+      "23,15": 1,
+      "23,16": 1,
+      "23,17": 1
+    },
+    "RowStyles": {
+      "21": 2,
+      "22": 2,
+      "23": 2
+    },
+    "SheetStyle": {
+      "FontFamily": 1,
+      "BorderBottom": null,
+      "BorderTop": null,
+      "BorderLeft": null,
+      "BorderRight": null
+    }
+  },
+  "Spans": [
+    "0,0,21,18",
+    "21,0,3,18"
+  ],
+  "BackgroundPictures": [
+    {
+      "ForguncyPictureName": "MobileMasterBanner",
+      "Stretch": 3,
+      "ForguncyPictureSourceType": 2,
+      "Name": "4fa49779-6b2b-4bc6-9071-e78380043cf5",
+      "Size": "360,0"
+    },
+    {
+      "StyleInfo": {
+        "Fill": "#FFF2F2F2"
+      },
+      "IsAutomaticFill": false,
+      "Name": "c74ee05b-8123-4c66-9045-81292317010e.png",
+      "Size": "360,480"
+    }
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.MasterPage, ServerDesignerCommon",
+    "IsMobilePage": true,
+    "PageResponsiveMode": 4
+  },
+  "PrintInfo": {
+    "Margin": {},
+    "PaperSize": {}
+  }
+}//0qGFZlCi/KXw+PEahQVYhxtwqoAdlA+3VdVE5NGzwPVzW6KUgC8RfzDu0q1CM7PziKIUPF1c+wBAJ8um72NxSGioDK9HR70lKF/IJiOiQxfEWprFtplPA9Gfcah7zEBGEGafhyIWtbB0E+1PPhKXarqWP+XuwhAIYREb5zwrqj2Hf+ksd5Ymv/sdI6EtE1DvxdIrBItPp+NEx3E0ecgP7hs5LVPI2EDel5xoDSAjpA9UYzBPA/CmVg06DrOcA/4f2OwlWmA0WtrTAbNb0x2ax/g9s4wW81k/sA5sl+/4oEsyujl5+0IF8awVBIqBeb40PCV+apQEJqLRkRnXOu4/NPS8znQpiUp0xJhcYikCDD8GR56YVqaQpaD6kEHHO5yhweb5iyISVAmPQeRSIVCgHkS4r/R1KTguvvPt21IJk+AN2Tgg2lNKtwSYP+upJK6dWindcnrNDkSnENd/12tnC87oUF5NvmZD0qhuuql3e+Q3o2AMU+fwpir6U6Fg3cPxOKrZrBtcyKnW72oxc60LX7+CBLbH8xg7Ph6lStgJtEO86WWAWDalH9iG9JffHCaIa06JRsbUh09L+yIcXI0X1LF961vA7ooa2/Cx2nzz3u4F+8x+yYdeg/3n2Ys2JfJjPxsRvwFWYZmf7bC9kVZhxxWVgeHtzXq1UDfhnCJW4acuRklj5J1lGphxiaCYcWgM54P7TyCRPSIxBsPqJfnlihBCGKIMusnlrwXBRrAK9UdFokb/rLO95Jqo6ZpeF0223BbNz2weVDgV1jZAQiFZE4+mfNdzS1Zv/9QjOUwYJdkDHk7AkjMAQTYqt2nHeuMTd1gKPh3kSWjrv/NWHaEcHi7hLC3i3JIUKtfXy+K8Yrg49Xtf9bsDGpXxvsBSPxlgwjTWXoHXM9FmOqddhizObA==|920

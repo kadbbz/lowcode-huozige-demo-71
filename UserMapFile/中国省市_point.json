@@ -1,0 +1,277 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [ 111.5547, 22.1484 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": { "name": "澳门" }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 114.1178, 22.3242 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": { "name": "香港" }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 121.4648, 31.2891 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": { "name": "上海" }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 117.4219, 39.4189 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": { "name": "天津" }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 116.4551, 40.2539 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": { "name": "北京" }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 120.0254, 23.5986 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": { "name": "台湾" }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 109.9512, 19.2041 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": { "name": "海南" }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 105.9961, 37.3096 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": { "name": "宁夏" }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 107.7539, 30.1904 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": { "name": "重庆" }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 118.8586, 32.915 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": { "name": "江苏" }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 120.498, 29.0918 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": { "name": "浙江" }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 118.3008, 25.9277 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": { "name": "福建" }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 117.2461, 32.0361 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": { "name": "安徽" }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 112.4121, 37.6611 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": { "name": "山西" }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 122.0438, 41.0889 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": { "name": "辽宁" }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 113.0668, 33.8818 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": { "name": "河南" }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 116.0156, 27.29 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": { "name": "江西" }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 118.7402, 36.4307 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": { "name": "山东" }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 106.6113, 26.9385 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": { "name": "贵州" }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 112.2363, 31.1572 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": { "name": "湖北" }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 115.4004, 39.4688 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": { "name": "河北" }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 125.7746, 43.5938 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": { "name": "吉林" }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 113.4668, 22.8076 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": { "name": "广东" }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 109.5996, 35.7396 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": { "name": "陕西" }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 111.5332, 27.3779 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": { "name": "湖南" }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 107.7813, 23.6426 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": { "name": "广西" }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 101.0652, 25.1807 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": { "name": "云南" }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 103.05, 37.64 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": { "name": "甘肃" }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 126.1445, 48.7156 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": { "name": "黑龙江" }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 101.9199, 30.1904 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": { "name": "四川" }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 95.2402, 35.4199 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": { "name": "青海" }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 113.9, 43.26 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": { "name": "内蒙古" }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 87.8695, 31.6846 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": { "name": "西藏" }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 84.9023, 42.148 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": { "name": "新疆" }
+    }
+  ],
+  "type": "FeatureCollection"
+}

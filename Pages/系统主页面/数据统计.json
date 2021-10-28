@@ -1,0 +1,1078 @@
+{
+  "Rows": {
+    "RowColumnAttachedInfos": {
+      "2": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 15.0
+        }
+      },
+      "3": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "4": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 10.0
+        }
+      },
+      "7": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 25.0
+        }
+      },
+      "17": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      }
+    },
+    "Count": 29
+  },
+  "Cols": {
+    "RowColumnAttachedInfos": {
+      "8": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "26": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "43": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "52": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 58.0,
+          "IsHidden": true
+        }
+      },
+      "53": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 58.0,
+          "IsHidden": true
+        }
+      },
+      "54": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 58.0,
+          "IsHidden": true
+        }
+      },
+      "55": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 58.0,
+          "IsHidden": true
+        }
+      },
+      "56": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 58.0,
+          "IsHidden": true
+        }
+      },
+      "57": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 58.0,
+          "IsHidden": true
+        }
+      },
+      "58": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 58.0,
+          "IsHidden": true
+        }
+      },
+      "59": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 58.0,
+          "IsHidden": true
+        }
+      }
+    },
+    "InLogicalVisibleIndexes": [
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59
+    ],
+    "Count": 60
+  },
+  "Values": {
+    "1,53": "销售总金额",
+    "2,53": "年度",
+    "2,54": "销售额",
+    "3,7": "销售总金额",
+    "3,24": "门店总数",
+    "3,41": "会员总数",
+    "7,53": "门店总数",
+    "13,53": "会员数"
+  },
+  "Formulas": {
+    "5,3": "SUM(BC4)",
+    "5,20": "SUM(BB10)",
+    "5,37": "SUM(BB16)"
+  },
+  "AttachInfos": {
+    "2,53": {
+      "ListViewInfo": {
+        "ShowColumnHeaderInDesigner": true,
+        "TableName": "销售信息",
+        "RowIndex": 2,
+        "ColumnIndex": 53,
+        "ColumnCount": 3,
+        "RowCount": 4,
+        "ColumnOperation": 2,
+        "ShowGridLine": true,
+        "Name": "表格1",
+        "TopCondition": null,
+        "ListViewStyleName": "_RS_Medium2"
+      }
+    },
+    "3,53": {
+      "BindingInfo": {
+        "TableName": "销售信息",
+        "ColumnName": "销售日期",
+        "AttachType": {
+          "$type": "ForguncyDataAccess.DateColumnAttachObj, ForguncyDataAccess",
+          "ColumnAttachType": 1
+        }
+      }
+    },
+    "3,54": {
+      "BindingInfo": {
+        "TableName": "销售信息",
+        "ColumnName": "销售总计"
+      }
+    },
+    "8,53": {
+      "ListViewInfo": {
+        "ShowColumnHeaderInDesigner": true,
+        "TableName": "店铺信息",
+        "RowIndex": 8,
+        "ColumnIndex": 53,
+        "ColumnCount": 3,
+        "RowCount": 4,
+        "ColumnOperation": 2,
+        "ShowGridLine": true,
+        "Name": "表格2",
+        "SqlCondition": {
+          "$type": "ForguncyDataAccess.GeneralCESqlCondition, ForguncyDataAccess",
+          "ColumnBindingInfo": {
+            "TableName": "店铺信息",
+            "ColumnName": "关店时间"
+          },
+          "Value": "%Null%",
+          "Id": "f57ae19a-1284-4eec-849e-139ae11a3aba"
+        },
+        "TopCondition": null,
+        "ListViewStyleName": "_RS_Medium2"
+      }
+    },
+    "9,53": {
+      "BindingInfo": {
+        "TableName": "店铺信息",
+        "ColumnName": "店铺数"
+      }
+    },
+    "14,53": {
+      "ListViewInfo": {
+        "ShowColumnHeaderInDesigner": true,
+        "TableName": "会员信息",
+        "RowIndex": 14,
+        "ColumnIndex": 53,
+        "ColumnCount": 3,
+        "RowCount": 4,
+        "ColumnOperation": 2,
+        "ShowGridLine": true,
+        "Name": "表格3",
+        "TopCondition": null,
+        "ListViewStyleName": "_RS_Medium2"
+      }
+    },
+    "15,53": {
+      "BindingInfo": {
+        "TableName": "会员信息",
+        "ColumnName": "人数"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "FontFamily": 0
+      },
+      {
+        "Formatter": 1
+      },
+      {
+        "Formatter": 1,
+        "BorderBottom": null,
+        "BorderTop": 0,
+        "BorderLeft": 0,
+        "BorderRight": null
+      },
+      {
+        "Formatter": 1,
+        "BorderTop": 0
+      },
+      {
+        "BorderTop": 0,
+        "BorderRight": 0
+      },
+      {
+        "FontFamily": 0,
+        "Foreground": 3,
+        "Formatter": 1,
+        "VerticalAlignment": 4
+      },
+      {
+        "FontFamily": 0,
+        "FontSize": 37.333332061767578,
+        "FontWeight": 5,
+        "Foreground": 3,
+        "HorizontalAlignment": 6,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontFamily": 0,
+        "Foreground": 3,
+        "Formatter": 1,
+        "HorizontalAlignment": 7,
+        "VerticalAlignment": 4
+      },
+      {
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontFamily": 0,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": 0,
+        "BorderRight": null
+      },
+      {
+        "BorderRight": 0
+      },
+      {
+        "Background": null,
+        "FontFamily": 0,
+        "FontStretch": 8,
+        "FontStyle": 8,
+        "FontWeight": 8,
+        "Foreground": null,
+        "Formatter": null,
+        "TextIndent": 0,
+        "HorizontalAlignment": 9,
+        "VerticalAlignment": 7,
+        "WordWrap": false,
+        "Underline": false,
+        "Strikethrough": false,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": 0,
+        "BorderRight": null
+      },
+      {
+        "Background": null,
+        "FontFamily": 0,
+        "FontStretch": 8,
+        "FontStyle": 8,
+        "FontWeight": 8,
+        "Foreground": null,
+        "Formatter": null,
+        "TextIndent": 0,
+        "HorizontalAlignment": 9,
+        "VerticalAlignment": 7,
+        "WordWrap": false,
+        "Underline": false,
+        "Strikethrough": false,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Background": null,
+        "FontFamily": 0,
+        "FontStretch": 8,
+        "FontStyle": 8,
+        "FontWeight": 8,
+        "Foreground": null,
+        "Formatter": null,
+        "TextIndent": 0,
+        "HorizontalAlignment": 9,
+        "VerticalAlignment": 7,
+        "WordWrap": false,
+        "Underline": false,
+        "Strikethrough": false,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": 0
+      },
+      {
+        "FontFamily": 0,
+        "FontSize": 26.666666030883789,
+        "FontWeight": 5,
+        "Foreground": 3,
+        "Formatter": 10,
+        "HorizontalAlignment": 7,
+        "VerticalAlignment": 11
+      },
+      {
+        "FontFamily": 0,
+        "FontSize": 34.666666666666664,
+        "FontWeight": 5,
+        "Foreground": 3,
+        "HorizontalAlignment": 7,
+        "VerticalAlignment": 11
+      },
+      {
+        "Background": null,
+        "FontFamily": 0,
+        "FontStretch": 8,
+        "FontStyle": 8,
+        "FontWeight": 8,
+        "Foreground": null,
+        "Formatter": null,
+        "TextIndent": 0,
+        "HorizontalAlignment": 9,
+        "VerticalAlignment": 7,
+        "WordWrap": false,
+        "Underline": false,
+        "Strikethrough": false,
+        "BorderBottom": 0,
+        "BorderTop": null,
+        "BorderLeft": 0,
+        "BorderRight": null
+      },
+      {
+        "Background": null,
+        "FontFamily": 0,
+        "FontStretch": 8,
+        "FontStyle": 8,
+        "FontWeight": 8,
+        "Foreground": null,
+        "Formatter": null,
+        "TextIndent": 0,
+        "HorizontalAlignment": 9,
+        "VerticalAlignment": 7,
+        "WordWrap": false,
+        "Underline": false,
+        "Strikethrough": false,
+        "BorderBottom": 0,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Background": null,
+        "FontFamily": 0,
+        "FontStretch": 8,
+        "FontStyle": 8,
+        "FontWeight": 8,
+        "Foreground": null,
+        "Formatter": null,
+        "TextIndent": 0,
+        "HorizontalAlignment": 9,
+        "VerticalAlignment": 7,
+        "WordWrap": false,
+        "Underline": false,
+        "Strikethrough": false,
+        "BorderBottom": 0,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": 0
+      },
+      {
+        "BorderBottom": null,
+        "BorderTop": 0,
+        "BorderLeft": 0,
+        "BorderRight": null
+      },
+      {
+        "BorderTop": 0
+      },
+      {
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": 0,
+        "BorderRight": null
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "Body",
+        "[AUTO]General",
+        "DarkGray",
+        "Background 1 0",
+        "Bottom",
+        "Bold",
+        "Right",
+        "Center",
+        "Normal",
+        "General",
+        " ¥#,##0.00;[Red] ¥-#,##0.00",
+        "Top"
+      ],
+      "Borders": [
+        {
+          "Color": 2
+        }
+      ]
+    },
+    "CellStyles": {
+      "0,2": 0,
+      "0,3": 0,
+      "0,4": 0,
+      "0,5": 0,
+      "0,6": 0,
+      "0,7": 0,
+      "0,8": 0,
+      "0,9": 0,
+      "0,10": 0,
+      "0,11": 0,
+      "0,12": 0,
+      "0,13": 0,
+      "0,14": 0,
+      "0,15": 0,
+      "0,16": 0,
+      "0,17": 0,
+      "0,18": 0,
+      "0,19": 0,
+      "0,20": 0,
+      "0,21": 0,
+      "0,22": 0,
+      "0,23": 0,
+      "0,24": 0,
+      "0,25": 0,
+      "0,26": 0,
+      "0,27": 0,
+      "0,28": 0,
+      "0,29": 0,
+      "0,30": 0,
+      "0,31": 0,
+      "0,32": 0,
+      "0,33": 0,
+      "0,34": 0,
+      "0,35": 0,
+      "0,36": 0,
+      "0,37": 0,
+      "0,38": 0,
+      "0,39": 0,
+      "0,40": 0,
+      "0,41": 0,
+      "0,42": 0,
+      "0,43": 0,
+      "0,44": 0,
+      "0,45": 0,
+      "0,46": 0,
+      "0,47": 0,
+      "0,48": 0,
+      "0,49": 0,
+      "0,50": 0,
+      "1,6": 0,
+      "1,7": 0,
+      "1,8": 0,
+      "1,9": 0,
+      "1,10": 0,
+      "1,11": 0,
+      "1,12": 0,
+      "1,13": 0,
+      "1,14": 0,
+      "1,15": 0,
+      "1,16": 0,
+      "1,17": 0,
+      "1,18": 0,
+      "1,20": 0,
+      "1,21": 0,
+      "1,22": 0,
+      "1,23": 0,
+      "1,24": 0,
+      "1,25": 0,
+      "1,26": 0,
+      "1,27": 0,
+      "1,28": 0,
+      "1,29": 0,
+      "1,30": 0,
+      "1,31": 0,
+      "1,32": 0,
+      "1,33": 0,
+      "1,34": 0,
+      "1,35": 0,
+      "1,37": 0,
+      "1,38": 0,
+      "1,39": 0,
+      "1,40": 0,
+      "1,41": 0,
+      "1,42": 0,
+      "1,43": 0,
+      "1,44": 0,
+      "1,45": 0,
+      "1,46": 0,
+      "1,47": 0,
+      "1,48": 0,
+      "1,49": 0,
+      "1,50": 0,
+      "1,53": 1,
+      "2,2": 0,
+      "2,3": 0,
+      "2,4": 0,
+      "2,5": 0,
+      "2,6": 0,
+      "2,7": 0,
+      "2,8": 0,
+      "2,9": 0,
+      "2,10": 0,
+      "2,11": 0,
+      "2,12": 0,
+      "2,13": 0,
+      "2,14": 0,
+      "2,15": 0,
+      "2,16": 0,
+      "2,17": 0,
+      "2,18": 0,
+      "2,19": 0,
+      "2,20": 0,
+      "2,21": 0,
+      "2,22": 0,
+      "2,23": 0,
+      "2,24": 0,
+      "2,25": 0,
+      "2,26": 0,
+      "2,27": 0,
+      "2,28": 0,
+      "2,29": 0,
+      "2,30": 0,
+      "2,31": 0,
+      "2,32": 0,
+      "2,33": 0,
+      "2,34": 0,
+      "2,35": 0,
+      "2,36": 0,
+      "2,37": 0,
+      "2,38": 0,
+      "2,39": 0,
+      "2,40": 0,
+      "2,41": 0,
+      "2,42": 0,
+      "2,43": 0,
+      "2,44": 0,
+      "2,45": 0,
+      "2,46": 0,
+      "2,47": 0,
+      "2,48": 0,
+      "2,49": 0,
+      "2,50": 0,
+      "2,53": 2,
+      "2,54": 3,
+      "2,55": 4,
+      "3,2": 0,
+      "3,7": 5,
+      "3,8": 0,
+      "3,9": 0,
+      "3,10": 0,
+      "3,14": 0,
+      "3,15": 0,
+      "3,16": 0,
+      "3,17": 0,
+      "3,18": 0,
+      "3,19": 0,
+      "3,20": 0,
+      "3,22": 6,
+      "3,24": 7,
+      "3,25": 0,
+      "3,26": 0,
+      "3,27": 0,
+      "3,28": 6,
+      "3,29": 6,
+      "3,30": 6,
+      "3,31": 0,
+      "3,32": 0,
+      "3,33": 0,
+      "3,34": 0,
+      "3,35": 0,
+      "3,36": 0,
+      "3,37": 0,
+      "3,41": 7,
+      "3,42": 0,
+      "3,43": 0,
+      "3,44": 0,
+      "3,45": 6,
+      "3,46": 6,
+      "3,47": 6,
+      "3,48": 0,
+      "3,49": 0,
+      "3,50": 0,
+      "3,53": 8,
+      "3,54": 9,
+      "3,55": 10,
+      "4,2": 0,
+      "4,3": 0,
+      "4,14": 0,
+      "4,15": 0,
+      "4,16": 0,
+      "4,17": 0,
+      "4,18": 0,
+      "4,19": 0,
+      "4,20": 0,
+      "4,21": 6,
+      "4,22": 6,
+      "4,23": 6,
+      "4,24": 6,
+      "4,25": 6,
+      "4,26": 6,
+      "4,27": 6,
+      "4,28": 6,
+      "4,29": 6,
+      "4,30": 6,
+      "4,31": 0,
+      "4,32": 0,
+      "4,33": 0,
+      "4,34": 0,
+      "4,35": 0,
+      "4,36": 0,
+      "4,37": 0,
+      "4,38": 6,
+      "4,39": 6,
+      "4,40": 6,
+      "4,41": 6,
+      "4,42": 6,
+      "4,43": 6,
+      "4,44": 6,
+      "4,45": 6,
+      "4,46": 6,
+      "4,47": 6,
+      "4,48": 0,
+      "4,49": 0,
+      "4,50": 0,
+      "4,53": 11,
+      "4,54": 12,
+      "4,55": 13,
+      "5,2": 0,
+      "5,3": 14,
+      "5,15": 0,
+      "5,16": 0,
+      "5,17": 0,
+      "5,18": 0,
+      "5,19": 0,
+      "5,20": 15,
+      "5,32": 0,
+      "5,33": 0,
+      "5,34": 0,
+      "5,35": 0,
+      "5,36": 0,
+      "5,37": 15,
+      "5,49": 0,
+      "5,50": 0,
+      "5,53": 16,
+      "5,54": 17,
+      "5,55": 18,
+      "6,2": 0,
+      "6,15": 0,
+      "6,16": 0,
+      "6,17": 0,
+      "6,18": 0,
+      "6,19": 0,
+      "6,32": 0,
+      "6,33": 0,
+      "6,34": 0,
+      "6,35": 0,
+      "6,36": 0,
+      "6,49": 0,
+      "6,50": 0,
+      "7,2": 0,
+      "7,3": 0,
+      "7,4": 0,
+      "7,5": 0,
+      "7,6": 0,
+      "7,7": 0,
+      "7,8": 0,
+      "7,9": 0,
+      "7,10": 0,
+      "7,11": 0,
+      "7,12": 0,
+      "7,13": 0,
+      "7,14": 0,
+      "7,15": 0,
+      "7,16": 0,
+      "7,17": 0,
+      "7,18": 0,
+      "7,19": 0,
+      "7,20": 0,
+      "7,21": 0,
+      "7,22": 0,
+      "7,23": 0,
+      "7,24": 0,
+      "7,25": 0,
+      "7,26": 0,
+      "7,27": 0,
+      "7,28": 0,
+      "7,29": 0,
+      "7,30": 0,
+      "7,31": 0,
+      "7,32": 0,
+      "7,33": 0,
+      "7,34": 0,
+      "7,35": 0,
+      "7,36": 0,
+      "7,37": 0,
+      "7,38": 0,
+      "7,39": 0,
+      "7,40": 0,
+      "7,41": 0,
+      "7,42": 0,
+      "7,43": 0,
+      "7,44": 0,
+      "7,45": 0,
+      "7,46": 0,
+      "7,47": 0,
+      "7,48": 0,
+      "7,49": 0,
+      "7,50": 0,
+      "7,53": 1,
+      "8,2": 0,
+      "8,3": 0,
+      "8,4": 0,
+      "8,5": 0,
+      "8,6": 0,
+      "8,7": 0,
+      "8,8": 0,
+      "8,9": 0,
+      "8,10": 0,
+      "8,11": 0,
+      "8,12": 0,
+      "8,13": 0,
+      "8,14": 0,
+      "8,15": 0,
+      "8,16": 0,
+      "8,17": 0,
+      "8,18": 0,
+      "8,19": 0,
+      "8,20": 0,
+      "8,21": 0,
+      "8,22": 0,
+      "8,23": 0,
+      "8,24": 0,
+      "8,25": 0,
+      "8,26": 0,
+      "8,27": 0,
+      "8,28": 0,
+      "8,29": 0,
+      "8,30": 0,
+      "8,31": 0,
+      "8,32": 0,
+      "8,33": 0,
+      "8,34": 0,
+      "8,35": 0,
+      "8,36": 0,
+      "8,37": 0,
+      "8,38": 0,
+      "8,39": 0,
+      "8,40": 0,
+      "8,41": 0,
+      "8,42": 0,
+      "8,43": 0,
+      "8,44": 0,
+      "8,45": 0,
+      "8,46": 0,
+      "8,47": 0,
+      "8,48": 0,
+      "8,49": 0,
+      "8,50": 0,
+      "8,53": 19,
+      "8,54": 20,
+      "8,55": 4,
+      "9,53": 21,
+      "9,55": 10,
+      "10,53": 11,
+      "10,54": 12,
+      "10,55": 13,
+      "11,53": 16,
+      "11,54": 17,
+      "11,55": 18,
+      "13,53": 1,
+      "14,53": 19,
+      "14,54": 20,
+      "14,55": 4,
+      "15,53": 21,
+      "15,55": 10,
+      "16,53": 11,
+      "16,54": 12,
+      "16,55": 13,
+      "17,53": 16,
+      "17,54": 17,
+      "17,55": 18
+    },
+    "SheetStyle": {
+      "FontFamily": 0
+    }
+  },
+  "Spans": [
+    "4,53,2,3",
+    "10,53,2,3",
+    "16,53,2,3",
+    "5,3,2,12",
+    "3,7,1,4",
+    "5,20,2,12",
+    "3,24,1,4",
+    "5,37,2,12",
+    "3,41,1,4"
+  ],
+  "BackgroundPictures": [
+    {
+      "FitToBrowserWidth": true,
+      "FitToBrowserHeight": true,
+      "StyleInfo": {
+        "Fill": "Background 1 -5"
+      },
+      "IsAutomaticFill": false,
+      "Name": "770c0c2c-37fb-48a4-9cc8-07ca97736546.png",
+      "Size": "1040,580"
+    },
+    {
+      "StyleInfo": {
+        "CornerRadius": 10.0,
+        "Fill": "Accent 1 0",
+        "StrokeDashType": 8,
+        "Stroke": "black",
+        "StrokeThickness": 0.0
+      },
+      "IsAutomaticStroke": false,
+      "IsAutomaticFill": false,
+      "Name": "BackgroundPicture4",
+      "Location": "40,40",
+      "Size": "280,120",
+      "BoxShadowString": "0 0 0 5 #4B000000"
+    },
+    {
+      "StyleInfo": {
+        "CornerRadius": 10.0,
+        "Fill": "Accent 2 0",
+        "StrokeDashType": 8,
+        "Stroke": "black",
+        "StrokeThickness": 0.0
+      },
+      "IsAutomaticStroke": false,
+      "IsAutomaticFill": false,
+      "Name": "BackgroundPicture5",
+      "Location": "380,40",
+      "Size": "280,120",
+      "BoxShadowString": "0 0 0 5 #4B000000"
+    },
+    {
+      "StyleInfo": {
+        "CornerRadius": 10.0,
+        "Fill": "Accent 3 0",
+        "StrokeDashType": 8,
+        "Stroke": "black",
+        "StrokeThickness": 0.0
+      },
+      "IsAutomaticStroke": false,
+      "IsAutomaticFill": false,
+      "Name": "BackgroundPicture6",
+      "Location": "720,40",
+      "Size": "280,120",
+      "BoxShadowString": "0 0 0 5 #4B000000"
+    },
+    {
+      "StyleInfo": {
+        "CornerRadius": 14.0625,
+        "Fill": "Background 1 0",
+        "Stroke": "black",
+        "StrokeThickness": 0.0
+      },
+      "IsAutomaticStroke": false,
+      "IsAutomaticFill": false,
+      "Name": "c7c35f3a-3464-4c6b-8ba5-bd2b60d7f1ed.png",
+      "Location": "40,180",
+      "Size": "960,360",
+      "BoxShadowString": "0 0 0 5 #38000000"
+    }
+  ],
+  "Charts": [
+    {
+      "ChartType": 7,
+      "DisplayHidden": true,
+      "ChartColorPalette": {
+        "RepeatAlgorithmTint": [
+          0.0,
+          -40.0,
+          20.0,
+          -20.0,
+          40.0,
+          -50.0,
+          30.0,
+          -30.0,
+          50.0
+        ],
+        "ColorList": [
+          "Accent 1",
+          "Accent 2",
+          "Accent 3",
+          "Accent 4",
+          "Accent 5",
+          "Accent 6"
+        ]
+      },
+      "DataSeries": [
+        {
+          "ChartType": 7,
+          "Values": [],
+          "Name": "总销售额",
+          "MarkerSize": "7,7"
+        }
+      ],
+      "XAxises": [
+        {
+          "UseCustomItems": true,
+          "LabelFormatter": "General",
+          "ShowMajorGridlines": false,
+          "MajorTickStroke": "#868686",
+          "MajorUnit": 1.0,
+          "MinorTickStroke": "#868686",
+          "MinorUnit": 0.5
+        }
+      ],
+      "YAxises": [
+        {
+          "Items": [
+            0.0,
+            0.2,
+            0.4,
+            0.60000000000000009,
+            0.8,
+            1.0,
+            1.2
+          ],
+          "DisplayUnit": 1000000.0,
+          "Orientation": 1,
+          "LabelFormatter": "General",
+          "MajorTickStroke": "#868686",
+          "MajorUnit": 0.2,
+          "MinorTickStroke": "#868686",
+          "MinorUnit": 0.04,
+          "Title": {
+            "TitleType": 1,
+            "Text": "销售额（百万）",
+            "StyleInfo": {
+              "Fill": "transparent",
+              "FontFamily": "Body",
+              "FontSize": 15.0,
+              "FontStretch": "Normal",
+              "FontStyle": "Normal",
+              "FontWeight": "Normal",
+              "Foreground": null,
+              "Stroke": "transparent",
+              "StrokeThickness": 1.0
+            },
+            "IsAutomaticStroke": false,
+            "IsAutomaticFill": false
+          }
+        },
+        {
+          "Orientation": 1,
+          "LabelFormatter": "General",
+          "ShowMajorGridlines": false,
+          "MajorTickStroke": "#868686",
+          "MajorUnit": 1.0,
+          "MinorTickStroke": "#868686",
+          "MinorUnit": 0.02,
+          "Visible": false,
+          "AxisPosition": 1
+        }
+      ],
+      "Legend": {},
+      "PlotArea": {},
+      "Tag": {
+        "$type": "Forguncy.Model.ChartDataMapping, ServerDesignerCommon",
+        "ChartName": "Chart1",
+        "DataSeriesMapping": [
+          {
+            "SheetName": "数据统计",
+            "ListViewName": "表格1",
+            "ListViewColumnFormula": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "=数据统计!BC4"
+            }
+          }
+        ],
+        "ItemsMapping": {
+          "SheetName": "数据统计",
+          "ListViewName": "表格1",
+          "ListViewColumnFormula": {
+            "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+            "SerializeProperty": "=数据统计!BB4"
+          }
+        }
+      },
+      "StyleInfo": {
+        "Fill": "Background 1",
+        "Stroke": "Background 1 -25",
+        "StrokeThickness": 0.0
+      },
+      "IsAutomaticStroke": false,
+      "IsAutomaticFill": false,
+      "Name": "Chart1",
+      "Location": "59,203",
+      "Size": "925,324"
+    }
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "MasterPageName": "母版页",
+    "AuthorizeInfo": {
+      "VisitMode": 2
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
+  },
+  "PrintInfo": {
+    "Margin": {},
+    "PaperSize": {}
+  }
+}//Ppq6/NefgDRNhH3Qyb+CzLiEwrDw0sRq1dfblT2uBEC58UkVyg0IWFFVIwyHcVPCGttMlMLGJwEZktJCrS0o/h+aT1V9eRkML6n5j0r3TACyQBIEUm34IL8LGtoT3MFV93LHwZdJCKY6h8qDrFcbgorifOTIusln8cnJN5MVk4B6LBNvOAGmcRjNR7UF4I442DQG3FU37jvOEPaDhd8oTzRa7ZERFuknD9XhitjDxrMKCG1YGMjBHJZ9L5J64sRvGp3dgI9r5pp6riSGIxtvkHTbAZfx4MgfoMHmDRNnoJzZ0vnhpsMnjNuP4DsGk+TLikZDB60TdKv05d818n7QP2oy+dMPyr3RukiH6Wh4qcm4a1oU/+cTVyU44OxlXKr/CDxyo+d0albPnRn5cfs7aesbisEict3+EUFHKuCt+hW20aFhn0rk0cqiWIlldVtMd7OI36i2I1LZgrmLNMQw+CdS1/23/ml4n4N1hYu0Nbq0/Bw2wt/3+vuqroHmxmDChZwCkyEJJFixG83tpCMosYUem9XZocByKKMahe7T0MVMQkR3fk0LGoxflZLvO1OItMSFgK4tj56L832Z51atcGLzqhuAp0LouK3HpMcBXBtNF8w2HOJ+agqMU/U1IGpIdoa8UE/paGyBKvThfZ7HeStte0gguRdqg+Zdo4zNiXWM4KKzsubFOdrUZRiWHxtQzPVR5WQ/b0eVs5hpRySDGTVlIHvZaUyB9HMj33p0tnpnyKATXq5Azpwy053F2uv3TAJEXUyVoXNycwvq4mc1hChoyz3taKpdcNANgt5xFulXKHSkeWZObZscFgQU2GkLzWXSV6Chfw9XIYislUKYjFVoJF2ky0zJ4QLeyYkMHECS4Sf3uV9u+3ZMdjVpck8asOOfCgS5h5MEyZox8z1tHg==|920

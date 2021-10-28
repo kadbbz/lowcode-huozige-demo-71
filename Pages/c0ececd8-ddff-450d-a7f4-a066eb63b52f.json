@@ -1,0 +1,365 @@
+{
+  "Rows": {
+    "RowColumnAttachedInfos": {
+      "1": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 10.0
+        }
+      },
+      "2": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0
+        }
+      },
+      "3": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 15.0
+        }
+      },
+      "4": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 15.0
+        }
+      },
+      "5": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0
+        }
+      },
+      "6": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 10.0
+        }
+      }
+    },
+    "Count": 8,
+    "DefaultSize": 5.0
+  },
+  "Cols": {
+    "RowColumnAttachedInfos": {
+      "0": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 15.0
+        }
+      },
+      "1": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 10.0
+        }
+      },
+      "2": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "17": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 10.0
+        }
+      },
+      "18": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 15.0
+        }
+      }
+    },
+    "Count": 19
+  },
+  "AttachInfos": {
+    "2,3": {
+      "TemplateCellSource": "物品名称"
+    },
+    "3,2": {
+      "CellType": {
+        "$type": "Forguncy.ImageCellType, ServerDesignerCommon"
+      },
+      "TemplateCellSource": "图标"
+    },
+    "4,3": {
+      "TemplateCellSource": "是否出入库数量"
+    },
+    "4,7": {
+      "TemplateCellSource": "数量"
+    },
+    "4,9": {
+      "TemplateCellSource": "是否出入库日期"
+    },
+    "4,13": {
+      "TemplateCellSource": "出入库日期"
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Foreground": 0,
+        "TextIndent": 10,
+        "HorizontalAlignment": 1,
+        "VerticalAlignment": 2
+      },
+      {
+        "TextIndent": 10,
+        "HorizontalAlignment": 1,
+        "VerticalAlignment": 2,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "HorizontalAlignment": 1,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontFamily": 3,
+        "FontStretch": 4,
+        "FontStyle": 4,
+        "FontWeight": 4,
+        "Foreground": null,
+        "Formatter": null,
+        "TextIndent": 0,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 6,
+        "WordWrap": false,
+        "Underline": false,
+        "Strikethrough": false,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Foreground": 7,
+        "HorizontalAlignment": 8
+      },
+      {
+        "Foreground": 0,
+        "HorizontalAlignment": 1
+      },
+      {
+        "Background": null,
+        "FontFamily": 3,
+        "FontStretch": 4,
+        "FontStyle": 4,
+        "FontWeight": 4,
+        "Foreground": 7,
+        "Formatter": null,
+        "TextIndent": 0,
+        "HorizontalAlignment": 8,
+        "VerticalAlignment": 6,
+        "WordWrap": false,
+        "Underline": false,
+        "Strikethrough": false
+      },
+      {
+        "Background": null,
+        "FontFamily": 3,
+        "FontStretch": 4,
+        "FontStyle": 4,
+        "FontWeight": 4,
+        "Foreground": 0,
+        "Formatter": 9,
+        "TextIndent": 0,
+        "HorizontalAlignment": 1,
+        "VerticalAlignment": 6,
+        "WordWrap": false,
+        "Underline": false,
+        "Strikethrough": false,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Background": null,
+        "FontFamily": 3,
+        "FontStretch": 4,
+        "FontStyle": 4,
+        "FontWeight": 4,
+        "Foreground": null,
+        "Formatter": 9,
+        "TextIndent": 0,
+        "HorizontalAlignment": 1,
+        "VerticalAlignment": 6,
+        "WordWrap": false,
+        "Underline": false,
+        "Strikethrough": false,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Formatter": 10,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Formatter": 10
+      },
+      {
+        "Background": null,
+        "FontFamily": 3,
+        "FontStretch": 4,
+        "FontStyle": 4,
+        "FontWeight": 4,
+        "Foreground": 7,
+        "Formatter": null,
+        "TextIndent": 10,
+        "HorizontalAlignment": 8,
+        "VerticalAlignment": 6,
+        "WordWrap": false,
+        "Underline": false,
+        "Strikethrough": false
+      },
+      {
+        "Background": null,
+        "FontFamily": 3,
+        "FontStretch": 4,
+        "FontStyle": 4,
+        "FontWeight": 4,
+        "Foreground": 0,
+        "Formatter": 9,
+        "TextIndent": 0,
+        "HorizontalAlignment": 1,
+        "VerticalAlignment": 6,
+        "WordWrap": false,
+        "Underline": false,
+        "Strikethrough": false
+      },
+      {
+        "HorizontalAlignment": 1
+      },
+      {
+        "Background": null,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "Text 1 25",
+        "Left",
+        "Bottom",
+        "Body",
+        "Normal",
+        "General",
+        "Center",
+        "Background 1 -35",
+        "Right",
+        "yyyy/m/d",
+        "[AUTO]General"
+      ]
+    },
+    "CellStyles": {
+      "0,18": 0,
+      "2,3": 1,
+      "2,17": 2,
+      "2,18": 3,
+      "3,2": 4,
+      "3,17": 2,
+      "3,18": 3,
+      "4,2": 4,
+      "4,3": 5,
+      "4,7": 6,
+      "4,9": 7,
+      "4,13": 8,
+      "4,14": 9,
+      "4,15": 9,
+      "4,16": 9,
+      "4,18": 3,
+      "5,2": 10,
+      "5,13": 9,
+      "5,14": 9,
+      "5,15": 9,
+      "5,16": 9,
+      "5,18": 3,
+      "6,2": 11,
+      "6,3": 5,
+      "6,4": 5,
+      "6,5": 5,
+      "6,6": 5,
+      "6,7": 6,
+      "6,8": 6,
+      "6,9": 12,
+      "6,10": 12,
+      "6,11": 12,
+      "6,12": 12,
+      "6,13": 13,
+      "6,14": 13,
+      "6,15": 13,
+      "6,16": 13,
+      "6,18": 14,
+      "7,18": 0
+    },
+    "RowStyles": {
+      "0": 15,
+      "1": 15,
+      "7": 15
+    },
+    "SheetStyle": {
+      "Background": null,
+      "FontFamily": 3,
+      "FontStretch": 4,
+      "FontStyle": 4,
+      "FontWeight": 4,
+      "Foreground": null,
+      "Formatter": null,
+      "TextIndent": 0,
+      "HorizontalAlignment": 5,
+      "VerticalAlignment": 6,
+      "WordWrap": false,
+      "Underline": false,
+      "Strikethrough": false,
+      "BorderBottom": null,
+      "BorderTop": null,
+      "BorderLeft": null,
+      "BorderRight": null
+    }
+  },
+  "Spans": [
+    "3,2,2,1",
+    "4,3,2,4",
+    "4,7,2,2",
+    "4,13,2,4",
+    "2,3,2,14",
+    "4,9,2,4"
+  ],
+  "BackgroundPictures": [
+    {
+      "StyleInfo": {
+        "CornerRadius": 4.140625,
+        "Fill": "Background 1 0",
+        "StrokeDashType": 8,
+        "Stroke": "black",
+        "StrokeThickness": 0.0
+      },
+      "IsAutomaticStroke": false,
+      "IsAutomaticFill": false,
+      "Name": "c1106ff0-9530-435f-b526-e8bfa969073a.png",
+      "Location": "15,5",
+      "Size": "330,90"
+    }
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.TemplatePage, ServerDesignerCommon",
+    "ParentPageName": "首页(手机)",
+    "IsMobilePage": true
+  },
+  "PrintInfo": {
+    "Margin": {},
+    "PaperSize": {}
+  }
+}//l57DTOG0cJMor7Smhp+o52XU5CSsF3YsoKZcwbvljZhMZRoLgb3POb30WmixSHT8qT8b4+9/y49Ky1B+FK8QCncFOWpX++tsWHaeaic1BH0Iuo/nR7iefNu+EIZf+9csB99uGrufHSV9ib1bvnPyB1Sgfijpp+bST4/EIWYZdj+zeXGPnTA5XRMsv18cC+8FQHU5RgJ9ZadgsJcxuubDQzYxH9hnq3HPSmD7jwkGKwRdzBlOsksjzR3cabCG98ec1H3IfEo83Ul4JZFv9jtBClgJi6oPIaMJpZufRWniF96XmYSd2iDhMvpbYFNugdF4Cn1cYTWnIhTNLjQXKnO5Lex+MHBEvwc7TS+6CNE19DZsQBCt4n9AQ/XaCYDcbhpLs9ZfEJkyy2grG4sdzAh+tp7aoi2oey/nUBssQZavb7J+L2g9qB50/yVeIziZQU41bDHRvuR0VHkxtijlfsVhdaPJwDB6w5EGwXeCJUHSA1a4QrEOUIbYnMhCSmN73iDBL/5sXNppx9UplTnftF5AwDWkvQAcl/zcyfZzFZvS2F7gFcEAJZkrR5oL2CUwjO4Z5RwNxKnnmpYR55RSzmiSrqYLhGZbRHC2uPyrNwGaFHKr+/BrjwpN7jue8+S/+ZHUFdmtPuScchRVXuKzGFH9q8KALoHLFdSPS1ZOlM8B+eNELHVOPXnMOrnzfQOLA4qyrZJsr4zUxLt/ll5fRvRWKoN/ZgSZXtq+M8eiaqPHSVe6fsnR17cHqdnkT6BGIfIYNP0vzcOYEF2pt5smEmQBTRarIehYSXU47zNa8MEWA3RJuhrjMjWQXczzEJcEaeZFn3MKH1faCs84Ro0rgGjjcG9X+V3SEP78MgCSDIbPH/53mJ6Xra6BSrOQi0XFe5panhUUd0egxBIl/jcJyGk4jQ==|920

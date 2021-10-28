@@ -1,0 +1,547 @@
+{
+  "Rows": {
+    "Count": 25
+  },
+  "Cols": {
+    "Count": 18
+  },
+  "Values": {
+    "2,6": "修改密码",
+    "6,3": "原密码",
+    "10,3": "新密码",
+    "14,3": "确认新密码",
+    "19,3": "修改密码",
+    "22,3": "取消修改"
+  },
+  "AttachInfos": {
+    "7,3": {
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "ShowPassword": true,
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
+        "ForguncyAttribute": "ChangePassword_OldPassword"
+      }
+    },
+    "11,3": {
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "ShowPassword": true,
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
+        "ForguncyAttribute": "ChangePassword_NewPassword"
+      }
+    },
+    "15,3": {
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "ShowPassword": true,
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
+        "ForguncyAttribute": "ChangePassword_ConfirmPassword"
+      }
+    },
+    "19,3": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "Text": "修改密码",
+        "AutoExecute": true,
+        "TemplateKey": "_RS_Normal_Style2",
+        "ForguncyAttribute": "ChangePassword_Button"
+      }
+    },
+    "22,3": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+            "NavigateType": "back",
+            "PassValues": []
+          }
+        ],
+        "Text": "取消修改",
+        "TemplateKey": "_RS_Outline_Style2"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "BorderBottom": null
+      },
+      {
+        "BorderRight": null
+      },
+      {
+        "FontSize": 21.333333969116211,
+        "Foreground": 0,
+        "Formatter": 1,
+        "TextIndent": 0,
+        "HorizontalAlignment": 2,
+        "VerticalAlignment": 3,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "BorderLeft": null
+      },
+      {
+        "BorderBottom": 0
+      },
+      {
+        "BorderBottom": 0,
+        "BorderRight": null
+      },
+      {
+        "BorderBottom": 0,
+        "BorderLeft": null
+      },
+      {
+        "BorderTop": null
+      },
+      {
+        "FontSize": 14.666666984558105,
+        "Foreground": 5,
+        "Formatter": 1,
+        "BorderBottom": null
+      },
+      {
+        "Background": null,
+        "FontSize": 16.0,
+        "Foreground": null,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "BorderTop": null,
+        "BorderRight": null
+      },
+      {
+        "BorderBottom": null,
+        "BorderLeft": null
+      },
+      {
+        "BorderBottom": null,
+        "BorderRight": null
+      },
+      {
+        "Foreground": 6
+      },
+      {
+        "Background": null,
+        "FontSize": 16.0,
+        "FontWeight": 7,
+        "Foreground": null,
+        "Formatter": 1,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Formatter": 8,
+        "BorderTop": null
+      },
+      {
+        "Formatter": 8,
+        "BorderTop": null,
+        "BorderRight": null
+      },
+      {
+        "Formatter": 8,
+        "BorderBottom": null,
+        "BorderLeft": null
+      },
+      {
+        "Formatter": 8,
+        "BorderBottom": null
+      },
+      {
+        "Formatter": 8,
+        "BorderBottom": null,
+        "BorderRight": null
+      },
+      {
+        "BorderBottom": null,
+        "BorderTop": null
+      },
+      {
+        "Background": 9,
+        "Formatter": 8,
+        "BorderTop": null
+      },
+      {
+        "Background": 9,
+        "Formatter": 8,
+        "BorderTop": null,
+        "BorderRight": null
+      },
+      {
+        "Background": 9,
+        "Formatter": 8,
+        "BorderBottom": null,
+        "BorderLeft": null
+      },
+      {
+        "Background": 9,
+        "Formatter": 8,
+        "BorderBottom": null
+      },
+      {
+        "Background": 9,
+        "Formatter": 8,
+        "BorderBottom": null,
+        "BorderRight": null
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "#FF09519D",
+        "[AUTO]General",
+        "Center",
+        "Bottom",
+        "#FFA9BCD1",
+        "#FF7F7F7F",
+        "Accent 1 -50",
+        "Bold",
+        "General",
+        "#FFFFFFFF",
+        "Body",
+        "#FF000000"
+      ],
+      "Borders": [
+        {
+          "Color": 4
+        }
+      ]
+    },
+    "CellStyles": {
+      "1,6": 0,
+      "1,7": 0,
+      "1,8": 0,
+      "1,9": 0,
+      "1,10": 0,
+      "1,11": 0,
+      "2,5": 1,
+      "2,6": 2,
+      "2,12": 3,
+      "3,1": 4,
+      "3,2": 4,
+      "3,3": 4,
+      "3,4": 4,
+      "3,5": 5,
+      "3,12": 6,
+      "3,13": 4,
+      "3,14": 4,
+      "3,15": 4,
+      "3,16": 4,
+      "4,1": 7,
+      "4,2": 7,
+      "4,3": 7,
+      "4,4": 7,
+      "4,5": 7,
+      "4,6": 7,
+      "4,7": 7,
+      "4,8": 7,
+      "4,9": 7,
+      "4,10": 7,
+      "4,11": 7,
+      "4,12": 7,
+      "4,13": 7,
+      "4,14": 7,
+      "4,15": 7,
+      "4,16": 7,
+      "6,3": 8,
+      "6,4": 0,
+      "6,5": 0,
+      "6,6": 0,
+      "6,7": 0,
+      "6,8": 0,
+      "6,9": 0,
+      "6,10": 0,
+      "6,11": 0,
+      "6,12": 0,
+      "6,13": 0,
+      "6,14": 0,
+      "7,2": 1,
+      "7,3": 9,
+      "7,4": 7,
+      "7,5": 7,
+      "7,6": 7,
+      "7,7": 7,
+      "7,8": 7,
+      "7,9": 7,
+      "7,10": 7,
+      "7,11": 7,
+      "7,12": 7,
+      "7,13": 7,
+      "7,14": 10,
+      "7,15": 3,
+      "8,2": 1,
+      "8,3": 11,
+      "8,4": 0,
+      "8,5": 0,
+      "8,6": 0,
+      "8,7": 0,
+      "8,8": 0,
+      "8,9": 0,
+      "8,10": 0,
+      "8,11": 0,
+      "8,12": 0,
+      "8,13": 0,
+      "8,14": 12,
+      "8,15": 3,
+      "9,3": 7,
+      "9,4": 7,
+      "9,5": 7,
+      "9,6": 7,
+      "9,7": 7,
+      "9,8": 7,
+      "9,9": 7,
+      "9,10": 7,
+      "9,11": 7,
+      "9,12": 7,
+      "9,13": 7,
+      "9,14": 7,
+      "9,15": 13,
+      "10,3": 8,
+      "10,4": 0,
+      "10,5": 0,
+      "10,6": 0,
+      "10,7": 0,
+      "10,8": 0,
+      "10,9": 0,
+      "10,10": 0,
+      "10,11": 0,
+      "10,12": 0,
+      "10,13": 0,
+      "10,14": 0,
+      "11,2": 1,
+      "11,3": 9,
+      "11,4": 7,
+      "11,5": 7,
+      "11,6": 7,
+      "11,7": 7,
+      "11,8": 7,
+      "11,9": 7,
+      "11,10": 7,
+      "11,11": 7,
+      "11,12": 7,
+      "11,13": 7,
+      "11,14": 10,
+      "11,15": 3,
+      "12,2": 1,
+      "12,3": 11,
+      "12,4": 0,
+      "12,5": 0,
+      "12,6": 0,
+      "12,7": 0,
+      "12,8": 0,
+      "12,9": 0,
+      "12,10": 0,
+      "12,11": 0,
+      "12,12": 0,
+      "12,13": 0,
+      "12,14": 12,
+      "12,15": 3,
+      "13,3": 7,
+      "13,4": 7,
+      "13,5": 7,
+      "13,6": 7,
+      "13,7": 7,
+      "13,8": 7,
+      "13,9": 7,
+      "13,10": 7,
+      "13,11": 7,
+      "13,12": 7,
+      "13,13": 7,
+      "13,14": 7,
+      "14,3": 8,
+      "14,4": 0,
+      "14,5": 0,
+      "14,6": 0,
+      "14,7": 0,
+      "14,8": 0,
+      "14,9": 0,
+      "14,10": 0,
+      "14,11": 0,
+      "14,12": 0,
+      "14,13": 0,
+      "14,14": 0,
+      "15,2": 1,
+      "15,3": 9,
+      "15,4": 7,
+      "15,5": 7,
+      "15,6": 7,
+      "15,7": 7,
+      "15,8": 7,
+      "15,9": 7,
+      "15,10": 7,
+      "15,11": 7,
+      "15,12": 7,
+      "15,13": 7,
+      "15,14": 10,
+      "15,15": 3,
+      "16,2": 1,
+      "16,3": 11,
+      "16,4": 0,
+      "16,5": 0,
+      "16,6": 0,
+      "16,7": 0,
+      "16,8": 0,
+      "16,9": 0,
+      "16,10": 0,
+      "16,11": 0,
+      "16,12": 0,
+      "16,13": 0,
+      "16,14": 12,
+      "16,15": 3,
+      "17,3": 7,
+      "17,4": 7,
+      "17,5": 7,
+      "17,6": 7,
+      "17,7": 7,
+      "17,8": 7,
+      "17,9": 7,
+      "17,10": 7,
+      "17,11": 7,
+      "17,12": 7,
+      "17,13": 7,
+      "17,14": 7,
+      "18,3": 0,
+      "18,4": 0,
+      "18,5": 0,
+      "18,6": 0,
+      "18,7": 0,
+      "18,8": 0,
+      "18,9": 0,
+      "18,10": 0,
+      "18,11": 0,
+      "18,12": 0,
+      "18,13": 0,
+      "18,14": 0,
+      "19,2": 1,
+      "19,3": 14,
+      "19,4": 15,
+      "19,5": 15,
+      "19,6": 15,
+      "19,7": 15,
+      "19,8": 15,
+      "19,9": 15,
+      "19,10": 15,
+      "19,11": 15,
+      "19,12": 15,
+      "19,13": 15,
+      "19,14": 16,
+      "19,15": 3,
+      "20,2": 1,
+      "20,3": 17,
+      "20,4": 18,
+      "20,5": 18,
+      "20,6": 18,
+      "20,7": 18,
+      "20,8": 18,
+      "20,9": 18,
+      "20,10": 18,
+      "20,11": 18,
+      "20,12": 18,
+      "20,13": 18,
+      "20,14": 19,
+      "20,15": 3,
+      "21,3": 20,
+      "21,4": 20,
+      "21,5": 20,
+      "21,6": 20,
+      "21,7": 20,
+      "21,8": 20,
+      "21,9": 20,
+      "21,10": 20,
+      "21,11": 20,
+      "21,12": 20,
+      "21,13": 20,
+      "21,14": 20,
+      "22,2": 1,
+      "22,3": 14,
+      "22,4": 21,
+      "22,5": 21,
+      "22,6": 21,
+      "22,7": 21,
+      "22,8": 21,
+      "22,9": 21,
+      "22,10": 21,
+      "22,11": 21,
+      "22,12": 21,
+      "22,13": 21,
+      "22,14": 22,
+      "22,15": 3,
+      "23,2": 1,
+      "23,3": 23,
+      "23,4": 24,
+      "23,5": 24,
+      "23,6": 24,
+      "23,7": 24,
+      "23,8": 24,
+      "23,9": 24,
+      "23,10": 24,
+      "23,11": 24,
+      "23,12": 24,
+      "23,13": 24,
+      "23,14": 25,
+      "23,15": 3,
+      "24,3": 7,
+      "24,4": 7,
+      "24,5": 7,
+      "24,6": 7,
+      "24,7": 7,
+      "24,8": 7,
+      "24,9": 7,
+      "24,10": 7,
+      "24,11": 7,
+      "24,12": 7,
+      "24,13": 7,
+      "24,14": 7
+    },
+    "SheetStyle": {
+      "FontFamily": 10,
+      "FontSize": 13.333333015441895,
+      "Foreground": 11
+    }
+  },
+  "Spans": [
+    "2,6,2,6",
+    "7,3,2,12",
+    "11,3,2,12",
+    "15,3,2,12",
+    "19,3,2,12",
+    "22,3,2,12"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "Title": "修改密码",
+    "RowBreakLines": [],
+    "RepeatRangeSettings": [],
+    "IsBuiltInPage": true,
+    "IsMobilePage": true
+  },
+  "PrintInfo": {
+    "Margin": {},
+    "PaperSize": {}
+  }
+}//ZtU1XZoz8OXUhGVx9KTtJpnfHqDufh/JDwx83NCvNsf0u4D8o58sTh2ji3T83sAZn365CGE+6UOdkmvKMJGHFG+CLv48oRLAlCjsg/7i1RBIOurhUdwpq5HBbWV3WK4zzMtsMTGnYC92UjFD4jkYAxnWpzFeYXALnGOsAcOndlLDr32NLCgyGJ0iH4h889dUrgOBixHSfkGTDijc6y5oeySBvPfEmhPQe53AHoypHtJmR77f1aydfrZaPZxb5Z5uP3VRK9zdswRB38gjYFRhjFT9W7VsRdBCo/T/MREsxJ1yFOoWbxAhvYEuC35W9jUEL5N1aVxicDg62oVOf82kV1l1cztOKPnTfNCyFwaH3D0WOx1fsirW9crDlK3LyBYQIxGP/qtxmP6SJEKbppSyZNpvA2Nq+PUirCB+hXGLaSa5Lmka5oo3au8at6SKmZ8bJVMTznb2gNjnJ+Cu3aUeTFWPlVthziPonGcqB/KpsRV59Xn3nFhe7u7ANxMXKmcAwaXQSHhTiotaVCbibaBHAdtDWh/12edPwnJaB0pYB83KjejcO57srWfOTpPfCCQF/w8wQqnAZtTuWUMoetJ4TLuJA/JBeIBNhScigG1HrGIM+zEIIctlWCrSCFrdMIeX7Ftic1RcQbHc0J4NrUKUE8EXA2oReJzQJpeR8NPEiNAKF48CFKYeUCsUj1HlFenxjbY0hJnhw7wJTys+EiI+76anHkox/qnMZLdo/DAH7eE/BS1MRZniKh+qavaqhsMBz2p4jqmQlAqJ0+2OSoA2MvdD8o3vaOVEbjN3e0/kFrvuYUJYeOnAY70Yh2aHNZng4IS0Xdn9FciKlfgooAprit1xmX3wlkqyYNsIVew8NF6ErDK6y5YeCaNMlEaVpfQwDXglh9DFx8nS6qxGdWvbkQ==|920

@@ -1,0 +1,651 @@
+{
+  "Rows": {
+    "RowColumnAttachedInfos": {
+      "0": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 15.0
+        }
+      },
+      "1": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 40.0
+        }
+      },
+      "2": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 15.0
+        }
+      },
+      "4": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 10.0
+        }
+      },
+      "8": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 10.0
+        }
+      },
+      "10": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 10.0
+        }
+      },
+      "13": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0
+        }
+      },
+      "14": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 10.0
+        }
+      },
+      "15": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 45.0
+        }
+      },
+      "16": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 15.0
+        }
+      },
+      "17": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0
+        }
+      },
+      "18": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0
+        }
+      },
+      "19": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0
+        }
+      },
+      "20": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0
+        }
+      },
+      "21": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0
+        }
+      }
+    },
+    "Count": 22,
+    "DefaultSize": 50.0
+  },
+  "Cols": {
+    "Count": 18
+  },
+  "Values": {
+    "1,1": "我的页面",
+    "3,0": "我的好友",
+    "5,0": "库存列表",
+    "6,0": "物品入库",
+    "7,0": "物品出库",
+    "9,0": "安全设置",
+    "11,0": "葡萄城",
+    "12,0": "活字格",
+    "15,4": "退出登录"
+  },
+  "AttachInfos": {
+    "1,1": {
+      "CellType": {
+        "$type": "Forguncy.CurrentUserCellType, ServerDesignerCommon",
+        "CellCustomValue": "%CurrentUser%",
+        "ShowUserDisplayName": false,
+        "ShowDropDown": false,
+        "ShowNotification": false
+      }
+    },
+    "1,3": {
+      "CellType": {
+        "$type": "Forguncy.CurrentUserCellType, ServerDesignerCommon",
+        "CellCustomValue": "%CurrentUser%",
+        "ShowUserPicture": false,
+        "ShowDropDown": false,
+        "ShowNotification": false
+      }
+    },
+    "3,0": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "Text": "我的好友",
+        "TemplateKey": "移动端我的用",
+        "Icon": {
+          "Name": "Navigation/172_user_group_1.svg",
+          "BuiltIn": true,
+          "Color": "Accent 1 0"
+        },
+        "IconSize": 32.0
+      }
+    },
+    "5,0": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "Text": "库存列表",
+        "TemplateKey": "移动端我的用",
+        "Icon": {
+          "Name": "Navigation/131_list_3.svg",
+          "BuiltIn": true,
+          "Color": "Accent 1 0"
+        },
+        "IconSize": 32.0
+      }
+    },
+    "6,0": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "Text": "物品入库",
+        "TemplateKey": "移动端我的用",
+        "Icon": {
+          "Name": "Arrow/318_import_2.svg",
+          "BuiltIn": true,
+          "Color": "Accent 1 0"
+        },
+        "IconSize": 32.0
+      }
+    },
+    "7,0": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "Text": "物品出库",
+        "TemplateKey": "移动端我的用",
+        "Icon": {
+          "Name": "Arrow/320_export_2.svg",
+          "BuiltIn": true,
+          "Color": "Accent 1 0"
+        },
+        "IconSize": 32.0
+      }
+    },
+    "9,0": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "Text": "安全设置",
+        "TemplateKey": "移动端我的用",
+        "Icon": {
+          "Name": "Application/053_settings_4.svg",
+          "BuiltIn": true,
+          "Color": "Accent 1 0"
+        },
+        "IconSize": 32.0
+      }
+    },
+    "11,0": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+            "URL": "https://www.grapecity.com.cn/",
+            "PassValues": []
+          }
+        ],
+        "Text": "葡萄城",
+        "TemplateKey": "移动端我的用",
+        "Icon": {
+          "Name": "Application/115_hyperlink_2.svg",
+          "BuiltIn": true,
+          "Color": "Accent 1 0"
+        },
+        "IconSize": 32.0
+      }
+    },
+    "12,0": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+            "URL": "https://www.grapecity.com.cn/solutions/huozige",
+            "PassValues": []
+          }
+        ],
+        "Text": "活字格",
+        "TemplateKey": "移动端我的用",
+        "Icon": {
+          "Name": "Application/115_hyperlink_2.svg",
+          "BuiltIn": true,
+          "Color": "Accent 1 0"
+        },
+        "IconSize": 32.0
+      }
+    },
+    "15,4": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.ConditionCommand, ServerDesignerCommon",
+            "ConditionAndCommandPairList": [
+              {
+                "ConfirmDialogSettings": {
+                  "Title": "确认",
+                  "FormulaText": "确定要退出登录吗？",
+                  "YesButtonText": "是",
+                  "NoButtonText": "否",
+                  "ConfirmIcon": 1
+                },
+                "CommandList": [
+                  {
+                    "$type": "Forguncy.Model.RunJavaScriptCommand, ServerDesignerCommon",
+                    "JavaScript": "var command = new Forguncy.UserManagerCommand();\r\ncommand.Logout(true);",
+                    "ID": "ee28feb317d4428796f576e4bf5bfd0d"
+                  }
+                ],
+                "ID": "e6c917b0-70bd-4eb8-b3d9-340f91a26fe8"
+              }
+            ]
+          }
+        ],
+        "Text": "退出登录",
+        "TemplateKey": "_RS_RoundCorner_Style2"
+      },
+      "CellComment": {
+        "Comments": "目前用户退出功能内置在“登陆用户中”。\r\n想要通过按钮实现此功能可以编写JavaScript代码。\r\n\r\nJavaScript命令支持用户编写JavaScript代码，以实现个性化定制。",
+        "CommentHeight": 95.0,
+        "CommentWidth": 295.0
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontFamily": 0,
+        "FontSize": 21.333333969116211,
+        "Foreground": 1,
+        "Formatter": 2,
+        "TextIndent": 0,
+        "HorizontalAlignment": 3
+      },
+      {
+        "FontFamily": 0,
+        "FontSize": 20.0,
+        "Foreground": 1,
+        "TextIndent": 10,
+        "HorizontalAlignment": 4,
+        "VerticalAlignment": 5,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontFamily": 0,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontFamily": 0,
+        "Foreground": 1,
+        "TextIndent": 0,
+        "HorizontalAlignment": 5,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontFamily": 0,
+        "FontSize": 21.333333969116211,
+        "Foreground": 1,
+        "Formatter": 2,
+        "TextIndent": 0,
+        "HorizontalAlignment": 3,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontFamily": 0,
+        "FontWeight": 6,
+        "Foreground": 1,
+        "TextIndent": 10,
+        "HorizontalAlignment": 4,
+        "VerticalAlignment": 5,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontFamily": 0,
+        "Formatter": 2,
+        "TextIndent": 15,
+        "HorizontalAlignment": 4,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Background": null,
+        "FontFamily": 0,
+        "Foreground": null,
+        "Formatter": 2,
+        "TextIndent": 15,
+        "HorizontalAlignment": 4,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Foreground": 7,
+        "TextIndent": 10,
+        "HorizontalAlignment": 4,
+        "Underline": true,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Foreground": 7,
+        "TextIndent": 10,
+        "HorizontalAlignment": 4,
+        "Underline": true
+      },
+      {
+        "FontFamily": 0,
+        "FontSize": 16.0,
+        "Formatter": 2,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontSize": 16.0
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "Body",
+        "Background 1 0",
+        "[AUTO]General",
+        "Right",
+        "Left",
+        "Center",
+        "Bold",
+        "Blue"
+      ]
+    },
+    "CellStyles": {
+      "0,17": 0,
+      "1,1": 1,
+      "1,3": 2,
+      "1,4": 3,
+      "1,5": 3,
+      "1,6": 3,
+      "1,7": 3,
+      "1,8": 3,
+      "1,9": 3,
+      "1,12": 4,
+      "1,13": 4,
+      "1,17": 0,
+      "2,1": 5,
+      "2,2": 5,
+      "2,3": 1,
+      "2,4": 6,
+      "2,5": 6,
+      "2,6": 6,
+      "2,7": 6,
+      "2,8": 6,
+      "2,9": 6,
+      "2,10": 6,
+      "2,17": 0,
+      "3,0": 7,
+      "3,1": 8,
+      "3,2": 8,
+      "3,4": 8,
+      "3,5": 8,
+      "3,6": 8,
+      "3,7": 8,
+      "3,8": 8,
+      "3,9": 8,
+      "3,10": 8,
+      "3,11": 8,
+      "3,12": 8,
+      "3,13": 8,
+      "3,14": 8,
+      "3,15": 8,
+      "3,16": 8,
+      "3,17": 8,
+      "4,1": 9,
+      "4,2": 9,
+      "4,3": 10,
+      "4,4": 9,
+      "4,5": 9,
+      "4,6": 9,
+      "4,7": 9,
+      "4,8": 9,
+      "4,9": 9,
+      "4,10": 9,
+      "4,11": 9,
+      "4,12": 9,
+      "4,13": 9,
+      "4,14": 9,
+      "4,15": 9,
+      "4,16": 9,
+      "4,17": 0,
+      "5,0": 7,
+      "5,1": 8,
+      "5,2": 8,
+      "5,4": 8,
+      "5,5": 8,
+      "5,6": 8,
+      "5,7": 8,
+      "5,8": 8,
+      "5,9": 8,
+      "5,10": 8,
+      "5,11": 8,
+      "5,12": 8,
+      "5,13": 8,
+      "5,14": 8,
+      "5,15": 8,
+      "5,16": 8,
+      "5,17": 8,
+      "6,0": 7,
+      "6,1": 8,
+      "6,2": 8,
+      "6,4": 8,
+      "6,5": 8,
+      "6,6": 8,
+      "6,7": 8,
+      "6,8": 8,
+      "6,9": 8,
+      "6,10": 8,
+      "6,11": 8,
+      "6,12": 8,
+      "6,13": 8,
+      "6,14": 8,
+      "6,15": 8,
+      "6,16": 8,
+      "6,17": 8,
+      "7,0": 7,
+      "7,1": 8,
+      "7,2": 8,
+      "7,4": 8,
+      "7,5": 8,
+      "7,6": 8,
+      "7,7": 8,
+      "7,8": 8,
+      "7,9": 8,
+      "7,10": 8,
+      "7,11": 8,
+      "7,12": 8,
+      "7,13": 8,
+      "7,14": 8,
+      "7,15": 8,
+      "7,16": 8,
+      "7,17": 8,
+      "8,17": 0,
+      "9,0": 7,
+      "9,1": 8,
+      "9,2": 8,
+      "9,4": 8,
+      "9,5": 8,
+      "9,6": 8,
+      "9,7": 8,
+      "9,8": 8,
+      "9,9": 8,
+      "9,10": 8,
+      "9,11": 8,
+      "9,12": 8,
+      "9,13": 8,
+      "9,14": 8,
+      "9,15": 8,
+      "9,16": 8,
+      "9,17": 8,
+      "10,17": 0,
+      "11,0": 7,
+      "11,1": 8,
+      "11,2": 8,
+      "11,4": 8,
+      "11,5": 8,
+      "11,6": 8,
+      "11,7": 8,
+      "11,8": 8,
+      "11,9": 8,
+      "11,10": 8,
+      "11,11": 8,
+      "11,12": 8,
+      "11,13": 8,
+      "11,14": 8,
+      "11,15": 8,
+      "11,16": 8,
+      "11,17": 8,
+      "12,0": 7,
+      "12,1": 8,
+      "12,2": 8,
+      "12,4": 8,
+      "12,5": 8,
+      "12,6": 8,
+      "12,7": 8,
+      "12,8": 8,
+      "12,9": 8,
+      "12,10": 8,
+      "12,11": 8,
+      "12,12": 8,
+      "12,13": 8,
+      "12,14": 8,
+      "12,15": 8,
+      "12,16": 8,
+      "12,17": 8,
+      "13,17": 0,
+      "14,17": 0,
+      "15,0": 0,
+      "15,1": 0,
+      "15,4": 11,
+      "15,5": 3,
+      "15,6": 3,
+      "15,7": 3,
+      "15,8": 3,
+      "15,9": 3,
+      "15,10": 3,
+      "15,11": 3,
+      "15,12": 3,
+      "15,13": 3,
+      "15,15": 0,
+      "15,16": 0,
+      "15,17": 0,
+      "16,0": 0,
+      "16,1": 0,
+      "16,2": 0,
+      "16,4": 0,
+      "16,5": 0,
+      "16,6": 0,
+      "16,7": 0,
+      "16,8": 0,
+      "16,9": 0,
+      "16,10": 0,
+      "16,11": 0,
+      "16,12": 0,
+      "16,13": 0,
+      "16,14": 0,
+      "16,15": 0,
+      "16,16": 0,
+      "16,17": 0
+    },
+    "RowStyles": {
+      "3": 12,
+      "5": 12,
+      "6": 12,
+      "7": 12,
+      "9": 12,
+      "11": 12,
+      "12": 12
+    },
+    "SheetStyle": {
+      "FontFamily": 0,
+      "BorderBottom": null,
+      "BorderTop": null,
+      "BorderLeft": null,
+      "BorderRight": null
+    }
+  },
+  "Spans": [
+    "1,1,1,2",
+    "1,3,1,7",
+    "3,0,1,18",
+    "5,0,1,18",
+    "6,0,1,18",
+    "7,0,1,18",
+    "9,0,1,18",
+    "11,0,1,18",
+    "12,0,1,18",
+    "15,4,1,10"
+  ],
+  "BackgroundPictures": [
+    {
+      "FitToBrowserHeight": true,
+      "StyleInfo": {
+        "Fill": "Background 1 -5"
+      },
+      "IsAutomaticFill": false,
+      "Name": "887b7319-85e4-433e-8286-ddd5fdc31f10.png",
+      "Size": "360,560"
+    },
+    {
+      "StyleInfo": {
+        "Fill": "Accent 1 0"
+      },
+      "IsAutomaticFill": false,
+      "Name": "b013fcd4-5160-4eae-b28a-a5c1f2641c77.png",
+      "Size": "360,70"
+    }
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "MasterPageName": "母版页(手机)",
+    "AllowZoomScreen": true,
+    "AuthorizeInfo": {
+      "VisitMode": 2
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": [],
+    "IsMobilePage": true,
+    "PageResponsiveMode": 4
+  },
+  "PrintInfo": {
+    "Margin": {},
+    "PaperSize": {}
+  }
+}//LCtt7pk784n/Dxq3vNqG+fny0qT/ooEU7pTXTXO3+uLj9MHAm50tdeegvOey5g0r57s64UH4tlyepH5deGep8M/G1xJw0DzJInxl4dJDSSraZw5fopSutgl1EmOKXILAiN2ovetiOQJ4Gjx6EbEwj0mOEIUjUiHG3CutpgVXcTF5HYQhGn5Q8SInzaim9VQJfYc6WzJ6hTyB0GirWI6787lUW4Xp/pfyThYdp8GH8y4VSRJLKs2Y/vhiLC9SLj7JaYrNdFHap3ILyRgXDWvSSy1S0t1wo509w4MGGhoH4TKthg+3/MCV6Fb97WsrhI0+JhBsgkTz39mfEYz9gVjcsoYgkv7bv57kQAbPzX7Qf70eIft+4Ug3ckINNp0Y1DONo+vz+wYWHMIA7wjKreyuo/W6v/zSJyY00ZPk39bjbCy5syxnoy5/m2ll4of3ncFQu5tEvHm2gT0IQz+gSJOFghD073ZhD6k9r5Bl/XG9w7zjk9pWi7TEfsHCosFh/WeXsl2wxqvAHl5SHVN7Sj24QAhL+k+1jX0CL94EJNqMjQUcu92lCZvyfynAyc4L5fx9an0bdcmkMaj/oO48oXNVMTt8a/1xyZu0IDIP/ieF6trZiMt1qCbcbCh8HQXstlv8iP6n7ksh/O0/ahHm1iEfIgTt9nX3+ZgRhsnu2cHkQoSG7MHJayCSkMJDE6WEyDnhAct1EjHaspB5BD8tdqbwFvzqS4u0OTaQjojKxD+QLp/dNNAXgXsWrBhriFbCbpFXdC5qfwnHBdGXdi+uBEKoJ9Mk+KAgRkZvfRxmuYxZZJD2OoLmjGqOyL2idcnHt6fgrOQyqXB6jYPDx9o9uWWm0Yc8nH2wOJoNvKP+/jUcKaLFr/o5JaHwPMEWwwXaOk4KrHJdfGEL2kbbPijw6Oyi/w==|920

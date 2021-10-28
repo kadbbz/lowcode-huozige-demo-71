@@ -1,0 +1,1689 @@
+{
+  "Rows": {
+    "RowColumnAttachedInfos": {
+      "0": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 10.0
+        }
+      },
+      "1": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 5.0
+        }
+      },
+      "2": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 25.0
+        }
+      },
+      "3": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 5.0
+        }
+      },
+      "4": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 10.0
+        }
+      },
+      "5": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0
+        }
+      },
+      "6": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0
+        }
+      },
+      "7": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 552.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      }
+    },
+    "Count": 8,
+    "DefaultSize": 10.0
+  },
+  "Cols": {
+    "RowColumnAttachedInfos": {
+      "18": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "19": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "20": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "21": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "22": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "23": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "24": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "25": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "26": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "27": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "28": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "29": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "30": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "31": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "32": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "33": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "34": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "35": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "36": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "37": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "38": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "39": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "40": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "41": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "42": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "43": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "44": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "45": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "46": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "47": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "48": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "49": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "50": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "51": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "52": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "53": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "54": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      }
+    },
+    "Count": 64
+  },
+  "Values": {
+    "2,13": "功能演示"
+  },
+  "AttachInfos": {
+    "2,1": {
+      "CellType": {
+        "$type": "Forguncy.ImageCellType, ServerDesignerCommon",
+        "ImagePath": "fgc_logo_light.png"
+      }
+    },
+    "2,48": {
+      "CellType": {
+        "$type": "Forguncy.CurrentUserCellType, ServerDesignerCommon",
+        "CellCustomValue": "%CurrentUser%",
+        "NavigateSettingWhenLogout": {
+          "NavigateWhenLogoutMode": 1
+        }
+      }
+    },
+    "5,0": {
+      "CellType": {
+        "$type": "Forguncy.CustomMenu.ForguncyMenuCellType, Forguncy.CustomMenu",
+        "TemplateKey": "_RS_Dark_ThemeStyle2",
+        "Items": [
+          {
+            "Text": "系统主页面",
+            "IconPath": "Navigation/165_home_3.svg",
+            "SelectedIconColor": "Background 1",
+            "IsOldMenuPath": false,
+            "CommandList": [
+              {
+                "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                "PageName": "首页",
+                "PassValues": []
+              }
+            ],
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ],
+            "SubItems": [
+              {
+                "Text": "    卡片风格主页",
+                "SelectedIconColor": "Background 1",
+                "IsOldMenuPath": false,
+                "CommandList": [
+                  {
+                    "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                    "PageName": "卡片风格",
+                    "PassValues": [],
+                    "DeleteCachedQuery": true
+                  }
+                ],
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Text": "    大屏（销售看板）",
+                "SelectedIconColor": "Background 1",
+                "IsOldMenuPath": false,
+                "CommandList": [
+                  {
+                    "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                    "PageName": "大屏(销售信息)",
+                    "PassValues": [],
+                    "DeleteCachedQuery": true
+                  }
+                ],
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "    大屏（会员分析）",
+                "Text": "    大屏（会员分析）",
+                "SelectedIconColor": "Background 1",
+                "IsOldMenuPath": false,
+                "CommandList": [
+                  {
+                    "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                    "PageName": "大屏(会员分析)",
+                    "PassValues": [],
+                    "DeleteCachedQuery": true
+                  }
+                ],
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "    数据统计风格主页",
+                "Text": "    数据统计风格主页",
+                "SelectedIconColor": "Background 1",
+                "IsOldMenuPath": false,
+                "CommandList": [
+                  {
+                    "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                    "PageName": "数据统计",
+                    "PassValues": [],
+                    "DeleteCachedQuery": true
+                  }
+                ],
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              }
+            ]
+          },
+          {
+            "Text": "数据列表",
+            "IconPath": "Navigation/183_table_2.svg",
+            "SelectedIconColor": "Background 1",
+            "IsOldMenuPath": false,
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ],
+            "SubItems": [
+              {
+                "Text": "    基本表格",
+                "SelectedIconColor": "Background 1",
+                "IsOldMenuPath": false,
+                "Expand": false,
+                "CommandList": [
+                  {
+                    "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                    "PageName": "基本表格",
+                    "PassValues": [],
+                    "DeleteCachedQuery": true
+                  }
+                ],
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ],
+                "SubItems": [
+                  {
+                    "Value": "    自动合并",
+                    "Text": "    自动合并",
+                    "SelectedIconColor": "Background 1",
+                    "IsOldMenuPath": false,
+                    "CommandList": [
+                      {
+                        "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                        "PageName": "自动合并",
+                        "PassValues": [],
+                        "DeleteCachedQuery": true
+                      }
+                    ],
+                    "CanVisitRoleList": [
+                      "FGC_Anonymous"
+                    ]
+                  },
+                  {
+                    "Value": "    条件格式",
+                    "Text": "    条件格式",
+                    "SelectedIconColor": "Background 1",
+                    "IsOldMenuPath": false,
+                    "CommandList": [
+                      {
+                        "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                        "PageName": "条件格式",
+                        "PassValues": [],
+                        "DeleteCachedQuery": true
+                      }
+                    ],
+                    "CanVisitRoleList": [
+                      "FGC_Anonymous"
+                    ]
+                  },
+                  {
+                    "Value": "    多表头",
+                    "Text": "    多表头",
+                    "SelectedIconColor": "Background 1",
+                    "IsOldMenuPath": false,
+                    "CommandList": [
+                      {
+                        "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                        "PageName": "多表头",
+                        "PassValues": [],
+                        "DeleteCachedQuery": true
+                      }
+                    ],
+                    "CanVisitRoleList": [
+                      "FGC_Anonymous"
+                    ]
+                  },
+                  {
+                    "Value": "    按需加载",
+                    "Text": "    按需加载",
+                    "SelectedIconColor": "Background 1",
+                    "IsOldMenuPath": false,
+                    "CommandList": [
+                      {
+                        "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                        "PageName": "按需加载",
+                        "PassValues": [],
+                        "DeleteCachedQuery": true
+                      }
+                    ],
+                    "CanVisitRoleList": [
+                      "FGC_Anonymous"
+                    ]
+                  },
+                  {
+                    "Value": "    汇总行",
+                    "Text": "    汇总行",
+                    "SelectedIconColor": "Background 1",
+                    "IsOldMenuPath": false,
+                    "CommandList": [
+                      {
+                        "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                        "PageName": "汇总行",
+                        "PassValues": []
+                      }
+                    ],
+                    "CanVisitRoleList": [
+                      "FGC_Anonymous"
+                    ]
+                  }
+                ]
+              },
+              {
+                "Text": "    自定义筛选面板",
+                "SelectedIconColor": "Background 1",
+                "IsOldMenuPath": false,
+                "CommandList": [
+                  {
+                    "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                    "PageName": "自定义筛选面板",
+                    "PassValues": [],
+                    "DeleteCachedQuery": true
+                  }
+                ],
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "    图文列表",
+                "Text": "    图文列表",
+                "SelectedIconColor": "Background 1",
+                "IsOldMenuPath": false,
+                "CommandList": [
+                  {
+                    "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                    "PageName": "图文列表",
+                    "PassValues": [],
+                    "DeleteCachedQuery": true
+                  }
+                ],
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "    图文列表（卡片）",
+                "Text": "    图文列表（卡片）",
+                "SelectedIconColor": "Background 1",
+                "IsOldMenuPath": false,
+                "CommandList": [
+                  {
+                    "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                    "PageName": "图文列表(卡片)",
+                    "PassValues": [],
+                    "DeleteCachedQuery": true
+                  }
+                ],
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "    透视表",
+                "Text": "    透视表",
+                "SelectedIconColor": "Background 1",
+                "IsOldMenuPath": false,
+                "CommandList": [
+                  {
+                    "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                    "PageName": "透视表",
+                    "PassValues": [],
+                    "DeleteCachedQuery": true
+                  }
+                ],
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              }
+            ]
+          },
+          {
+            "Text": "数据录入",
+            "IconPath": "Application/031_edit_file_2.svg",
+            "SelectedIconColor": "Background 1",
+            "IsOldMenuPath": false,
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ],
+            "SubItems": [
+              {
+                "Text": "    列表数据录入",
+                "SelectedIconColor": "Background 1",
+                "IsOldMenuPath": false,
+                "Expand": false,
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ],
+                "SubItems": [
+                  {
+                    "Value": "    简单表格数据录入",
+                    "Text": "    简单表格数据录入",
+                    "SelectedIconColor": "Background 1",
+                    "IsOldMenuPath": false,
+                    "CommandList": [
+                      {
+                        "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                        "PageName": "简单表格数据录入",
+                        "PassValues": [],
+                        "DeleteCachedQuery": true
+                      }
+                    ],
+                    "CanVisitRoleList": [
+                      "FGC_Anonymous"
+                    ]
+                  },
+                  {
+                    "Value": "    交叉表数据录入",
+                    "Text": "    交叉表数据录入",
+                    "SelectedIconColor": "Background 1",
+                    "IsOldMenuPath": false,
+                    "CommandList": [
+                      {
+                        "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                        "PageName": "交叉表数据录入",
+                        "PassValues": [],
+                        "DeleteCachedQuery": true
+                      }
+                    ],
+                    "CanVisitRoleList": [
+                      "FGC_Anonymous"
+                    ]
+                  },
+                  {
+                    "Value": "    图文列表数据录入",
+                    "Text": "    图文列表数据录入",
+                    "SelectedIconColor": "Background 1",
+                    "IsOldMenuPath": false,
+                    "CommandList": [
+                      {
+                        "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                        "PageName": "图文列表数据录入",
+                        "PassValues": [],
+                        "DeleteCachedQuery": true
+                      }
+                    ],
+                    "CanVisitRoleList": [
+                      "FGC_Anonymous"
+                    ]
+                  }
+                ]
+              },
+              {
+                "Text": "    表单数据录入",
+                "SelectedIconColor": "Background 1",
+                "IsOldMenuPath": false,
+                "Expand": false,
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ],
+                "SubItems": [
+                  {
+                    "Value": "    Excel表单和标准表单切换",
+                    "Text": "    Excel表单和标准表单切换",
+                    "SelectedIconColor": "Background 1",
+                    "IsOldMenuPath": false,
+                    "CommandList": [
+                      {
+                        "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                        "PageName": "类Excel表单列表",
+                        "PassValues": []
+                      }
+                    ],
+                    "CanVisitRoleList": [
+                      "FGC_Anonymous"
+                    ]
+                  },
+                  {
+                    "Value": "    主子表表单",
+                    "Text": "    主子表表单",
+                    "SelectedIconColor": "Background 1",
+                    "IsOldMenuPath": false,
+                    "CommandList": [
+                      {
+                        "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                        "PageName": "主子表单",
+                        "PassValues": [],
+                        "DeleteCachedQuery": true
+                      }
+                    ],
+                    "CanVisitRoleList": [
+                      "FGC_Anonymous"
+                    ]
+                  },
+                  {
+                    "Value": "    多子表表单",
+                    "Text": "    多子表表单",
+                    "SelectedIconColor": "Background 1",
+                    "IsOldMenuPath": false,
+                    "CommandList": [
+                      {
+                        "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                        "PageName": "多子表单",
+                        "PassValues": [],
+                        "DeleteCachedQuery": true
+                      }
+                    ],
+                    "CanVisitRoleList": [
+                      "FGC_Anonymous"
+                    ]
+                  },
+                  {
+                    "Value": "    关联信息自动填充",
+                    "Text": "    关联信息自动填充",
+                    "SelectedIconColor": "Background 1",
+                    "IsOldMenuPath": false,
+                    "CommandList": [
+                      {
+                        "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                        "PageName": "关联信息自动填充",
+                        "PassValues": []
+                      }
+                    ],
+                    "CanVisitRoleList": [
+                      "FGC_Anonymous"
+                    ]
+                  },
+                  {
+                    "Value": "    组合框多级联动",
+                    "Text": "    组合框多级联动",
+                    "SelectedIconColor": "Background 1",
+                    "IsOldMenuPath": false,
+                    "CommandList": [
+                      {
+                        "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                        "PageName": "组合框多级联动",
+                        "PassValues": [],
+                        "DeleteCachedQuery": true,
+                        "LoadBindingDataOption": 2
+                      }
+                    ],
+                    "CanVisitRoleList": [
+                      "FGC_Anonymous"
+                    ]
+                  }
+                ]
+              },
+              {
+                "Value": "    从文件导入",
+                "Text": "    从文件导入",
+                "SelectedIconColor": "Background 1",
+                "IsOldMenuPath": false,
+                "Expand": false,
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ],
+                "SubItems": [
+                  {
+                    "Value": "    导入Excel数据",
+                    "Text": "    导入Excel数据",
+                    "SelectedIconColor": "Background 1",
+                    "IsOldMenuPath": false,
+                    "CommandList": [
+                      {
+                        "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                        "PageName": "导入Excel数据",
+                        "PassValues": []
+                      }
+                    ],
+                    "CanVisitRoleList": [
+                      "FGC_Anonymous"
+                    ]
+                  },
+                  {
+                    "Value": "    导入CSV数据",
+                    "Text": "    导入CSV数据",
+                    "SelectedIconColor": "Background 1",
+                    "IsOldMenuPath": false,
+                    "CommandList": [
+                      {
+                        "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                        "PageName": "导入CSV数据",
+                        "PassValues": [],
+                        "DeleteCachedQuery": true
+                      }
+                    ],
+                    "CanVisitRoleList": [
+                      "FGC_Anonymous"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Value": "打印及导出",
+            "Text": "打印及导出",
+            "IconPath": "Application/073_print_4.svg",
+            "SelectedIconColor": "Background 1",
+            "IsOldMenuPath": false,
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ],
+            "SubItems": [
+              {
+                "Value": "    导出表格到Excel",
+                "Text": "    导出表格到Excel",
+                "SelectedIconColor": "Background 1",
+                "IsOldMenuPath": false,
+                "CommandList": [
+                  {
+                    "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                    "PageName": "导出表格到Excel",
+                    "PassValues": [],
+                    "DeleteCachedQuery": true
+                  }
+                ],
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "    导出表单到Excel",
+                "Text": "    导出表单到Excel",
+                "SelectedIconColor": "Background 1",
+                "IsOldMenuPath": false,
+                "CommandList": [
+                  {
+                    "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                    "PageName": "导出表单到Excel",
+                    "PassValues": []
+                  }
+                ],
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "    打印票据",
+                "Text": "    打印票据",
+                "SelectedIconColor": "Background 1",
+                "IsOldMenuPath": false,
+                "CommandList": [
+                  {
+                    "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                    "PageName": "打印表单",
+                    "PassValues": []
+                  }
+                ],
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "    批量打印票据",
+                "Text": "    批量打印票据",
+                "SelectedIconColor": "Background 1",
+                "IsOldMenuPath": false,
+                "CommandList": [
+                  {
+                    "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                    "PageName": "批量打印表单",
+                    "PassValues": []
+                  }
+                ],
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              }
+            ]
+          },
+          {
+            "Value": "图表",
+            "Text": "图表",
+            "IconPath": "Chart/363_column_chart_2.svg",
+            "SelectedIconColor": "Background 1",
+            "IsOldMenuPath": false,
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ],
+            "SubItems": [
+              {
+                "Value": "    图表大屏1",
+                "Text": "    图表大屏1",
+                "SelectedIconColor": "Background 1",
+                "IsOldMenuPath": false,
+                "CommandList": [
+                  {
+                    "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                    "PageName": "图表大屏1",
+                    "PassValues": []
+                  }
+                ],
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "    图表大屏2",
+                "Text": "    图表大屏2",
+                "SelectedIconColor": "Background 1",
+                "IsOldMenuPath": false,
+                "CommandList": [
+                  {
+                    "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                    "PageName": "图表大屏2",
+                    "PassValues": []
+                  }
+                ],
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "    图表类型",
+                "Text": "    图表类型",
+                "SelectedIconColor": "Background 1",
+                "IsOldMenuPath": false,
+                "Expand": false,
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ],
+                "SubItems": [
+                  {
+                    "Value": "    柱图",
+                    "Text": "    柱图",
+                    "SelectedIconColor": "Background 1",
+                    "IsOldMenuPath": false,
+                    "CommandList": [
+                      {
+                        "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                        "PageName": "柱图",
+                        "PassValues": []
+                      }
+                    ],
+                    "CanVisitRoleList": [
+                      "FGC_Anonymous"
+                    ]
+                  },
+                  {
+                    "Value": "    饼图",
+                    "Text": "    饼图",
+                    "SelectedIconColor": "Background 1",
+                    "IsOldMenuPath": false,
+                    "CommandList": [
+                      {
+                        "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                        "PageName": "饼图",
+                        "PassValues": []
+                      }
+                    ],
+                    "CanVisitRoleList": [
+                      "FGC_Anonymous"
+                    ]
+                  },
+                  {
+                    "Value": "    线图",
+                    "Text": "    线图",
+                    "SelectedIconColor": "Background 1",
+                    "IsOldMenuPath": false,
+                    "CommandList": [
+                      {
+                        "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                        "PageName": "线图",
+                        "PassValues": []
+                      }
+                    ],
+                    "CanVisitRoleList": [
+                      "FGC_Anonymous"
+                    ]
+                  },
+                  {
+                    "Value": "    面积图",
+                    "Text": "    面积图",
+                    "SelectedIconColor": "Background 1",
+                    "IsOldMenuPath": false,
+                    "CommandList": [
+                      {
+                        "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                        "PageName": "面积图",
+                        "PassValues": []
+                      }
+                    ],
+                    "CanVisitRoleList": [
+                      "FGC_Anonymous"
+                    ]
+                  },
+                  {
+                    "Value": "    条形图",
+                    "Text": "    条形图",
+                    "SelectedIconColor": "Background 1",
+                    "IsOldMenuPath": false,
+                    "CommandList": [
+                      {
+                        "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                        "PageName": "条形图",
+                        "PassValues": []
+                      }
+                    ],
+                    "CanVisitRoleList": [
+                      "FGC_Anonymous"
+                    ]
+                  },
+                  {
+                    "Value": "    地图",
+                    "Text": "    地图",
+                    "SelectedIconColor": "Background 1",
+                    "IsOldMenuPath": false,
+                    "CommandList": [
+                      {
+                        "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                        "PageName": "地图",
+                        "PassValues": []
+                      }
+                    ],
+                    "CanVisitRoleList": [
+                      "FGC_Anonymous"
+                    ],
+                    "SubItems": [
+                      {
+                        "Value": "    自定义地图",
+                        "Text": "    自定义地图",
+                        "SelectedIconColor": "Background 1",
+                        "IsOldMenuPath": false,
+                        "CommandList": [
+                          {
+                            "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                            "PageName": "自定义地图",
+                            "PassValues": []
+                          }
+                        ],
+                        "CanVisitRoleList": [
+                          "FGC_Anonymous"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "Value": "    散点图",
+                    "Text": "    散点图",
+                    "SelectedIconColor": "Background 1",
+                    "IsOldMenuPath": false,
+                    "CommandList": [
+                      {
+                        "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                        "PageName": "散点图",
+                        "PassValues": []
+                      }
+                    ],
+                    "CanVisitRoleList": [
+                      "FGC_Anonymous"
+                    ]
+                  },
+                  {
+                    "Value": "    气泡图",
+                    "Text": "    气泡图",
+                    "SelectedIconColor": "Background 1",
+                    "IsOldMenuPath": false,
+                    "CommandList": [
+                      {
+                        "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                        "PageName": "气泡图",
+                        "PassValues": []
+                      }
+                    ],
+                    "CanVisitRoleList": [
+                      "FGC_Anonymous"
+                    ]
+                  },
+                  {
+                    "Value": "    雷达图",
+                    "Text": "    雷达图",
+                    "SelectedIconColor": "Background 1",
+                    "IsOldMenuPath": false,
+                    "CommandList": [
+                      {
+                        "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                        "PageName": "雷达图",
+                        "PassValues": []
+                      }
+                    ],
+                    "CanVisitRoleList": [
+                      "FGC_Anonymous"
+                    ]
+                  }
+                ]
+              },
+              {
+                "Value": "    图表交互",
+                "Text": "    图表交互",
+                "SelectedIconColor": "Background 1",
+                "IsOldMenuPath": false,
+                "Expand": false,
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ],
+                "SubItems": [
+                  {
+                    "Value": "    图表数据钻取1",
+                    "Text": "    图表数据钻取1",
+                    "SelectedIconColor": "Background 1",
+                    "IsOldMenuPath": false,
+                    "CommandList": [
+                      {
+                        "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                        "PageName": "图表数据钻取1",
+                        "PassValues": []
+                      }
+                    ],
+                    "CanVisitRoleList": [
+                      "FGC_Anonymous"
+                    ]
+                  },
+                  {
+                    "Value": "    图表数据钻取2",
+                    "Text": "    图表数据钻取2",
+                    "SelectedIconColor": "Background 1",
+                    "IsOldMenuPath": false,
+                    "CommandList": [
+                      {
+                        "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                        "PageName": "图表数据钻取2",
+                        "PassValues": []
+                      }
+                    ],
+                    "CanVisitRoleList": [
+                      "FGC_Anonymous"
+                    ]
+                  },
+                  {
+                    "Value": "    图表数据钻取3",
+                    "Text": "    图表数据钻取3",
+                    "SelectedIconColor": "Background 1",
+                    "IsOldMenuPath": false,
+                    "CommandList": [
+                      {
+                        "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                        "PageName": "图表数据钻取3",
+                        "PassValues": []
+                      }
+                    ],
+                    "CanVisitRoleList": [
+                      "FGC_Anonymous"
+                    ]
+                  }
+                ]
+              },
+              {
+                "Value": "    图表条件格式",
+                "Text": "    图表条件格式",
+                "SelectedIconColor": "Background 1",
+                "IsOldMenuPath": false,
+                "CommandList": [
+                  {
+                    "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                    "PageName": "图表条件格式",
+                    "PassValues": []
+                  }
+                ],
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              }
+            ]
+          }
+        ],
+        "MenuLevelsStyle": [
+          {
+            "FontSize": 18.666666666666664,
+            "Height": 40.0,
+            "IconHeight": 20.0,
+            "IconWidth": 20.0
+          },
+          {
+            "FontSize": 14.666666666666666,
+            "Height": 30.0,
+            "IconHeight": 20.0,
+            "IconWidth": 20.0
+          },
+          {
+            "FontSize": 14.666666666666666,
+            "Height": 26.0,
+            "IconHeight": 20.0,
+            "IconWidth": 20.0
+          },
+          {
+            "FontSize": 14.666666666666666,
+            "Height": 26.0,
+            "IconHeight": 20.0,
+            "IconWidth": 20.0
+          }
+        ]
+      }
+    },
+    "5,12": {
+      "IsPlaceHolderCell": true
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "Background": null,
+        "Foreground": 0,
+        "TextIndent": 5,
+        "HorizontalAlignment": 1,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontFamily": 2,
+        "HorizontalAlignment": 3
+      },
+      {
+        "FontFamily": 2
+      },
+      {
+        "FontFamily": 4,
+        "FontSize": 21.333333333333332,
+        "FontWeight": 5,
+        "Foreground": 6,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontFamily": 4,
+        "Foreground": 7,
+        "HorizontalAlignment": 8
+      },
+      {
+        "Foreground": 9,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontFamily": 4,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Background": null,
+        "Foreground": null,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Background": 10
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "#FFFFFFFF",
+        "Left",
+        "Body",
+        "Center",
+        "微软雅黑",
+        "Bold",
+        "#FF0087CE",
+        "Text 1 25",
+        "Right",
+        "Background 1 0",
+        "LightGray"
+      ]
+    },
+    "CellStyles": {
+      "0,4": 0,
+      "0,55": 1,
+      "0,56": 1,
+      "0,57": 1,
+      "0,58": 1,
+      "0,59": 1,
+      "0,60": 1,
+      "0,61": 1,
+      "0,62": 1,
+      "0,63": 1,
+      "1,10": 1,
+      "1,63": 1,
+      "2,0": 1,
+      "2,1": 2,
+      "2,2": 3,
+      "2,3": 3,
+      "2,4": 3,
+      "2,5": 3,
+      "2,6": 3,
+      "2,7": 3,
+      "2,8": 3,
+      "2,10": 1,
+      "2,11": 1,
+      "2,12": 1,
+      "2,13": 4,
+      "2,14": 1,
+      "2,15": 1,
+      "2,16": 1,
+      "2,17": 1,
+      "2,18": 1,
+      "2,19": 1,
+      "2,20": 1,
+      "2,21": 1,
+      "2,22": 1,
+      "2,23": 1,
+      "2,24": 1,
+      "2,25": 1,
+      "2,26": 1,
+      "2,27": 1,
+      "2,28": 1,
+      "2,29": 1,
+      "2,30": 1,
+      "2,31": 1,
+      "2,32": 1,
+      "2,33": 1,
+      "2,34": 1,
+      "2,35": 1,
+      "2,36": 1,
+      "2,37": 1,
+      "2,38": 1,
+      "2,39": 1,
+      "2,40": 1,
+      "2,41": 1,
+      "2,42": 1,
+      "2,43": 1,
+      "2,44": 1,
+      "2,45": 1,
+      "2,46": 1,
+      "2,47": 1,
+      "2,48": 5,
+      "2,49": 3,
+      "2,50": 3,
+      "2,51": 3,
+      "2,52": 3,
+      "2,53": 3,
+      "2,54": 3,
+      "2,55": 3,
+      "2,56": 3,
+      "2,57": 3,
+      "2,58": 3,
+      "2,59": 3,
+      "2,60": 3,
+      "2,61": 3,
+      "2,62": 3,
+      "2,63": 6,
+      "3,0": 1,
+      "3,1": 3,
+      "3,2": 3,
+      "3,3": 3,
+      "3,4": 3,
+      "3,5": 3,
+      "3,6": 3,
+      "3,7": 3,
+      "3,8": 3,
+      "3,10": 1,
+      "3,11": 1,
+      "3,12": 1,
+      "3,13": 1,
+      "3,14": 1,
+      "3,15": 1,
+      "3,16": 1,
+      "3,17": 1,
+      "3,18": 1,
+      "3,19": 1,
+      "3,20": 1,
+      "3,21": 1,
+      "3,22": 1,
+      "3,23": 1,
+      "3,24": 1,
+      "3,25": 1,
+      "3,26": 1,
+      "3,27": 1,
+      "3,28": 1,
+      "3,29": 1,
+      "3,30": 1,
+      "3,31": 1,
+      "3,32": 1,
+      "3,33": 1,
+      "3,34": 1,
+      "3,35": 1,
+      "3,36": 1,
+      "3,37": 1,
+      "3,38": 1,
+      "3,39": 1,
+      "3,40": 1,
+      "3,41": 1,
+      "3,42": 1,
+      "3,43": 1,
+      "3,44": 1,
+      "3,45": 1,
+      "3,46": 1,
+      "3,47": 1,
+      "3,63": 1,
+      "5,0": 7,
+      "5,1": 8,
+      "5,2": 8,
+      "5,3": 8,
+      "5,4": 8,
+      "5,5": 8,
+      "5,6": 8,
+      "5,7": 8,
+      "5,8": 8,
+      "5,9": 8,
+      "5,10": 8,
+      "5,11": 8,
+      "5,12": 9,
+      "6,0": 8,
+      "6,1": 8,
+      "6,2": 8,
+      "6,3": 8,
+      "6,4": 8,
+      "6,5": 8,
+      "6,6": 8,
+      "6,7": 8,
+      "6,8": 8,
+      "6,9": 8,
+      "6,10": 8,
+      "6,11": 8,
+      "7,0": 8,
+      "7,1": 8,
+      "7,2": 8,
+      "7,3": 8,
+      "7,4": 8,
+      "7,5": 8,
+      "7,6": 8,
+      "7,7": 8,
+      "7,8": 8,
+      "7,9": 8,
+      "7,10": 8,
+      "7,11": 8
+    },
+    "SheetStyle": {
+      "FontFamily": 2
+    }
+  },
+  "Spans": [
+    "5,0,3,12",
+    "5,12,3,52",
+    "2,48,1,15",
+    "2,1,2,8"
+  ],
+  "BackgroundPictures": [
+    {
+      "StyleInfo": {
+        "Fill": "#FF0087CE"
+      },
+      "IsAutomaticFill": false,
+      "Name": "be0031b6-3a48-4b4f-8910-931ee63e027c.png",
+      "Size": "240,55"
+    },
+    {
+      "StyleInfo": {
+        "Fill": "Background 1 0"
+      },
+      "IsAutomaticFill": false,
+      "Name": "d272e09f-cd71-493b-877b-83bb1213c6ec.png",
+      "Location": "240,0",
+      "Size": "1040,55"
+    }
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.MasterPage, ServerDesignerCommon"
+  },
+  "PrintInfo": {
+    "Margin": {},
+    "PaperSize": {}
+  }
+}//MtXeoslvY+qjPtru4aVOQPSLCCZ2mYbCV5aBCK1usZijk+MBOSHaZdkITiOxIJ6SnBnSEdYMwS7I/L0B7FjFaBydFzSrDvM5ZRlugRVFGVFsQuZw3Zx1B1gu8E+J+tGa80z69XffOyKlI2b7c/mIFDhtNSlYk/0X8/i2Mwh3J7z8G4jbIF7LEVH7fVl6gaHof91XyhTrGAI2QWq08qiEHhuyr9/+SWsFKwvgNHlLenmtBaJd8C7s+i7fY9L9PRYmEkdLwXv8IBT4Ys+JLpl/ngs7OgaTDtUirJFpITD62KcV/8Ug4ld18YrVJ1hhP70clDt5bQxbe7BIdPSL84CoDshwmVaZYAYl73k2D43bFBsNEOeusdmqLJngqCnD/aKyieRaeD/5QY7Zt1yiMgokNnI8qfE/W/QHMABxK14yEQtA/TvExUfYyTZ0TxWI56dBfF7jnBH4j/EnbG2H64CcnTC1vQHAcJIQVNvTNFs5ic+yWXv5Pbj1KXA9k224Tz8TZdWuhgyu5Wgn7Ziz5QWZ5dSrXY+oEnmqi16/uQXn1ivJkIDfcPLF0QSLrn8pdVIcLAe2GcxOMIJUHb3Wir64yZ7FMSWqMcjhHais2WTg1zNg9T7jmZiZNowPtil1KgyXelYDAgsfgpYaOeEb/9r9ofjqBIIWRT4ph2OQlWMPPKEpIBErRp6q/2CiFBt4C5Q9u9Mlqt+AsKRCwC/uIWvkLXWKC30/Q9R0l8mZCqlu0wb1DR00LEc+e/lXbUpXiRlAqmclikLrU4loKKc3iKAFND03qRrQjv52vf/RtD57PZbP6Zm/FXCIWRuHsvtdkpi7zUr1YY8iZkuyJdQfzn5nPz/MPVP8Bq2YkKtb+u9tr3Wg4jAON9sVyodIeZeUdP4CIBeaOkfUX2/7FGSAqqh50w==|920

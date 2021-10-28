@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CustomLibraries>
+  <UserJSFileList>
+    <Item class="Forguncy.Model.UserJSOrCssFile" assembly="ServerDesignerCommon">
+      <Name>CustomizeMapStyle.js</Name>
+    </Item>
+    <Item class="Forguncy.Model.UserJSOrCssFile" assembly="ServerDesignerCommon">
+      <Name>ga.js</Name>
+    </Item>
+  </UserJSFileList>
+</CustomLibraries>

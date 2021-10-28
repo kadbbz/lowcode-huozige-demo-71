@@ -1,0 +1,1905 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 121.15, 31.89 ]
+      },
+      "properties": {
+        "name": "海门"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 109.781327, 39.608266 ]
+      },
+      "properties": {
+        "name": "鄂尔多斯"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 120.38, 37.35 ]
+      },
+      "properties": {
+        "name": "招远"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 122.207216, 29.985295 ]
+      },
+      "properties": {
+        "name": "舟山"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 123.97, 47.33 ]
+      },
+      "properties": {
+        "name": "齐齐哈尔"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 120.13, 33.38 ]
+      },
+      "properties": {
+        "name": "盐城"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 118.87, 42.28 ]
+      },
+      "properties": {
+        "name": "赤峰"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 120.33, 36.07 ]
+      },
+      "properties": {
+        "name": "青岛"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 121.52, 36.89 ]
+      },
+      "properties": {
+        "name": "乳山"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 102.188043, 38.520089 ]
+      },
+      "properties": {
+        "name": "金昌"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 118.58, 24.93 ]
+      },
+      "properties": {
+        "name": "泉州"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 120.53, 36.86 ]
+      },
+      "properties": {
+        "name": "莱西"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 119.46, 35.42 ]
+      },
+      "properties": {
+        "name": "日照"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 119.97, 35.88 ]
+      },
+      "properties": {
+        "name": "胶南"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 121.05, 32.08 ]
+      },
+      "properties": {
+        "name": "南通"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 91.11, 29.97 ]
+      },
+      "properties": {
+        "name": "拉萨"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 112.02, 22.93 ]
+      },
+      "properties": {
+        "name": "云浮"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 116.1, 24.55 ]
+      },
+      "properties": {
+        "name": "梅州"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 122.05, 37.2 ]
+      },
+      "properties": {
+        "name": "文登"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 121.48, 31.22 ]
+      },
+      "properties": {
+        "name": "上海"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 101.718637, 26.582347 ]
+      },
+      "properties": {
+        "name": "攀枝花"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 122.1, 37.5 ]
+      },
+      "properties": {
+        "name": "威海"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 117.93, 40.97 ]
+      },
+      "properties": {
+        "name": "承德"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 118.1, 24.46 ]
+      },
+      "properties": {
+        "name": "厦门"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 115.375279, 22.786211 ]
+      },
+      "properties": {
+        "name": "汕尾"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 116.63, 23.68 ]
+      },
+      "properties": {
+        "name": "潮州"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 124.37, 40.13 ]
+      },
+      "properties": {
+        "name": "丹东"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 121.1, 31.45 ]
+      },
+      "properties": {
+        "name": "太仓"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 103.79, 25.51 ]
+      },
+      "properties": {
+        "name": "曲靖"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 121.39, 37.52 ]
+      },
+      "properties": {
+        "name": "烟台"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 119.3, 26.08 ]
+      },
+      "properties": {
+        "name": "福州"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 121.979603, 39.627114 ]
+      },
+      "properties": {
+        "name": "瓦房店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 120.45, 36.38 ]
+      },
+      "properties": {
+        "name": "即墨"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 123.97, 41.97 ]
+      },
+      "properties": {
+        "name": "抚顺"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 102.52, 24.35 ]
+      },
+      "properties": {
+        "name": "玉溪"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 114.87, 40.82 ]
+      },
+      "properties": {
+        "name": "张家口"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 113.57, 37.85 ]
+      },
+      "properties": {
+        "name": "阳泉"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 119.942327, 37.177017 ]
+      },
+      "properties": {
+        "name": "莱州"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 120.1, 30.86 ]
+      },
+      "properties": {
+        "name": "湖州"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 116.69, 23.39 ]
+      },
+      "properties": {
+        "name": "汕头"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 120.95, 31.39 ]
+      },
+      "properties": {
+        "name": "昆山"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 121.56, 29.86 ]
+      },
+      "properties": {
+        "name": "宁波"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 110.359377, 21.270708 ]
+      },
+      "properties": {
+        "name": "湛江"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 116.35, 23.55 ]
+      },
+      "properties": {
+        "name": "揭阳"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 122.41, 37.16 ]
+      },
+      "properties": {
+        "name": "荣成"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 119.16, 34.59 ]
+      },
+      "properties": {
+        "name": "连云港"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 120.836932, 40.711052 ]
+      },
+      "properties": {
+        "name": "葫芦岛"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 120.74, 31.64 ]
+      },
+      "properties": {
+        "name": "常熟"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 113.75, 23.04 ]
+      },
+      "properties": {
+        "name": "东莞"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 114.68, 23.73 ]
+      },
+      "properties": {
+        "name": "河源"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 119.15, 33.5 ]
+      },
+      "properties": {
+        "name": "淮安"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 119.9, 32.49 ]
+      },
+      "properties": {
+        "name": "泰州"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 108.33, 22.84 ]
+      },
+      "properties": {
+        "name": "南宁"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 122.18, 40.65 ]
+      },
+      "properties": {
+        "name": "营口"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 114.4, 23.09 ]
+      },
+      "properties": {
+        "name": "惠州"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 120.26, 31.91 ]
+      },
+      "properties": {
+        "name": "江阴"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 120.75, 37.8 ]
+      },
+      "properties": {
+        "name": "蓬莱"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 113.62, 24.84 ]
+      },
+      "properties": {
+        "name": "韶关"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 98.289152, 39.77313 ]
+      },
+      "properties": {
+        "name": "嘉峪关"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 113.23, 23.16 ]
+      },
+      "properties": {
+        "name": "广州"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 109.47, 36.6 ]
+      },
+      "properties": {
+        "name": "延安"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 112.53, 37.87 ]
+      },
+      "properties": {
+        "name": "太原"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 113.01, 23.7 ]
+      },
+      "properties": {
+        "name": "清远"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 113.38, 22.52 ]
+      },
+      "properties": {
+        "name": "中山"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 102.73, 25.04 ]
+      },
+      "properties": {
+        "name": "昆明"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 118.73, 36.86 ]
+      },
+      "properties": {
+        "name": "寿光"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 122.070714, 41.119997 ]
+      },
+      "properties": {
+        "name": "盘锦"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 113.08, 36.18 ]
+      },
+      "properties": {
+        "name": "长治"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 114.07, 22.62 ]
+      },
+      "properties": {
+        "name": "深圳"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 113.52, 22.3 ]
+      },
+      "properties": {
+        "name": "珠海"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 118.3, 33.96 ]
+      },
+      "properties": {
+        "name": "宿迁"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 108.72, 34.36 ]
+      },
+      "properties": {
+        "name": "咸阳"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 109.11, 35.09 ]
+      },
+      "properties": {
+        "name": "铜川"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 119.97, 36.77 ]
+      },
+      "properties": {
+        "name": "平度"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 113.11, 23.05 ]
+      },
+      "properties": {
+        "name": "佛山"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 110.35, 20.02 ]
+      },
+      "properties": {
+        "name": "海口"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 113.06, 22.61 ]
+      },
+      "properties": {
+        "name": "江门"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 117.53, 36.72 ]
+      },
+      "properties": {
+        "name": "章丘"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 112.44, 23.05 ]
+      },
+      "properties": {
+        "name": "肇庆"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 121.62, 38.92 ]
+      },
+      "properties": {
+        "name": "大连"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 111.5, 36.08 ]
+      },
+      "properties": {
+        "name": "临汾"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 120.63, 31.16 ]
+      },
+      "properties": {
+        "name": "吴江"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 106.39, 39.04 ]
+      },
+      "properties": {
+        "name": "石嘴山"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 123.38, 41.8 ]
+      },
+      "properties": {
+        "name": "沈阳"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 120.62, 31.32 ]
+      },
+      "properties": {
+        "name": "苏州"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 110.88, 21.68 ]
+      },
+      "properties": {
+        "name": "茂名"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 120.76, 30.77 ]
+      },
+      "properties": {
+        "name": "嘉兴"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 125.35, 43.88 ]
+      },
+      "properties": {
+        "name": "长春"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 120.03336, 36.264622 ]
+      },
+      "properties": {
+        "name": "胶州"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 106.27, 38.47 ]
+      },
+      "properties": {
+        "name": "银川"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 120.555821, 31.875428 ]
+      },
+      "properties": {
+        "name": "张家港"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 111.19, 34.76 ]
+      },
+      "properties": {
+        "name": "三门峡"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 121.15, 41.13 ]
+      },
+      "properties": {
+        "name": "锦州"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 115.89, 28.68 ]
+      },
+      "properties": {
+        "name": "南昌"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 109.4, 24.33 ]
+      },
+      "properties": {
+        "name": "柳州"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 109.511909, 18.252847 ]
+      },
+      "properties": {
+        "name": "三亚"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 104.778442, 29.33903 ]
+      },
+      "properties": {
+        "name": "自贡"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 126.57, 43.87 ]
+      },
+      "properties": {
+        "name": "吉林"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 111.95, 21.85 ]
+      },
+      "properties": {
+        "name": "阳江"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 105.39, 28.91 ]
+      },
+      "properties": {
+        "name": "泸州"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 101.74, 36.56 ]
+      },
+      "properties": {
+        "name": "西宁"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 104.56, 29.77 ]
+      },
+      "properties": {
+        "name": "宜宾"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 111.65, 40.82 ]
+      },
+      "properties": {
+        "name": "呼和浩特"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 104.06, 30.67 ]
+      },
+      "properties": {
+        "name": "成都"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 113.3, 40.12 ]
+      },
+      "properties": {
+        "name": "大同"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 119.44, 32.2 ]
+      },
+      "properties": {
+        "name": "镇江"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 110.28, 25.29 ]
+      },
+      "properties": {
+        "name": "桂林"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 110.479191, 29.117096 ]
+      },
+      "properties": {
+        "name": "张家界"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 119.82, 31.36 ]
+      },
+      "properties": {
+        "name": "宜兴"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 109.12, 21.49 ]
+      },
+      "properties": {
+        "name": "北海"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 108.95, 34.27 ]
+      },
+      "properties": {
+        "name": "西安"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 119.56, 31.74 ]
+      },
+      "properties": {
+        "name": "金坛"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 118.49, 37.46 ]
+      },
+      "properties": {
+        "name": "东营"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 129.58, 44.6 ]
+      },
+      "properties": {
+        "name": "牡丹江"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 106.9, 27.7 ]
+      },
+      "properties": {
+        "name": "遵义"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 120.58, 30.01 ]
+      },
+      "properties": {
+        "name": "绍兴"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 119.42, 32.39 ]
+      },
+      "properties": {
+        "name": "扬州"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 119.95, 31.79 ]
+      },
+      "properties": {
+        "name": "常州"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 119.1, 36.62 ]
+      },
+      "properties": {
+        "name": "潍坊"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 106.54, 29.59 ]
+      },
+      "properties": {
+        "name": "重庆"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 121.420757, 28.656386 ]
+      },
+      "properties": {
+        "name": "台州"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 118.78, 32.04 ]
+      },
+      "properties": {
+        "name": "南京"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 118.03, 37.36 ]
+      },
+      "properties": {
+        "name": "滨州"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 106.71, 26.57 ]
+      },
+      "properties": {
+        "name": "贵阳"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 120.29, 31.59 ]
+      },
+      "properties": {
+        "name": "无锡"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 123.73, 41.3 ]
+      },
+      "properties": {
+        "name": "本溪"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 84.77, 45.59 ]
+      },
+      "properties": {
+        "name": "克拉玛依"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 109.5, 34.52 ]
+      },
+      "properties": {
+        "name": "渭南"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 118.48, 31.56 ]
+      },
+      "properties": {
+        "name": "马鞍山"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 107.15, 34.38 ]
+      },
+      "properties": {
+        "name": "宝鸡"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 113.21, 35.24 ]
+      },
+      "properties": {
+        "name": "焦作"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 119.16, 31.95 ]
+      },
+      "properties": {
+        "name": "句容"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 116.46, 39.92 ]
+      },
+      "properties": {
+        "name": "北京"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 117.2, 34.26 ]
+      },
+      "properties": {
+        "name": "徐州"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 115.72, 37.72 ]
+      },
+      "properties": {
+        "name": "衡水"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 110, 40.58 ]
+      },
+      "properties": {
+        "name": "包头"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 104.73, 31.48 ]
+      },
+      "properties": {
+        "name": "绵阳"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 87.68, 43.77 ]
+      },
+      "properties": {
+        "name": "乌鲁木齐"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 117.57, 34.86 ]
+      },
+      "properties": {
+        "name": "枣庄"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 120.19, 30.26 ]
+      },
+      "properties": {
+        "name": "杭州"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 118.05, 36.78 ]
+      },
+      "properties": {
+        "name": "淄博"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 122.85, 41.12 ]
+      },
+      "properties": {
+        "name": "鞍山"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 119.48, 31.43 ]
+      },
+      "properties": {
+        "name": "溧阳"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 86.06, 41.68 ]
+      },
+      "properties": {
+        "name": "库尔勒"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 114.35, 36.1 ]
+      },
+      "properties": {
+        "name": "安阳"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 114.35, 34.79 ]
+      },
+      "properties": {
+        "name": "开封"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 117, 36.65 ]
+      },
+      "properties": {
+        "name": "济南"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 104.37, 31.13 ]
+      },
+      "properties": {
+        "name": "德阳"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 120.65, 28.01 ]
+      },
+      "properties": {
+        "name": "温州"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 115.97, 29.71 ]
+      },
+      "properties": {
+        "name": "九江"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 114.47, 36.6 ]
+      },
+      "properties": {
+        "name": "邯郸"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 119.72, 30.23 ]
+      },
+      "properties": {
+        "name": "临安"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 103.73, 36.03 ]
+      },
+      "properties": {
+        "name": "兰州"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 116.83, 38.33 ]
+      },
+      "properties": {
+        "name": "沧州"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 118.35, 35.05 ]
+      },
+      "properties": {
+        "name": "临沂"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 106.110698, 30.837793 ]
+      },
+      "properties": {
+        "name": "南充"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 117.2, 39.13 ]
+      },
+      "properties": {
+        "name": "天津"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 119.95, 30.07 ]
+      },
+      "properties": {
+        "name": "富阳"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 117.13, 36.18 ]
+      },
+      "properties": {
+        "name": "泰安"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 120.23, 29.71 ]
+      },
+      "properties": {
+        "name": "诸暨"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 113.65, 34.76 ]
+      },
+      "properties": {
+        "name": "郑州"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 126.63, 45.75 ]
+      },
+      "properties": {
+        "name": "哈尔滨"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 115.97, 36.45 ]
+      },
+      "properties": {
+        "name": "聊城"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 118.38, 31.33 ]
+      },
+      "properties": {
+        "name": "芜湖"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 118.02, 39.63 ]
+      },
+      "properties": {
+        "name": "唐山"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 113.29, 33.75 ]
+      },
+      "properties": {
+        "name": "平顶山"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 114.48, 37.05 ]
+      },
+      "properties": {
+        "name": "邢台"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 116.29, 37.45 ]
+      },
+      "properties": {
+        "name": "德州"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 116.59, 35.38 ]
+      },
+      "properties": {
+        "name": "济宁"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 112.239741, 30.335165 ]
+      },
+      "properties": {
+        "name": "荆州"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 111.3, 30.7 ]
+      },
+      "properties": {
+        "name": "宜昌"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 120.06, 29.32 ]
+      },
+      "properties": {
+        "name": "义乌"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 119.92, 28.45 ]
+      },
+      "properties": {
+        "name": "丽水"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 112.44, 34.7 ]
+      },
+      "properties": {
+        "name": "洛阳"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 119.57, 39.95 ]
+      },
+      "properties": {
+        "name": "秦皇岛"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 113.16, 27.83 ]
+      },
+      "properties": {
+        "name": "株洲"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 114.48, 38.03 ]
+      },
+      "properties": {
+        "name": "石家庄"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 117.67, 36.19 ]
+      },
+      "properties": {
+        "name": "莱芜"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 111.69, 29.05 ]
+      },
+      "properties": {
+        "name": "常德"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 115.48, 38.85 ]
+      },
+      "properties": {
+        "name": "保定"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 112.91, 27.87 ]
+      },
+      "properties": {
+        "name": "湘潭"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 119.64, 29.12 ]
+      },
+      "properties": {
+        "name": "金华"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 113.09, 29.37 ]
+      },
+      "properties": {
+        "name": "岳阳"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 113, 28.21 ]
+      },
+      "properties": {
+        "name": "长沙"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 118.88, 28.97 ]
+      },
+      "properties": {
+        "name": "衢州"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 116.7, 39.53 ]
+      },
+      "properties": {
+        "name": "廊坊"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 115.480656, 35.23375 ]
+      },
+      "properties": {
+        "name": "菏泽"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 117.27, 31.86 ]
+      },
+      "properties": {
+        "name": "合肥"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 114.31, 30.52 ]
+      },
+      "properties": {
+        "name": "武汉"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 125.03, 46.58 ]
+      },
+      "properties": {
+        "name": "大庆"
+      }
+    }
+  ]
+}

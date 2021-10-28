@@ -1,0 +1,343 @@
+{
+  "Rows": {
+    "Count": 25
+  },
+  "Cols": {
+    "Count": 18
+  },
+  "Values": {
+    "2,5": "邮件订阅设置",
+    "5,1": "请选择邮件通知的种类",
+    "21,2": "保存",
+    "21,10": "取消"
+  },
+  "AttachInfos": {
+    "7,1": {
+      "CellType": {
+        "$type": "Forguncy.RadioGroupCellType, ServerDesignerCommon",
+        "NoneItemText": "<空>",
+        "Style": 1,
+        "LayoutMode": 1,
+        "ItemSpace": 14,
+        "Items": [
+          {
+            "Value": "0",
+            "DisplayValue": "不通知"
+          },
+          {
+            "Value": "1",
+            "DisplayValue": "所有变更都通知"
+          },
+          {
+            "Value": "2",
+            "DisplayValue": "其他用户创建或修改记录的时候发送通知"
+          },
+          {
+            "Value": "3",
+            "DisplayValue": "我创建的记录被修改的时候发送通知"
+          },
+          {
+            "Value": "4",
+            "DisplayValue": "指定给我的记录被修改的时候发送通知"
+          }
+        ],
+        "ForguncyAttribute": "MailSubscription_Choice"
+      }
+    },
+    "21,2": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "Text": "保存",
+        "AutoExecute": true,
+        "TemplateKey": "_RS_Normal_Style2",
+        "ForguncyAttribute": "MailSubscription_Button"
+      }
+    },
+    "21,10": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+            "NavigateType": "back",
+            "PassValues": []
+          }
+        ],
+        "Text": "取消",
+        "TemplateKey": "_RS_Outline_Style2"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "BorderBottom": null
+      },
+      {
+        "BorderRight": null
+      },
+      {
+        "FontSize": 21.333333969116211,
+        "Foreground": 0,
+        "Formatter": 1,
+        "TextIndent": 0,
+        "HorizontalAlignment": 2,
+        "VerticalAlignment": 3,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Foreground": 0
+      },
+      {
+        "BorderLeft": null
+      },
+      {
+        "BorderBottom": 0
+      },
+      {
+        "BorderBottom": 0,
+        "BorderRight": null
+      },
+      {
+        "BorderBottom": 0,
+        "BorderLeft": null
+      },
+      {
+        "BorderTop": null
+      },
+      {
+        "FontSize": 14.666666984558105,
+        "Foreground": 5,
+        "Formatter": 1
+      },
+      {
+        "FontSize": 14.666666984558105,
+        "Foreground": 5,
+        "VerticalAlignment": 6,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Background": null,
+        "FontSize": 16.0,
+        "FontWeight": 7,
+        "Foreground": null,
+        "Formatter": 1,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Formatter": 8,
+        "BorderTop": null
+      },
+      {
+        "Formatter": 8,
+        "BorderTop": null,
+        "BorderRight": null
+      },
+      {
+        "Background": 9,
+        "Formatter": 8,
+        "BorderTop": null
+      },
+      {
+        "Background": 9,
+        "Formatter": 8,
+        "BorderTop": null,
+        "BorderRight": null
+      },
+      {
+        "Formatter": 8,
+        "BorderBottom": null,
+        "BorderLeft": null
+      },
+      {
+        "Formatter": 8,
+        "BorderBottom": null
+      },
+      {
+        "Formatter": 8,
+        "BorderBottom": null,
+        "BorderRight": null
+      },
+      {
+        "Background": 9,
+        "Formatter": 8,
+        "BorderBottom": null,
+        "BorderLeft": null
+      },
+      {
+        "Background": 9,
+        "Formatter": 8,
+        "BorderBottom": null
+      },
+      {
+        "Background": 9,
+        "Formatter": 8,
+        "BorderBottom": null,
+        "BorderRight": null
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "Accent 1 -50",
+        "[AUTO]General",
+        "Center",
+        "Bottom",
+        "#FFA9BCD1",
+        "#FF3F3F3F",
+        "Top",
+        "Bold",
+        "General",
+        "#FFFFFFFF",
+        "Body",
+        "#FF000000"
+      ],
+      "Borders": [
+        {
+          "Color": 4
+        }
+      ]
+    },
+    "CellStyles": {
+      "1,5": 0,
+      "1,6": 0,
+      "1,7": 0,
+      "1,8": 0,
+      "1,9": 0,
+      "1,10": 0,
+      "1,11": 0,
+      "1,12": 0,
+      "2,4": 1,
+      "2,5": 2,
+      "2,6": 3,
+      "2,7": 3,
+      "2,8": 3,
+      "2,9": 3,
+      "2,10": 3,
+      "2,11": 3,
+      "2,12": 3,
+      "2,13": 4,
+      "3,1": 5,
+      "3,2": 5,
+      "3,3": 5,
+      "3,4": 6,
+      "3,5": 3,
+      "3,6": 3,
+      "3,7": 3,
+      "3,8": 3,
+      "3,9": 3,
+      "3,10": 3,
+      "3,11": 3,
+      "3,12": 3,
+      "3,13": 7,
+      "3,14": 5,
+      "3,15": 5,
+      "3,16": 5,
+      "4,1": 8,
+      "4,2": 8,
+      "4,3": 8,
+      "4,4": 8,
+      "4,5": 8,
+      "4,6": 8,
+      "4,7": 8,
+      "4,8": 8,
+      "4,9": 8,
+      "4,10": 8,
+      "4,11": 8,
+      "4,12": 8,
+      "4,13": 8,
+      "4,14": 8,
+      "4,15": 8,
+      "4,16": 8,
+      "5,1": 9,
+      "7,1": 10,
+      "20,2": 0,
+      "20,3": 0,
+      "20,4": 0,
+      "20,5": 0,
+      "20,6": 0,
+      "20,7": 0,
+      "20,10": 0,
+      "20,11": 0,
+      "20,12": 0,
+      "20,13": 0,
+      "20,14": 0,
+      "20,15": 0,
+      "21,1": 1,
+      "21,2": 11,
+      "21,3": 12,
+      "21,4": 12,
+      "21,5": 12,
+      "21,6": 12,
+      "21,7": 13,
+      "21,8": 4,
+      "21,9": 1,
+      "21,10": 11,
+      "21,11": 14,
+      "21,12": 14,
+      "21,13": 14,
+      "21,14": 14,
+      "21,15": 15,
+      "21,16": 4,
+      "22,1": 1,
+      "22,2": 16,
+      "22,3": 17,
+      "22,4": 17,
+      "22,5": 17,
+      "22,6": 17,
+      "22,7": 18,
+      "22,8": 4,
+      "22,9": 1,
+      "22,10": 19,
+      "22,11": 20,
+      "22,12": 20,
+      "22,13": 20,
+      "22,14": 20,
+      "22,15": 21,
+      "22,16": 4,
+      "23,2": 8,
+      "23,3": 8,
+      "23,4": 8,
+      "23,5": 8,
+      "23,6": 8,
+      "23,7": 8,
+      "23,10": 8,
+      "23,11": 8,
+      "23,12": 8,
+      "23,13": 8,
+      "23,14": 8,
+      "23,15": 8
+    },
+    "SheetStyle": {
+      "FontFamily": 10,
+      "FontSize": 13.333333015441895,
+      "Foreground": 11
+    }
+  },
+  "Spans": [
+    "2,5,2,8",
+    "7,1,11,16",
+    "21,2,2,6",
+    "21,10,2,6"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "Title": "邮件订阅",
+    "RowBreakLines": [],
+    "RepeatRangeSettings": [],
+    "IsBuiltInPage": true,
+    "IsMobilePage": true
+  },
+  "PrintInfo": {
+    "Margin": {},
+    "PaperSize": {}
+  }
+}//vHZzl4PRprUiGeW5p3q1F6oYld5K3T4QqBd7Ex+HGLxq45cbMZbKT3+8OYuLP1ZQhLRDQsiDhlv3roMTPWSb9YxT+T8OWWIK2ThYFJNyCzdlAGV/1Fek9OnThB9V92NKLZUSozKWEGpQrVEvZfu8HJ6ULeJmkbju4JXbwxlff9KXFfxde08nIEmFeVmj1JJDLLvBb8q+aJljygOxyUksg+VP9sgeGuSTPD0P/XH4kioyfzDbEHt8OoCtWjx0NQjdOl55Ao3c7h9u0+UJ4GQ7gmguCJHm1csAPwXToQ0IxyWaQ7rZY4ToyBwWwU59b0OGeghdEPfVaKhNiR/PpqFS7/2ndkaRyFmDGHD68sqLXOABqzE4mZb0nMlfTquWKdaGommHIWdU0R9NB6K48gY5mDhxhiOrkYe8Ecy0yCrcNftRUdgrEUdvBuiziIL46TG1TyGTiBWAIhDLrVvPMALyNcpGdt0mKMrd662l91Wfx4sFrqeLfnPm5o6XGIlCfksjxw+7vmbkxa60pLXjs8lzOagNI72xK3/GOxdUtCsZl65l72aF3FEWrUK/OjdFinGbd8eg7OAn/gWJb88vkusjBuNiN26J8JMdPs2ko2JyL2qfqlEGKPAnMKBeUt1VOZJUJZ2dOBOEmKS+pSxBb0TfKyhEYD0F44ieZr34gh4/hWbG5qaZ2b3wr+lE+qGJ3OOkvdZhOKL9TcSEbXqalw8bYK4G6paSHbqNCShJTJsQ7or0kxNTdLXjQsAejODScky+liubG68XwUl2PVw/LOSAHxNs2bRyjsIYCAcQIDeheUkGTwlgSJmkNYacfLUqqCaoKhFNvW3Z7aw0zHj1J+GKjJWQTCIV1LZ5sWk3W9mdTAZqYwCPO/cKnInYSvjOZM49O4eEPmMlsmtRnhDfgTw9gA==|920

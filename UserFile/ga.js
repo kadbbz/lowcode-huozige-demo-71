@@ -1,0 +1,2 @@
+﻿$(document.body).append('<script async src="https://www.googletagmanager.com/gtag/js?id=UA-163489000-1"></script>');
+$(document.body).append("<script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-163489000-1'); </script>");

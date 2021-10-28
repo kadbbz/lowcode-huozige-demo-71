@@ -1,0 +1,240 @@
+{
+  "Rows": {
+    "Count": 25
+  },
+  "Cols": {
+    "Count": 18
+  },
+  "Values": {
+    "2,5": "页面未授权",
+    "5,1": "你没有权限访问目标页面",
+    "7,1": "可能的原因：",
+    "9,1": "目标页面只有属于特定用户组的用户才能访问",
+    "12,1": "解决方法：",
+    "14,1": 1,
+    "14,2": "登出，并使用其他账号重新登录",
+    "16,1": 2,
+    "16,2": "单击浏览器的后退按钮跳转到前一个页面，再选择其他链接浏览",
+    "19,1": 3,
+    "19,2": "联系网站管理员申请权限"
+  },
+  "AttachInfos": {
+    "14,2": {
+      "CellType": {
+        "$type": "Forguncy.HyperlinkCellType, ServerDesignerCommon",
+        "Text": "登出，并使用其他账号重新登录",
+        "ForguncyAttribute": "401Login"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "BorderBottom": null
+      },
+      {
+        "BorderRight": null
+      },
+      {
+        "FontSize": 21.333333969116211,
+        "Foreground": 0,
+        "Formatter": 1,
+        "TextIndent": 0,
+        "HorizontalAlignment": 2,
+        "VerticalAlignment": 3,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Foreground": 0
+      },
+      {
+        "BorderLeft": null
+      },
+      {
+        "BorderBottom": 0
+      },
+      {
+        "BorderBottom": 0,
+        "BorderRight": null
+      },
+      {
+        "BorderBottom": 0,
+        "BorderLeft": null
+      },
+      {
+        "BorderTop": null
+      },
+      {
+        "Foreground": 5,
+        "Formatter": 1,
+        "TextIndent": 0,
+        "HorizontalAlignment": 2,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontSize": 14.666666984558105,
+        "FontWeight": 6,
+        "Foreground": 7,
+        "Formatter": 1,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Foreground": 5,
+        "Formatter": 1
+      },
+      {
+        "FontSize": 14.666666984558105,
+        "Foreground": 5,
+        "Formatter": 1,
+        "HorizontalAlignment": 8
+      },
+      {
+        "Foreground": 9,
+        "Formatter": 1,
+        "Underline": true,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontSize": 14.666666984558105,
+        "Foreground": 5,
+        "Formatter": 1,
+        "HorizontalAlignment": 8,
+        "VerticalAlignment": 10
+      },
+      {
+        "Foreground": 5,
+        "Formatter": 1,
+        "VerticalAlignment": 10,
+        "WordWrap": true,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Formatter": 1
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "Accent 1 -50",
+        "[AUTO]General",
+        "Center",
+        "Bottom",
+        "#FFA9BCD1",
+        "#FF3F3F3F",
+        "Bold",
+        "#FF7F7F7F",
+        "Left",
+        "#FF0070C0",
+        "Top",
+        "Body",
+        "#FF000000"
+      ],
+      "Borders": [
+        {
+          "Color": 4
+        }
+      ]
+    },
+    "CellStyles": {
+      "1,5": 0,
+      "1,6": 0,
+      "1,7": 0,
+      "1,8": 0,
+      "1,9": 0,
+      "1,10": 0,
+      "1,11": 0,
+      "1,12": 0,
+      "2,4": 1,
+      "2,5": 2,
+      "2,6": 3,
+      "2,7": 3,
+      "2,8": 3,
+      "2,9": 3,
+      "2,10": 3,
+      "2,11": 3,
+      "2,12": 3,
+      "2,13": 4,
+      "3,1": 5,
+      "3,2": 5,
+      "3,3": 5,
+      "3,4": 6,
+      "3,5": 3,
+      "3,6": 3,
+      "3,7": 3,
+      "3,8": 3,
+      "3,9": 3,
+      "3,10": 3,
+      "3,11": 3,
+      "3,12": 3,
+      "3,13": 7,
+      "3,14": 5,
+      "3,15": 5,
+      "3,16": 5,
+      "4,1": 8,
+      "4,2": 8,
+      "4,3": 8,
+      "4,4": 8,
+      "4,5": 8,
+      "4,6": 8,
+      "4,7": 8,
+      "4,8": 8,
+      "4,9": 8,
+      "4,10": 8,
+      "4,11": 8,
+      "4,12": 8,
+      "4,13": 8,
+      "4,14": 8,
+      "4,15": 8,
+      "4,16": 8,
+      "5,1": 9,
+      "7,1": 10,
+      "9,1": 11,
+      "12,1": 10,
+      "14,1": 12,
+      "14,2": 13,
+      "16,1": 14,
+      "16,2": 15,
+      "19,1": 12,
+      "19,2": 11,
+      "22,13": 16
+    },
+    "SheetStyle": {
+      "FontFamily": 11,
+      "FontSize": 13.333333015441895,
+      "Foreground": 12
+    }
+  },
+  "Spans": [
+    "2,5,2,8",
+    "5,1,1,16",
+    "7,1,2,16",
+    "12,1,2,16",
+    "16,2,2,15"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "Title": "401页面",
+    "RowBreakLines": [],
+    "RepeatRangeSettings": [],
+    "IsBuiltInPage": true,
+    "IsMobilePage": true
+  },
+  "PrintInfo": {
+    "Margin": {},
+    "PaperSize": {}
+  }
+}//xdPR6G/f2f+3iHOsPdAlo9I22HzzqEy7FNllBh32KcdUyClrY59fYOHQWPthqs04P9aK13pKl/DW8QuhRDeAhaO2PRkWG1+nmNLR4EIo9BBkPaKqYxKSTIw0tg1wDQj5oPGiaI3Ao33xlTWAFm/uro0M0naBMoCfITtwV2N4C7nrrqK8UAGG4m2AmjU1U8VJbxcpQsWFto17A6ZxkwFvSCkWOsyXwZTY/7hGuG1nfqRyiVSdt6MmooH+nvBuoyZuKdkMXd1uu9htjA5ACdpWmaxp/DB8NYXOpocOHa5jlV3lrAEACbhylFLYq0b7D+ZPUwvwC7bFI5bNqPxDHg2DJ4ebLfms9MMd1xqwPWojP1Ge9eg3yEzk0iTRRyIH/HydTUGCQ2Ze6hLB2snKj6BajxJjr6Ov2DkAlLrYQWV65RWABgwpodWRNJeARuBzRjEtPqqe449E39C6gSFU6zSr/G3uuXSaq2q4QufZI6fOac4Z/f49gBOkFz3cY7dIVkjaC2OVJqch+NUC3F027Bgy2tDgLddkqs55I0PtEk/TL05Kb/6KYogR8tVZ4iDBZ7JZeKziYibxt+CyW5hCl1XmxtKn7gqPFgRlByO3nNFt5NyKIZG0AUvOIOo2q6YoKHzSicRPr9i/b9i0JNIqGYWpdvZMPZRfyFVA8iAIeT0vw0q3nTgRuHHASdV6S+3kzIPyGpw/j6PkHAqN6nFW3qgG9GoJO7F6uE9KpC2/i7BhmKqJIMKDLja5K7w5ihcG3TVQN1UGYt6mUKbNPLS5xH4QhmWz1eQeblYFP2KKzdA6YAg17DFS2Lk6IYEX25snkdOD3rwvMEL9sn4awnUOUfZLY+GZELF/gb0uu8w3Wmlc/H5SD6ZYG0j1r40s2jXKMVbL0/cH3xNBpHtUGCQYttJlWA==|920

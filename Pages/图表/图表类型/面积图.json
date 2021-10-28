@@ -1,0 +1,2737 @@
+{
+  "Rows": {
+    "RowColumnAttachedInfos": {
+      "1": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "2": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "9": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "22": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      }
+    },
+    "Count": 29
+  },
+  "Cols": {
+    "RowColumnAttachedInfos": {
+      "9": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "26": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "44": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      }
+    },
+    "Count": 52
+  },
+  "Values": {
+    "1,22": "面积图"
+  },
+  "AttachInfos": {
+    "5,2": {
+      "ListViewInfo": {
+        "ShowColumnHeaderInDesigner": true,
+        "TableName": "销售信息",
+        "RowIndex": 5,
+        "ColumnIndex": 2,
+        "ColumnCount": 14,
+        "RowCount": 8,
+        "ColumnOperation": 2,
+        "ShowGridLine": true,
+        "Name": "表格1",
+        "SqlCondition": {
+          "$type": "ForguncyDataAccess.GeneralCESqlCondition, ForguncyDataAccess",
+          "ColumnBindingInfo": {
+            "TableName": "销售信息",
+            "ColumnName": "销售日期",
+            "AttachType": {
+              "$type": "ForguncyDataAccess.DateColumnAttachObj, ForguncyDataAccess",
+              "ColumnAttachType": 1
+            }
+          },
+          "Value": "2017",
+          "Id": "5cb06824-b4ea-4a90-89e4-4585dd076223"
+        },
+        "TopCondition": null,
+        "ListViewStyleName": "_RS_Medium2"
+      }
+    },
+    "5,19": {
+      "ListViewInfo": {
+        "ShowColumnHeaderInDesigner": true,
+        "TableName": "会员信息",
+        "RowIndex": 5,
+        "ColumnIndex": 19,
+        "ColumnCount": 12,
+        "RowCount": 4,
+        "ColumnOperation": 2,
+        "ShowGridLine": true,
+        "Name": "表格4",
+        "SqlCondition": {
+          "$type": "ForguncyDataAccess.GeneralCESqlCondition, ForguncyDataAccess",
+          "ColumnBindingInfo": {
+            "TableName": "会员信息",
+            "ColumnName": "会员性别"
+          },
+          "Value": "男",
+          "Id": "37eb1bbb-8a5e-4bf2-bcf3-22d8a9f44b66"
+        },
+        "TopCondition": null,
+        "ListViewStyleName": "_RS_Medium2"
+      }
+    },
+    "6,2": {
+      "BindingInfo": {
+        "TableName": "销售信息",
+        "ColumnName": "销售日期",
+        "AttachType": {
+          "$type": "ForguncyDataAccess.DateColumnAttachObj, ForguncyDataAccess",
+          "ColumnAttachType": 4
+        }
+      }
+    },
+    "6,5": {
+      "BindingInfo": {
+        "TableName": "销售信息",
+        "ColumnName": "销售总计"
+      }
+    },
+    "6,19": {
+      "BindingInfo": {
+        "TableName": "会员信息",
+        "ColumnName": "会员卡类型ID",
+        "RelationBinding": {
+          "RelatedTable": "会员卡类型",
+          "RelatedColumn": "ID",
+          "DisplayColumn": "会员卡类型"
+        }
+      }
+    },
+    "6,24": {
+      "BindingInfo": {
+        "TableName": "会员信息",
+        "ColumnName": "人数"
+      }
+    },
+    "10,19": {
+      "ListViewInfo": {
+        "ShowColumnHeaderInDesigner": true,
+        "TableName": "会员信息",
+        "RowIndex": 10,
+        "ColumnIndex": 19,
+        "ColumnCount": 12,
+        "RowCount": 4,
+        "ColumnOperation": 2,
+        "ShowGridLine": true,
+        "Name": "表格2",
+        "SqlCondition": {
+          "$type": "ForguncyDataAccess.GeneralCESqlCondition, ForguncyDataAccess",
+          "ColumnBindingInfo": {
+            "TableName": "会员信息",
+            "ColumnName": "会员性别"
+          },
+          "Value": "女",
+          "Id": "89704b93-ebaa-4b61-9633-88bcfd278c7b"
+        },
+        "TopCondition": null,
+        "ListViewStyleName": "_RS_Medium2"
+      }
+    },
+    "11,19": {
+      "BindingInfo": {
+        "TableName": "会员信息",
+        "ColumnName": "会员卡类型ID",
+        "RelationBinding": {
+          "RelatedTable": "会员卡类型",
+          "RelatedColumn": "ID",
+          "DisplayColumn": "会员卡类型"
+        }
+      }
+    },
+    "11,24": {
+      "BindingInfo": {
+        "TableName": "会员信息",
+        "ColumnName": "人数"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Background": null,
+        "FontFamily": 0,
+        "FontSize": 37.333332061767578,
+        "FontStretch": 1,
+        "FontStyle": 1,
+        "FontWeight": 1,
+        "Foreground": 2,
+        "Formatter": 3,
+        "TextIndent": 0,
+        "HorizontalAlignment": 4,
+        "VerticalAlignment": 4,
+        "WordWrap": false,
+        "Underline": false,
+        "Strikethrough": false
+      },
+      {
+        "Background": null,
+        "FontFamily": 0,
+        "FontStretch": 1,
+        "FontStyle": 1,
+        "FontWeight": 1,
+        "Foreground": null,
+        "Formatter": null,
+        "TextIndent": 0,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 4,
+        "WordWrap": false,
+        "Underline": false,
+        "Strikethrough": false,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Background": null,
+        "FontFamily": 0,
+        "FontStretch": 1,
+        "FontStyle": 1,
+        "FontWeight": 1,
+        "Foreground": null,
+        "Formatter": null,
+        "TextIndent": 0,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 4,
+        "WordWrap": false,
+        "Underline": false,
+        "Strikethrough": false,
+        "BorderBottom": null,
+        "BorderTop": 0,
+        "BorderLeft": 0,
+        "BorderRight": null
+      },
+      {
+        "Background": null,
+        "FontFamily": 0,
+        "FontStretch": 1,
+        "FontStyle": 1,
+        "FontWeight": 1,
+        "Foreground": null,
+        "Formatter": null,
+        "TextIndent": 0,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 4,
+        "WordWrap": false,
+        "Underline": false,
+        "Strikethrough": false,
+        "BorderBottom": null,
+        "BorderTop": 0,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Background": null,
+        "FontFamily": 0,
+        "FontStretch": 1,
+        "FontStyle": 1,
+        "FontWeight": 1,
+        "Foreground": null,
+        "Formatter": null,
+        "TextIndent": 0,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 4,
+        "WordWrap": false,
+        "Underline": false,
+        "Strikethrough": false,
+        "BorderBottom": null,
+        "BorderTop": 0,
+        "BorderLeft": null,
+        "BorderRight": 0
+      },
+      {
+        "Background": null,
+        "FontFamily": 0,
+        "FontStretch": 1,
+        "FontStyle": 1,
+        "FontWeight": 1,
+        "Foreground": null,
+        "Formatter": null,
+        "TextIndent": 0,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 4,
+        "WordWrap": false,
+        "Underline": false,
+        "Strikethrough": false,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": 0,
+        "BorderRight": null
+      },
+      {
+        "Background": null,
+        "FontFamily": 0,
+        "FontStretch": 1,
+        "FontStyle": 1,
+        "FontWeight": 1,
+        "Foreground": null,
+        "Formatter": null,
+        "TextIndent": 0,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 4,
+        "WordWrap": false,
+        "Underline": false,
+        "Strikethrough": false,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": 0
+      },
+      {
+        "Background": null,
+        "FontFamily": 0,
+        "FontStretch": 1,
+        "FontStyle": 1,
+        "FontWeight": 1,
+        "Foreground": null,
+        "Formatter": null,
+        "TextIndent": 0,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 4,
+        "WordWrap": false,
+        "Underline": false,
+        "Strikethrough": false,
+        "BorderBottom": 0,
+        "BorderTop": null,
+        "BorderLeft": 0,
+        "BorderRight": null
+      },
+      {
+        "Background": null,
+        "FontFamily": 0,
+        "FontStretch": 1,
+        "FontStyle": 1,
+        "FontWeight": 1,
+        "Foreground": null,
+        "Formatter": null,
+        "TextIndent": 0,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 4,
+        "WordWrap": false,
+        "Underline": false,
+        "Strikethrough": false,
+        "BorderBottom": 0,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Background": null,
+        "FontFamily": 0,
+        "FontStretch": 1,
+        "FontStyle": 1,
+        "FontWeight": 1,
+        "Foreground": null,
+        "Formatter": null,
+        "TextIndent": 0,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 4,
+        "WordWrap": false,
+        "Underline": false,
+        "Strikethrough": false,
+        "BorderBottom": 0,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": 0
+      },
+      {
+        "FontSize": 37.333332061767578,
+        "Foreground": 2,
+        "HorizontalAlignment": 4
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "Body",
+        "Normal",
+        "Text 1 35",
+        "[AUTO]General",
+        "Center",
+        "General",
+        "DarkGray"
+      ],
+      "Borders": [
+        {
+          "Color": 6
+        }
+      ]
+    },
+    "CellStyles": {
+      "0,7": 0,
+      "0,8": 0,
+      "0,9": 0,
+      "0,10": 0,
+      "0,11": 0,
+      "0,12": 0,
+      "0,13": 0,
+      "0,14": 0,
+      "0,15": 0,
+      "0,16": 0,
+      "0,17": 0,
+      "0,18": 0,
+      "0,19": 0,
+      "0,20": 0,
+      "0,21": 0,
+      "0,22": 0,
+      "0,23": 0,
+      "0,24": 0,
+      "0,25": 0,
+      "0,26": 0,
+      "0,27": 0,
+      "0,28": 0,
+      "0,29": 0,
+      "0,30": 0,
+      "0,31": 0,
+      "0,32": 0,
+      "0,33": 0,
+      "0,34": 0,
+      "0,35": 0,
+      "0,36": 0,
+      "0,37": 0,
+      "0,38": 0,
+      "0,39": 0,
+      "0,40": 0,
+      "0,41": 0,
+      "0,42": 0,
+      "0,43": 0,
+      "0,44": 0,
+      "0,45": 0,
+      "0,46": 0,
+      "0,47": 0,
+      "0,48": 0,
+      "0,49": 0,
+      "0,50": 0,
+      "0,51": 0,
+      "1,7": 0,
+      "1,8": 0,
+      "1,9": 0,
+      "1,10": 0,
+      "1,11": 0,
+      "1,12": 0,
+      "1,13": 0,
+      "1,14": 0,
+      "1,15": 0,
+      "1,16": 0,
+      "1,17": 0,
+      "1,18": 0,
+      "1,19": 0,
+      "1,22": 1,
+      "1,30": 0,
+      "1,31": 0,
+      "1,32": 0,
+      "1,33": 0,
+      "1,34": 0,
+      "1,35": 0,
+      "1,36": 0,
+      "1,37": 0,
+      "1,38": 0,
+      "1,39": 0,
+      "1,40": 0,
+      "1,41": 0,
+      "1,42": 0,
+      "1,43": 0,
+      "1,44": 0,
+      "1,45": 0,
+      "1,46": 0,
+      "1,47": 0,
+      "1,48": 0,
+      "1,49": 0,
+      "1,50": 0,
+      "1,51": 0,
+      "2,0": 0,
+      "2,1": 0,
+      "2,2": 0,
+      "2,3": 0,
+      "2,4": 0,
+      "2,5": 0,
+      "2,6": 0,
+      "2,7": 0,
+      "2,8": 0,
+      "2,9": 0,
+      "2,10": 0,
+      "2,11": 0,
+      "2,12": 0,
+      "2,13": 0,
+      "2,14": 0,
+      "2,15": 0,
+      "2,16": 0,
+      "2,17": 0,
+      "2,18": 0,
+      "2,19": 0,
+      "2,30": 0,
+      "2,31": 0,
+      "2,32": 0,
+      "2,33": 0,
+      "2,34": 0,
+      "2,35": 0,
+      "2,36": 0,
+      "2,37": 0,
+      "2,38": 0,
+      "2,39": 0,
+      "2,40": 0,
+      "2,41": 0,
+      "2,42": 0,
+      "2,43": 0,
+      "2,44": 0,
+      "2,45": 0,
+      "2,46": 0,
+      "2,47": 0,
+      "2,48": 0,
+      "2,49": 0,
+      "2,50": 0,
+      "2,51": 0,
+      "4,41": 2,
+      "4,42": 2,
+      "4,43": 2,
+      "4,44": 2,
+      "4,45": 2,
+      "4,46": 2,
+      "4,47": 2,
+      "4,48": 2,
+      "4,49": 2,
+      "4,50": 2,
+      "4,51": 2,
+      "5,2": 3,
+      "5,3": 4,
+      "5,4": 4,
+      "5,5": 4,
+      "5,6": 4,
+      "5,7": 4,
+      "5,8": 4,
+      "5,9": 4,
+      "5,10": 4,
+      "5,11": 4,
+      "5,12": 4,
+      "5,13": 4,
+      "5,14": 4,
+      "5,15": 5,
+      "5,19": 3,
+      "5,20": 4,
+      "5,21": 4,
+      "5,22": 4,
+      "5,23": 4,
+      "5,24": 4,
+      "5,25": 4,
+      "5,26": 4,
+      "5,27": 4,
+      "5,28": 4,
+      "5,29": 4,
+      "5,30": 5,
+      "5,41": 2,
+      "5,42": 2,
+      "5,43": 2,
+      "5,44": 2,
+      "5,45": 2,
+      "5,46": 2,
+      "5,47": 2,
+      "5,48": 2,
+      "5,49": 2,
+      "5,50": 2,
+      "5,51": 2,
+      "6,2": 6,
+      "6,3": 2,
+      "6,4": 2,
+      "6,5": 2,
+      "6,6": 2,
+      "6,7": 2,
+      "6,8": 2,
+      "6,9": 2,
+      "6,10": 2,
+      "6,11": 2,
+      "6,12": 2,
+      "6,13": 2,
+      "6,14": 2,
+      "6,15": 7,
+      "6,19": 6,
+      "6,20": 2,
+      "6,21": 2,
+      "6,22": 2,
+      "6,23": 2,
+      "6,24": 2,
+      "6,25": 2,
+      "6,26": 2,
+      "6,27": 2,
+      "6,28": 2,
+      "6,29": 2,
+      "6,30": 7,
+      "6,41": 2,
+      "6,42": 2,
+      "6,43": 2,
+      "6,44": 2,
+      "6,45": 2,
+      "6,46": 2,
+      "6,47": 2,
+      "6,48": 2,
+      "6,49": 2,
+      "6,50": 2,
+      "6,51": 2,
+      "7,2": 6,
+      "7,3": 2,
+      "7,4": 2,
+      "7,5": 2,
+      "7,6": 2,
+      "7,7": 2,
+      "7,8": 2,
+      "7,9": 2,
+      "7,10": 2,
+      "7,11": 2,
+      "7,12": 2,
+      "7,13": 2,
+      "7,14": 2,
+      "7,15": 7,
+      "7,19": 6,
+      "7,20": 2,
+      "7,21": 2,
+      "7,22": 2,
+      "7,23": 2,
+      "7,24": 2,
+      "7,25": 2,
+      "7,26": 2,
+      "7,27": 2,
+      "7,28": 2,
+      "7,29": 2,
+      "7,30": 7,
+      "7,41": 2,
+      "7,42": 2,
+      "7,43": 2,
+      "7,44": 2,
+      "7,45": 2,
+      "7,46": 2,
+      "7,47": 2,
+      "7,48": 2,
+      "7,49": 2,
+      "7,50": 2,
+      "7,51": 2,
+      "8,2": 6,
+      "8,3": 2,
+      "8,4": 2,
+      "8,5": 2,
+      "8,6": 2,
+      "8,7": 2,
+      "8,8": 2,
+      "8,9": 2,
+      "8,10": 2,
+      "8,11": 2,
+      "8,12": 2,
+      "8,13": 2,
+      "8,14": 2,
+      "8,15": 7,
+      "8,19": 8,
+      "8,20": 9,
+      "8,21": 9,
+      "8,22": 9,
+      "8,23": 9,
+      "8,24": 9,
+      "8,25": 9,
+      "8,26": 9,
+      "8,27": 9,
+      "8,28": 9,
+      "8,29": 9,
+      "8,30": 10,
+      "8,41": 2,
+      "8,42": 2,
+      "8,43": 2,
+      "8,44": 2,
+      "8,45": 2,
+      "8,46": 2,
+      "8,47": 2,
+      "8,48": 2,
+      "8,49": 2,
+      "8,50": 2,
+      "8,51": 2,
+      "9,2": 6,
+      "9,3": 2,
+      "9,4": 2,
+      "9,5": 2,
+      "9,6": 2,
+      "9,7": 2,
+      "9,8": 2,
+      "9,9": 2,
+      "9,10": 2,
+      "9,11": 2,
+      "9,12": 2,
+      "9,13": 2,
+      "9,14": 2,
+      "9,15": 7,
+      "9,41": 2,
+      "9,42": 2,
+      "9,43": 2,
+      "9,44": 2,
+      "9,45": 2,
+      "9,46": 2,
+      "9,47": 2,
+      "9,48": 2,
+      "9,49": 2,
+      "9,50": 2,
+      "9,51": 2,
+      "10,2": 6,
+      "10,3": 2,
+      "10,4": 2,
+      "10,5": 2,
+      "10,6": 2,
+      "10,7": 2,
+      "10,8": 2,
+      "10,9": 2,
+      "10,10": 2,
+      "10,11": 2,
+      "10,12": 2,
+      "10,13": 2,
+      "10,14": 2,
+      "10,15": 7,
+      "10,19": 3,
+      "10,20": 4,
+      "10,21": 4,
+      "10,22": 4,
+      "10,23": 4,
+      "10,24": 4,
+      "10,25": 4,
+      "10,26": 4,
+      "10,27": 4,
+      "10,28": 4,
+      "10,29": 4,
+      "10,30": 5,
+      "10,41": 2,
+      "10,42": 2,
+      "10,43": 2,
+      "10,44": 2,
+      "10,45": 2,
+      "10,46": 2,
+      "10,47": 2,
+      "10,48": 2,
+      "10,49": 2,
+      "10,50": 2,
+      "10,51": 2,
+      "11,2": 6,
+      "11,3": 2,
+      "11,4": 2,
+      "11,5": 2,
+      "11,6": 2,
+      "11,7": 2,
+      "11,8": 2,
+      "11,9": 2,
+      "11,10": 2,
+      "11,11": 2,
+      "11,12": 2,
+      "11,13": 2,
+      "11,14": 2,
+      "11,15": 7,
+      "11,19": 6,
+      "11,20": 2,
+      "11,21": 2,
+      "11,22": 2,
+      "11,23": 2,
+      "11,24": 2,
+      "11,25": 2,
+      "11,26": 2,
+      "11,27": 2,
+      "11,28": 2,
+      "11,29": 2,
+      "11,30": 7,
+      "11,41": 2,
+      "11,42": 2,
+      "11,43": 2,
+      "11,44": 2,
+      "11,45": 2,
+      "11,46": 2,
+      "11,47": 2,
+      "11,48": 2,
+      "11,49": 2,
+      "11,50": 2,
+      "11,51": 2,
+      "12,2": 8,
+      "12,3": 9,
+      "12,4": 9,
+      "12,5": 9,
+      "12,6": 9,
+      "12,7": 9,
+      "12,8": 9,
+      "12,9": 9,
+      "12,10": 9,
+      "12,11": 9,
+      "12,12": 9,
+      "12,13": 9,
+      "12,14": 9,
+      "12,15": 10,
+      "12,19": 6,
+      "12,20": 2,
+      "12,21": 2,
+      "12,22": 2,
+      "12,23": 2,
+      "12,24": 2,
+      "12,25": 2,
+      "12,26": 2,
+      "12,27": 2,
+      "12,28": 2,
+      "12,29": 2,
+      "12,30": 7,
+      "12,41": 2,
+      "12,42": 2,
+      "12,43": 2,
+      "12,44": 2,
+      "12,45": 2,
+      "12,46": 2,
+      "12,47": 2,
+      "12,48": 2,
+      "12,49": 2,
+      "12,50": 2,
+      "12,51": 2,
+      "13,19": 8,
+      "13,20": 9,
+      "13,21": 9,
+      "13,22": 9,
+      "13,23": 9,
+      "13,24": 9,
+      "13,25": 9,
+      "13,26": 9,
+      "13,27": 9,
+      "13,28": 9,
+      "13,29": 9,
+      "13,30": 10,
+      "13,41": 2,
+      "13,42": 2,
+      "13,43": 2,
+      "13,44": 2,
+      "13,45": 2,
+      "13,46": 2,
+      "13,47": 2,
+      "13,48": 2,
+      "13,49": 2,
+      "13,50": 2,
+      "13,51": 2,
+      "14,41": 2,
+      "14,42": 2,
+      "14,43": 2,
+      "14,44": 2,
+      "14,45": 2,
+      "14,46": 2,
+      "14,47": 2,
+      "14,48": 2,
+      "14,49": 2,
+      "14,50": 2,
+      "14,51": 2,
+      "15,41": 2,
+      "15,42": 2,
+      "15,43": 2,
+      "15,44": 2,
+      "15,45": 2,
+      "15,46": 2,
+      "15,47": 2,
+      "15,48": 2,
+      "15,49": 2,
+      "15,50": 2,
+      "15,51": 2,
+      "17,1": 2,
+      "17,2": 2,
+      "17,3": 2,
+      "17,4": 2,
+      "17,5": 2,
+      "17,6": 2,
+      "17,7": 2,
+      "17,8": 2,
+      "17,9": 2,
+      "17,10": 2,
+      "17,11": 2,
+      "17,12": 2,
+      "17,13": 2,
+      "17,14": 2,
+      "17,15": 2,
+      "17,16": 2,
+      "17,17": 2,
+      "17,18": 2,
+      "17,19": 2,
+      "17,21": 2,
+      "17,22": 2,
+      "17,23": 2,
+      "17,24": 2,
+      "17,25": 2,
+      "17,26": 2,
+      "17,27": 2,
+      "17,28": 2,
+      "17,29": 2,
+      "17,30": 2,
+      "17,31": 2,
+      "17,32": 2,
+      "17,33": 2,
+      "17,34": 2,
+      "17,35": 2,
+      "17,36": 2,
+      "17,37": 2,
+      "17,38": 2,
+      "17,39": 2,
+      "17,41": 2,
+      "17,42": 2,
+      "17,43": 2,
+      "17,44": 2,
+      "17,45": 2,
+      "17,46": 2,
+      "17,47": 2,
+      "17,48": 2,
+      "17,49": 2,
+      "17,50": 2,
+      "17,51": 2,
+      "18,1": 2,
+      "18,2": 2,
+      "18,3": 2,
+      "18,4": 2,
+      "18,5": 2,
+      "18,6": 2,
+      "18,7": 2,
+      "18,8": 2,
+      "18,9": 2,
+      "18,10": 2,
+      "18,11": 2,
+      "18,12": 2,
+      "18,13": 2,
+      "18,14": 2,
+      "18,15": 2,
+      "18,16": 2,
+      "18,17": 2,
+      "18,18": 2,
+      "18,19": 2,
+      "18,21": 2,
+      "18,22": 2,
+      "18,23": 2,
+      "18,24": 2,
+      "18,25": 2,
+      "18,26": 2,
+      "18,27": 2,
+      "18,28": 2,
+      "18,29": 2,
+      "18,30": 2,
+      "18,31": 2,
+      "18,32": 2,
+      "18,33": 2,
+      "18,34": 2,
+      "18,35": 2,
+      "18,36": 2,
+      "18,37": 2,
+      "18,38": 2,
+      "18,39": 2,
+      "18,41": 2,
+      "18,42": 2,
+      "18,43": 2,
+      "18,44": 2,
+      "18,45": 2,
+      "18,46": 2,
+      "18,47": 2,
+      "18,48": 2,
+      "18,49": 2,
+      "18,50": 2,
+      "18,51": 2,
+      "19,1": 2,
+      "19,2": 2,
+      "19,3": 2,
+      "19,4": 2,
+      "19,5": 2,
+      "19,6": 2,
+      "19,7": 2,
+      "19,8": 2,
+      "19,9": 2,
+      "19,10": 2,
+      "19,11": 2,
+      "19,12": 2,
+      "19,13": 2,
+      "19,14": 2,
+      "19,15": 2,
+      "19,16": 2,
+      "19,17": 2,
+      "19,18": 2,
+      "19,19": 2,
+      "19,21": 2,
+      "19,22": 2,
+      "19,23": 2,
+      "19,24": 2,
+      "19,25": 2,
+      "19,26": 2,
+      "19,27": 2,
+      "19,28": 2,
+      "19,29": 2,
+      "19,30": 2,
+      "19,31": 2,
+      "19,32": 2,
+      "19,33": 2,
+      "19,34": 2,
+      "19,35": 2,
+      "19,36": 2,
+      "19,37": 2,
+      "19,38": 2,
+      "19,39": 2,
+      "19,41": 2,
+      "19,42": 2,
+      "19,43": 2,
+      "19,44": 2,
+      "19,45": 2,
+      "19,46": 2,
+      "19,47": 2,
+      "19,48": 2,
+      "19,49": 2,
+      "19,50": 2,
+      "19,51": 2,
+      "20,1": 2,
+      "20,2": 2,
+      "20,3": 2,
+      "20,4": 2,
+      "20,5": 2,
+      "20,6": 2,
+      "20,7": 2,
+      "20,8": 2,
+      "20,9": 2,
+      "20,10": 2,
+      "20,11": 2,
+      "20,12": 2,
+      "20,13": 2,
+      "20,14": 2,
+      "20,15": 2,
+      "20,16": 2,
+      "20,17": 2,
+      "20,18": 2,
+      "20,19": 2,
+      "20,21": 2,
+      "20,22": 2,
+      "20,23": 2,
+      "20,24": 2,
+      "20,25": 2,
+      "20,26": 2,
+      "20,27": 2,
+      "20,28": 2,
+      "20,29": 2,
+      "20,30": 2,
+      "20,31": 2,
+      "20,32": 2,
+      "20,33": 2,
+      "20,34": 2,
+      "20,35": 2,
+      "20,36": 2,
+      "20,37": 2,
+      "20,38": 2,
+      "20,39": 2,
+      "20,41": 2,
+      "20,42": 2,
+      "20,43": 2,
+      "20,44": 2,
+      "20,45": 2,
+      "20,46": 2,
+      "20,47": 2,
+      "20,48": 2,
+      "20,49": 2,
+      "20,50": 2,
+      "20,51": 2,
+      "21,1": 2,
+      "21,2": 2,
+      "21,3": 2,
+      "21,4": 2,
+      "21,5": 2,
+      "21,6": 2,
+      "21,7": 2,
+      "21,8": 2,
+      "21,9": 2,
+      "21,10": 2,
+      "21,11": 2,
+      "21,12": 2,
+      "21,13": 2,
+      "21,14": 2,
+      "21,15": 2,
+      "21,16": 2,
+      "21,17": 2,
+      "21,18": 2,
+      "21,19": 2,
+      "21,21": 2,
+      "21,22": 2,
+      "21,23": 2,
+      "21,24": 2,
+      "21,25": 2,
+      "21,26": 2,
+      "21,27": 2,
+      "21,28": 2,
+      "21,29": 2,
+      "21,30": 2,
+      "21,31": 2,
+      "21,32": 2,
+      "21,33": 2,
+      "21,34": 2,
+      "21,35": 2,
+      "21,36": 2,
+      "21,37": 2,
+      "21,38": 2,
+      "21,39": 2,
+      "21,41": 2,
+      "21,42": 2,
+      "21,43": 2,
+      "21,44": 2,
+      "21,45": 2,
+      "21,46": 2,
+      "21,47": 2,
+      "21,48": 2,
+      "21,49": 2,
+      "21,50": 2,
+      "21,51": 2,
+      "22,1": 2,
+      "22,2": 2,
+      "22,3": 2,
+      "22,4": 2,
+      "22,5": 2,
+      "22,6": 2,
+      "22,7": 2,
+      "22,8": 2,
+      "22,9": 2,
+      "22,10": 2,
+      "22,11": 2,
+      "22,12": 2,
+      "22,13": 2,
+      "22,14": 2,
+      "22,15": 2,
+      "22,16": 2,
+      "22,17": 2,
+      "22,18": 2,
+      "22,19": 2,
+      "22,21": 2,
+      "22,22": 2,
+      "22,23": 2,
+      "22,24": 2,
+      "22,25": 2,
+      "22,26": 2,
+      "22,27": 2,
+      "22,28": 2,
+      "22,29": 2,
+      "22,30": 2,
+      "22,31": 2,
+      "22,32": 2,
+      "22,33": 2,
+      "22,34": 2,
+      "22,35": 2,
+      "22,36": 2,
+      "22,37": 2,
+      "22,38": 2,
+      "22,39": 2,
+      "22,41": 2,
+      "22,42": 2,
+      "22,43": 2,
+      "22,44": 2,
+      "22,45": 2,
+      "22,46": 2,
+      "22,47": 2,
+      "22,48": 2,
+      "22,49": 2,
+      "22,50": 2,
+      "22,51": 2,
+      "23,1": 2,
+      "23,2": 2,
+      "23,3": 2,
+      "23,4": 2,
+      "23,5": 2,
+      "23,6": 2,
+      "23,7": 2,
+      "23,8": 2,
+      "23,9": 2,
+      "23,10": 2,
+      "23,11": 2,
+      "23,12": 2,
+      "23,13": 2,
+      "23,14": 2,
+      "23,15": 2,
+      "23,16": 2,
+      "23,17": 2,
+      "23,18": 2,
+      "23,19": 2,
+      "23,21": 2,
+      "23,22": 2,
+      "23,23": 2,
+      "23,24": 2,
+      "23,25": 2,
+      "23,26": 2,
+      "23,27": 2,
+      "23,28": 2,
+      "23,29": 2,
+      "23,30": 2,
+      "23,31": 2,
+      "23,32": 2,
+      "23,33": 2,
+      "23,34": 2,
+      "23,35": 2,
+      "23,36": 2,
+      "23,37": 2,
+      "23,38": 2,
+      "23,39": 2,
+      "23,41": 2,
+      "23,42": 2,
+      "23,43": 2,
+      "23,44": 2,
+      "23,45": 2,
+      "23,46": 2,
+      "23,47": 2,
+      "23,48": 2,
+      "23,49": 2,
+      "23,50": 2,
+      "23,51": 2,
+      "24,1": 2,
+      "24,2": 2,
+      "24,3": 2,
+      "24,4": 2,
+      "24,5": 2,
+      "24,6": 2,
+      "24,7": 2,
+      "24,8": 2,
+      "24,9": 2,
+      "24,10": 2,
+      "24,11": 2,
+      "24,12": 2,
+      "24,13": 2,
+      "24,14": 2,
+      "24,15": 2,
+      "24,16": 2,
+      "24,17": 2,
+      "24,18": 2,
+      "24,19": 2,
+      "24,21": 2,
+      "24,22": 2,
+      "24,23": 2,
+      "24,24": 2,
+      "24,25": 2,
+      "24,26": 2,
+      "24,27": 2,
+      "24,28": 2,
+      "24,29": 2,
+      "24,30": 2,
+      "24,31": 2,
+      "24,32": 2,
+      "24,33": 2,
+      "24,34": 2,
+      "24,35": 2,
+      "24,36": 2,
+      "24,37": 2,
+      "24,38": 2,
+      "24,39": 2,
+      "24,41": 2,
+      "24,42": 2,
+      "24,43": 2,
+      "24,44": 2,
+      "24,45": 2,
+      "24,46": 2,
+      "24,47": 2,
+      "24,48": 2,
+      "24,49": 2,
+      "24,50": 2,
+      "24,51": 2,
+      "25,1": 2,
+      "25,2": 2,
+      "25,3": 2,
+      "25,4": 2,
+      "25,5": 2,
+      "25,6": 2,
+      "25,7": 2,
+      "25,8": 2,
+      "25,9": 2,
+      "25,10": 2,
+      "25,11": 2,
+      "25,12": 2,
+      "25,13": 2,
+      "25,14": 2,
+      "25,15": 2,
+      "25,16": 2,
+      "25,17": 2,
+      "25,18": 2,
+      "25,19": 2,
+      "25,21": 2,
+      "25,22": 2,
+      "25,23": 2,
+      "25,24": 2,
+      "25,25": 2,
+      "25,26": 2,
+      "25,27": 2,
+      "25,28": 2,
+      "25,29": 2,
+      "25,30": 2,
+      "25,31": 2,
+      "25,32": 2,
+      "25,33": 2,
+      "25,34": 2,
+      "25,35": 2,
+      "25,36": 2,
+      "25,37": 2,
+      "25,38": 2,
+      "25,39": 2,
+      "25,41": 2,
+      "25,42": 2,
+      "25,43": 2,
+      "25,44": 2,
+      "25,45": 2,
+      "25,46": 2,
+      "25,47": 2,
+      "25,48": 2,
+      "25,49": 2,
+      "25,50": 2,
+      "25,51": 2,
+      "26,1": 2,
+      "26,2": 2,
+      "26,3": 2,
+      "26,4": 2,
+      "26,5": 2,
+      "26,6": 2,
+      "26,7": 2,
+      "26,8": 2,
+      "26,9": 2,
+      "26,10": 2,
+      "26,11": 2,
+      "26,12": 2,
+      "26,13": 2,
+      "26,14": 2,
+      "26,15": 2,
+      "26,16": 2,
+      "26,17": 2,
+      "26,18": 2,
+      "26,19": 2,
+      "26,21": 2,
+      "26,22": 2,
+      "26,23": 2,
+      "26,24": 2,
+      "26,25": 2,
+      "26,26": 2,
+      "26,27": 2,
+      "26,28": 2,
+      "26,29": 2,
+      "26,30": 2,
+      "26,31": 2,
+      "26,32": 2,
+      "26,33": 2,
+      "26,34": 2,
+      "26,35": 2,
+      "26,36": 2,
+      "26,37": 2,
+      "26,38": 2,
+      "26,39": 2,
+      "26,41": 2,
+      "26,42": 2,
+      "26,43": 2,
+      "26,44": 2,
+      "26,45": 2,
+      "26,46": 2,
+      "26,47": 2,
+      "26,48": 2,
+      "26,49": 2,
+      "26,50": 2,
+      "26,51": 2,
+      "27,1": 2,
+      "27,2": 2,
+      "27,3": 2,
+      "27,4": 2,
+      "27,5": 2,
+      "27,6": 2,
+      "27,7": 2,
+      "27,8": 2,
+      "27,9": 2,
+      "27,10": 2,
+      "27,11": 2,
+      "27,12": 2,
+      "27,13": 2,
+      "27,14": 2,
+      "27,15": 2,
+      "27,16": 2,
+      "27,17": 2,
+      "27,18": 2,
+      "27,19": 2,
+      "27,21": 2,
+      "27,22": 2,
+      "27,23": 2,
+      "27,24": 2,
+      "27,25": 2,
+      "27,26": 2,
+      "27,27": 2,
+      "27,28": 2,
+      "27,29": 2,
+      "27,30": 2,
+      "27,31": 2,
+      "27,32": 2,
+      "27,33": 2,
+      "27,34": 2,
+      "27,35": 2,
+      "27,36": 2,
+      "27,37": 2,
+      "27,38": 2,
+      "27,39": 2,
+      "27,41": 2,
+      "27,42": 2,
+      "27,43": 2,
+      "27,44": 2,
+      "27,45": 2,
+      "27,46": 2,
+      "27,47": 2,
+      "27,48": 2,
+      "27,49": 2,
+      "27,50": 2,
+      "27,51": 2,
+      "28,1": 2,
+      "28,2": 2,
+      "28,3": 2,
+      "28,4": 2,
+      "28,5": 2,
+      "28,6": 2,
+      "28,7": 2,
+      "28,8": 2,
+      "28,9": 2,
+      "28,10": 2,
+      "28,11": 2,
+      "28,12": 2,
+      "28,13": 2,
+      "28,14": 2,
+      "28,15": 2,
+      "28,16": 2,
+      "28,17": 2,
+      "28,18": 2,
+      "28,19": 2,
+      "28,21": 2,
+      "28,22": 2,
+      "28,23": 2,
+      "28,24": 2,
+      "28,25": 2,
+      "28,26": 2,
+      "28,27": 2,
+      "28,28": 2,
+      "28,29": 2,
+      "28,30": 2,
+      "28,31": 2,
+      "28,32": 2,
+      "28,33": 2,
+      "28,34": 2,
+      "28,35": 2,
+      "28,36": 2,
+      "28,37": 2,
+      "28,38": 2,
+      "28,39": 2,
+      "28,41": 2,
+      "28,42": 2,
+      "28,43": 2,
+      "28,44": 2,
+      "28,45": 2,
+      "28,46": 2,
+      "28,47": 2,
+      "28,48": 2,
+      "28,49": 2,
+      "28,50": 2,
+      "28,51": 2
+    },
+    "RowStyles": {
+      "0": 11,
+      "1": 11,
+      "2": 11
+    },
+    "SheetStyle": {
+      "Background": null,
+      "FontFamily": 0,
+      "FontStretch": 1,
+      "FontStyle": 1,
+      "FontWeight": 1,
+      "Foreground": null,
+      "Formatter": null,
+      "TextIndent": 0,
+      "HorizontalAlignment": 5,
+      "VerticalAlignment": 4,
+      "WordWrap": false,
+      "Underline": false,
+      "Strikethrough": false,
+      "BorderBottom": null,
+      "BorderTop": null,
+      "BorderLeft": null,
+      "BorderRight": null
+    }
+  },
+  "Spans": [
+    "6,2,1,3",
+    "6,5,1,6",
+    "11,19,1,5",
+    "11,24,1,4",
+    "1,22,2,8",
+    "7,2,6,14",
+    "7,19,2,12",
+    "12,19,2,12",
+    "5,2,1,3",
+    "5,5,1,6",
+    "10,19,1,5",
+    "10,24,1,4"
+  ],
+  "BackgroundPictures": [
+    {
+      "StyleInfo": {
+        "Fill": "Background 1 -5",
+        "Stroke": "black",
+        "StrokeThickness": 0.0
+      },
+      "IsAutomaticStroke": false,
+      "IsAutomaticFill": false,
+      "Name": "215e3cd1-4c11-429e-ab6d-ec456d5c6feb.png",
+      "Size": "1040,600"
+    }
+  ],
+  "Charts": [
+    {
+      "ChartType": 28,
+      "DisplayEmptyCellsAs": 1,
+      "DisplayHidden": true,
+      "ChartColorPalette": {
+        "RepeatAlgorithmTint": [
+          0.0,
+          -40.0,
+          20.0,
+          -20.0,
+          40.0,
+          -50.0,
+          30.0,
+          -30.0,
+          50.0
+        ],
+        "ColorList": [
+          "Accent 1",
+          "Accent 2",
+          "Accent 3",
+          "Accent 4",
+          "Accent 5",
+          "Accent 6"
+        ]
+      },
+      "DataSeries": [
+        {
+          "Values": [],
+          "Name": "销售总计",
+          "DataLabelStyle": {
+            "StyleInfo": {
+              "FontSize": 13.0,
+              "Foreground": "Text 1"
+            }
+          },
+          "MarkerSize": "7,7",
+          "StyleInfo": {
+            "Fill": "Accent 1",
+            "Stroke": "Accent 1",
+            "StrokeThickness": 1.0
+          },
+          "IsAutomaticStroke": false,
+          "IsAutomaticFill": false
+        }
+      ],
+      "XAxises": [
+        {
+          "UseCustomItems": true,
+          "LabelFormatter": "0月",
+          "ShowMajorGridlines": false,
+          "MajorTickStroke": "#868686",
+          "MajorUnit": 1.0,
+          "MinorTickStroke": "#868686",
+          "MinorUnit": 0.5,
+          "StyleInfo": {
+            "Fill": "transparent",
+            "FontFamily": "Body",
+            "FontSize": 13.0,
+            "FontStretch": "Normal",
+            "FontStyle": "Normal",
+            "FontWeight": "Normal",
+            "Foreground": "Text 1",
+            "Stroke": "Text 1",
+            "StrokeThickness": 1.0
+          },
+          "IsAutomaticStroke": false,
+          "IsAutomaticFill": false
+        }
+      ],
+      "YAxises": [
+        {
+          "Items": [
+            0.0,
+            0.2,
+            0.4,
+            0.60000000000000009,
+            0.8,
+            1.0,
+            1.2
+          ],
+          "DisplayUnit": 1000000.0,
+          "Orientation": 1,
+          "LabelFormatter": "0百万",
+          "MajorTickStroke": "#868686",
+          "MajorUnit": 0.2,
+          "MinorTickStroke": "#868686",
+          "MinorUnit": 0.04,
+          "StyleInfo": {
+            "Fill": "transparent",
+            "FontFamily": "Body",
+            "FontSize": 13.0,
+            "FontStretch": "Normal",
+            "FontStyle": "Normal",
+            "FontWeight": "Normal",
+            "Foreground": "Text 1",
+            "Stroke": "Text 1",
+            "StrokeThickness": 1.0
+          },
+          "IsAutomaticStroke": false,
+          "IsAutomaticFill": false
+        },
+        {
+          "Orientation": 1,
+          "LabelFormatter": "General",
+          "ShowMajorGridlines": false,
+          "MajorTickStroke": "#868686",
+          "MajorUnit": 1.0,
+          "MinorTickStroke": "#868686",
+          "MinorUnit": 0.02,
+          "Visible": false,
+          "AxisPosition": 1,
+          "StyleInfo": {
+            "FontSize": 13.0,
+            "Foreground": "Text 1",
+            "Stroke": "Text 1"
+          },
+          "IsAutomaticStroke": false
+        }
+      ],
+      "Legend": {
+        "Orientation": 0,
+        "Alignment": 6,
+        "StyleInfo": {
+          "FontSize": 13.0,
+          "Foreground": "Text 1"
+        }
+      },
+      "PlotArea": {
+        "StyleInfo": {
+          "Fill": "transparent"
+        },
+        "IsAutomaticFill": false
+      },
+      "ChartTitle": {
+        "Text": "面积图",
+        "StyleInfo": {
+          "Fill": "transparent",
+          "FontFamily": "Body",
+          "FontSize": 18.666666666666664,
+          "FontStretch": "Normal",
+          "FontStyle": "Normal",
+          "FontWeight": "Normal",
+          "Foreground": "Text 1",
+          "StrokeDashType": 8,
+          "Stroke": "transparent",
+          "StrokeThickness": 1.0
+        },
+        "IsAutomaticStroke": false,
+        "IsAutomaticFill": false
+      },
+      "Tag": {
+        "$type": "Forguncy.Model.ChartDataMapping, ServerDesignerCommon",
+        "ChartName": "Chart1",
+        "DataSeriesMapping": [
+          {
+            "SheetName": "面积图",
+            "ListViewName": "表格1",
+            "ListViewColumnFormula": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "=面积图!F7"
+            }
+          }
+        ],
+        "ItemsMapping": {
+          "SheetName": "面积图",
+          "ListViewName": "表格1",
+          "ListViewColumnFormula": {
+            "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+            "SerializeProperty": "=面积图!C7"
+          }
+        }
+      },
+      "StyleInfo": {
+        "Fill": "Background 1",
+        "StrokeDashType": 8,
+        "Stroke": "#FF868686",
+        "StrokeThickness": 0.0
+      },
+      "IsAutomaticStroke": false,
+      "IsAutomaticFill": false,
+      "Name": "Chart1",
+      "Location": "20,100",
+      "Size": "320,220"
+    },
+    {
+      "ChartType": 29,
+      "DisplayEmptyCellsAs": 1,
+      "DisplayHidden": true,
+      "ChartColorPalette": {
+        "RepeatAlgorithmTint": [
+          0.0,
+          -40.0,
+          20.0,
+          -20.0,
+          40.0,
+          -50.0,
+          30.0,
+          -30.0,
+          50.0
+        ],
+        "ColorList": [
+          "Accent 1",
+          "Accent 2",
+          "Accent 3",
+          "Accent 4",
+          "Accent 5",
+          "Accent 6"
+        ]
+      },
+      "DataSeries": [
+        {
+          "Values": [],
+          "Name": "女",
+          "DataLabelStyle": {
+            "StyleInfo": {
+              "FontSize": 13.0,
+              "Foreground": "Text 1"
+            }
+          },
+          "DataLabelSettings": {
+            "ShowValue": true
+          },
+          "MarkerSize": "7,7",
+          "StyleInfo": {
+            "Fill": "Accent 1 0 127",
+            "StrokeDashType": 2,
+            "Stroke": "Accent 1",
+            "StrokeThickness": 3.0
+          },
+          "IsAutomaticStroke": false,
+          "IsAutomaticFill": false
+        },
+        {
+          "Values": [],
+          "Name": "男",
+          "DataLabelStyle": {
+            "StyleInfo": {
+              "FontSize": 13.0,
+              "Foreground": "Text 1"
+            }
+          },
+          "DataLabelSettings": {
+            "ShowValue": true
+          },
+          "MarkerSize": "7,7",
+          "StyleInfo": {
+            "Fill": "Accent 2 0 127",
+            "StrokeDashType": 2,
+            "Stroke": "Accent 2",
+            "StrokeThickness": 3.0
+          },
+          "IsAutomaticStroke": false,
+          "IsAutomaticFill": false
+        }
+      ],
+      "XAxises": [
+        {
+          "UseCustomItems": true,
+          "LabelFormatter": "General",
+          "ShowMajorGridlines": false,
+          "MajorTickStroke": "#868686",
+          "MajorUnit": 1.0,
+          "MinorTickStroke": "#868686",
+          "MinorUnit": 0.5,
+          "Visible": false,
+          "StyleInfo": {
+            "FontSize": 13.0,
+            "Foreground": "Text 1",
+            "Stroke": "Text 1"
+          },
+          "IsAutomaticStroke": false
+        }
+      ],
+      "YAxises": [
+        {
+          "Items": [
+            0.0,
+            0.2,
+            0.4,
+            0.60000000000000009,
+            0.8,
+            1.0,
+            1.2
+          ],
+          "Orientation": 1,
+          "LabelFormatter": "General",
+          "MajorTickStroke": "#868686",
+          "MajorUnit": 0.2,
+          "MinorTickStroke": "#868686",
+          "MinorUnit": 0.04,
+          "StyleInfo": {
+            "FontSize": 13.0,
+            "Foreground": "Text 1",
+            "Stroke": "Text 1"
+          },
+          "IsAutomaticStroke": false
+        },
+        {
+          "Orientation": 1,
+          "LabelFormatter": "General",
+          "ShowMajorGridlines": false,
+          "MajorTickStroke": "#868686",
+          "MajorUnit": 1.0,
+          "MinorTickStroke": "#868686",
+          "MinorUnit": 0.02,
+          "Visible": false,
+          "AxisPosition": 1,
+          "StyleInfo": {
+            "FontSize": 13.0,
+            "Foreground": "Text 1",
+            "Stroke": "Text 1"
+          },
+          "IsAutomaticStroke": false
+        }
+      ],
+      "Legend": {
+        "Orientation": 0,
+        "Alignment": 6,
+        "StyleInfo": {
+          "FontSize": 13.0,
+          "Foreground": "Text 1"
+        }
+      },
+      "PlotArea": {
+        "StyleInfo": {
+          "Fill": "transparent"
+        },
+        "IsAutomaticFill": false
+      },
+      "ChartTitle": {
+        "Text": "堆积面积图",
+        "StyleInfo": {
+          "Fill": "transparent",
+          "FontFamily": "Body",
+          "FontSize": 18.666666666666664,
+          "FontStretch": "Normal",
+          "FontStyle": "Normal",
+          "FontWeight": "Normal",
+          "Foreground": "Text 1",
+          "StrokeDashType": 8,
+          "Stroke": "transparent",
+          "StrokeThickness": 1.0
+        },
+        "IsAutomaticStroke": false,
+        "IsAutomaticFill": false
+      },
+      "Tag": {
+        "$type": "Forguncy.Model.ChartDataMapping, ServerDesignerCommon",
+        "ChartName": "Chart2",
+        "DataSeriesMapping": [
+          {
+            "SheetName": "面积图",
+            "ListViewName": "表格2",
+            "ListViewColumnFormula": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "=面积图!Y12"
+            }
+          },
+          {
+            "SheetName": "面积图",
+            "ListViewName": "表格4",
+            "ListViewColumnFormula": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "=面积图!Y7"
+            }
+          }
+        ],
+        "ItemsMapping": {
+          "SheetName": "面积图",
+          "ListViewName": "表格4",
+          "ListViewColumnFormula": {
+            "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+            "SerializeProperty": "=面积图!T7"
+          }
+        }
+      },
+      "StyleInfo": {
+        "Fill": "Background 1",
+        "StrokeDashType": 8,
+        "Stroke": "#FF868686",
+        "StrokeThickness": 0.0
+      },
+      "IsAutomaticStroke": false,
+      "IsAutomaticFill": false,
+      "Name": "Chart7",
+      "Location": "360,101",
+      "Size": "320,220"
+    },
+    {
+      "ChartType": 30,
+      "DisplayEmptyCellsAs": 1,
+      "DisplayHidden": true,
+      "ChartColorPalette": {
+        "RepeatAlgorithmTint": [
+          0.0,
+          -40.0,
+          20.0,
+          -20.0,
+          40.0,
+          -50.0,
+          30.0,
+          -30.0,
+          50.0
+        ],
+        "ColorList": [
+          "Accent 1",
+          "Accent 2",
+          "Accent 3",
+          "Accent 4",
+          "Accent 5",
+          "Accent 6"
+        ]
+      },
+      "DataSeries": [
+        {
+          "Values": [],
+          "Name": "女",
+          "DataLabelStyle": {
+            "StyleInfo": {
+              "FontSize": 13.0,
+              "Foreground": "Text 1"
+            }
+          },
+          "DataLabelSettings": {
+            "ShowValue": true
+          },
+          "MarkerSize": "7,7",
+          "StyleInfo": {
+            "Fill": "Accent 1",
+            "Stroke": "Accent 1",
+            "StrokeThickness": 1.0
+          },
+          "IsAutomaticStroke": false,
+          "IsAutomaticFill": false
+        },
+        {
+          "Values": [],
+          "Name": "男",
+          "DataLabelStyle": {
+            "StyleInfo": {
+              "FontSize": 13.0,
+              "Foreground": "Text 1"
+            }
+          },
+          "DataLabelSettings": {
+            "ShowValue": true
+          },
+          "MarkerSize": "7,7",
+          "StyleInfo": {
+            "Fill": "Accent 2",
+            "Stroke": "Accent 2",
+            "StrokeThickness": 1.0
+          },
+          "IsAutomaticStroke": false,
+          "IsAutomaticFill": false
+        }
+      ],
+      "XAxises": [
+        {
+          "UseCustomItems": true,
+          "LabelFormatter": "General",
+          "ShowMajorGridlines": false,
+          "MajorTickStroke": "#868686",
+          "MajorUnit": 1.0,
+          "MinorTickStroke": "#868686",
+          "MinorUnit": 0.5,
+          "Visible": false,
+          "StyleInfo": {
+            "FontFamily": "Body",
+            "FontSize": 13.0,
+            "FontStyle": "Normal",
+            "FontWeight": "Normal",
+            "Foreground": "Text 1",
+            "Stroke": "Text 1",
+            "StrokeThickness": 1.0
+          },
+          "IsAutomaticStroke": false
+        }
+      ],
+      "YAxises": [
+        {
+          "Items": [
+            0.0,
+            0.1,
+            0.2,
+            0.30000000000000004,
+            0.4,
+            0.5,
+            0.6,
+            0.7,
+            0.79999999999999993,
+            0.89999999999999991,
+            0.99999999999999989,
+            1.0999999999999999
+          ],
+          "Orientation": 1,
+          "LabelFormatter": "0%",
+          "ShowMajorGridlines": false,
+          "MajorTickStroke": "#868686",
+          "MajorUnit": 0.1,
+          "MinorTickStroke": "#868686",
+          "MinorUnit": 0.02,
+          "StyleInfo": {
+            "FontFamily": "Body",
+            "FontSize": 13.0,
+            "FontStyle": "Normal",
+            "FontWeight": "Normal",
+            "Foreground": "Text 1",
+            "Stroke": "Text 1",
+            "StrokeThickness": 1.0
+          },
+          "IsAutomaticStroke": false
+        },
+        {
+          "Orientation": 1,
+          "LabelFormatter": "General",
+          "ShowMajorGridlines": false,
+          "MajorTickStroke": "#868686",
+          "MajorUnit": 1.0,
+          "MinorTickStroke": "#868686",
+          "MinorUnit": 0.02,
+          "Visible": false,
+          "AxisPosition": 1,
+          "StyleInfo": {
+            "FontSize": 13.0,
+            "Foreground": "Text 1",
+            "Stroke": "Text 1"
+          },
+          "IsAutomaticStroke": false
+        }
+      ],
+      "Legend": {
+        "Orientation": 0,
+        "Alignment": 1,
+        "StyleInfo": {
+          "FontSize": 13.0,
+          "Foreground": "Text 1"
+        }
+      },
+      "PlotArea": {
+        "StyleInfo": {
+          "Fill": "transparent"
+        },
+        "IsAutomaticFill": false
+      },
+      "ChartTitle": {
+        "Text": "百分比堆积面积图",
+        "StyleInfo": {
+          "Fill": "transparent",
+          "FontFamily": "Body",
+          "FontSize": 18.666666666666664,
+          "FontStretch": "Normal",
+          "FontStyle": "Normal",
+          "FontWeight": "Normal",
+          "Foreground": "Text 1",
+          "StrokeDashType": 8,
+          "Stroke": "transparent",
+          "StrokeThickness": 1.0
+        },
+        "IsAutomaticStroke": false,
+        "IsAutomaticFill": false
+      },
+      "Tag": {
+        "$type": "Forguncy.Model.ChartDataMapping, ServerDesignerCommon",
+        "ChartName": "Chart2",
+        "DataSeriesMapping": [
+          {
+            "SheetName": "面积图",
+            "ListViewName": "表格2",
+            "ListViewColumnFormula": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "=面积图!Y12"
+            }
+          },
+          {
+            "SheetName": "面积图",
+            "ListViewName": "表格4",
+            "ListViewColumnFormula": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "=面积图!Y7"
+            }
+          }
+        ],
+        "ItemsMapping": {
+          "SheetName": "面积图",
+          "ListViewName": "表格4",
+          "ListViewColumnFormula": {
+            "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+            "SerializeProperty": "=面积图!T7"
+          }
+        }
+      },
+      "StyleInfo": {
+        "Fill": "Background 1",
+        "StrokeDashType": 8,
+        "Stroke": "#FF868686",
+        "StrokeThickness": 0.0
+      },
+      "IsAutomaticStroke": false,
+      "IsAutomaticFill": false,
+      "Name": "Chart2",
+      "Location": "700,100",
+      "Size": "320,220"
+    },
+    {
+      "ChartType": 28,
+      "DisplayEmptyCellsAs": 1,
+      "DisplayHidden": true,
+      "ChartColorPalette": {
+        "RepeatAlgorithmTint": [
+          0.0,
+          -40.0,
+          20.0,
+          -20.0,
+          40.0,
+          -50.0,
+          30.0,
+          -30.0,
+          50.0
+        ],
+        "ColorList": [
+          "Accent 1",
+          "Accent 2",
+          "Accent 3",
+          "Accent 4",
+          "Accent 5",
+          "Accent 6"
+        ]
+      },
+      "DataSeries": [
+        {
+          "Values": [],
+          "Name": "销售总计",
+          "DataLabelStyle": {
+            "StyleInfo": {
+              "FontSize": 13.0,
+              "Foreground": "Background 1 -5"
+            }
+          },
+          "MarkerSize": "7,7",
+          "StyleInfo": {
+            "Fill": "Accent 1",
+            "Stroke": "Accent 1",
+            "StrokeThickness": 1.0
+          },
+          "IsAutomaticStroke": false,
+          "IsAutomaticFill": false
+        }
+      ],
+      "XAxises": [
+        {
+          "UseCustomItems": true,
+          "LabelFormatter": "0月",
+          "ShowMajorGridlines": false,
+          "MajorTickStroke": "#868686",
+          "MajorUnit": 1.0,
+          "MinorTickStroke": "#868686",
+          "MinorUnit": 0.5,
+          "Visible": false,
+          "StyleInfo": {
+            "Fill": "transparent",
+            "FontFamily": "Body",
+            "FontSize": 13.0,
+            "FontStretch": "Normal",
+            "FontStyle": "Normal",
+            "FontWeight": "Normal",
+            "Foreground": "Background 1 -5",
+            "Stroke": "Background 1 -5",
+            "StrokeThickness": 1.0
+          },
+          "IsAutomaticStroke": false,
+          "IsAutomaticFill": false
+        }
+      ],
+      "YAxises": [
+        {
+          "Items": [
+            0.0,
+            0.2,
+            0.4,
+            0.60000000000000009,
+            0.8,
+            1.0,
+            1.2
+          ],
+          "DisplayUnit": 1000000.0,
+          "Orientation": 1,
+          "LabelFormatter": "0百万",
+          "MajorTickStroke": "#868686",
+          "MajorUnit": 0.2,
+          "MinorTickStroke": "#868686",
+          "MinorUnit": 0.04,
+          "StyleInfo": {
+            "Fill": "transparent",
+            "FontFamily": "Body",
+            "FontSize": 13.0,
+            "FontStretch": "Normal",
+            "FontStyle": "Normal",
+            "FontWeight": "Normal",
+            "Foreground": "Background 1 -5",
+            "Stroke": "Background 1 -5",
+            "StrokeThickness": 1.0
+          },
+          "IsAutomaticStroke": false,
+          "IsAutomaticFill": false
+        },
+        {
+          "Orientation": 1,
+          "LabelFormatter": "General",
+          "ShowMajorGridlines": false,
+          "MajorTickStroke": "#868686",
+          "MajorUnit": 1.0,
+          "MinorTickStroke": "#868686",
+          "MinorUnit": 0.02,
+          "Visible": false,
+          "AxisPosition": 1,
+          "StyleInfo": {
+            "FontSize": 13.0,
+            "Foreground": "Background 1 -5",
+            "Stroke": "Background 1 -5"
+          },
+          "IsAutomaticStroke": false
+        }
+      ],
+      "Legend": {
+        "Orientation": 0,
+        "Alignment": 6,
+        "StyleInfo": {
+          "FontSize": 13.0,
+          "Foreground": "Background 1 -5"
+        }
+      },
+      "PlotArea": {
+        "StyleInfo": {
+          "Fill": "transparent"
+        },
+        "IsAutomaticFill": false
+      },
+      "ChartTitle": {
+        "Text": "面积图",
+        "StyleInfo": {
+          "Fill": "transparent",
+          "FontFamily": "Body",
+          "FontSize": 18.666666666666664,
+          "FontStretch": "Normal",
+          "FontStyle": "Normal",
+          "FontWeight": "Normal",
+          "Foreground": "Background 1 -5",
+          "StrokeDashType": 8,
+          "Stroke": "transparent",
+          "StrokeThickness": 1.0
+        },
+        "IsAutomaticStroke": false,
+        "IsAutomaticFill": false
+      },
+      "Tag": {
+        "$type": "Forguncy.Model.ChartDataMapping, ServerDesignerCommon",
+        "ChartName": "Chart1",
+        "DataSeriesMapping": [
+          {
+            "SheetName": "面积图",
+            "ListViewName": "表格1",
+            "ListViewColumnFormula": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "=面积图!F7"
+            }
+          }
+        ],
+        "ItemsMapping": {
+          "SheetName": "面积图",
+          "ListViewName": "表格1",
+          "ListViewColumnFormula": {
+            "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+            "SerializeProperty": "=面积图!C7"
+          }
+        }
+      },
+      "StyleInfo": {
+        "Fill": "Text 1 25"
+      },
+      "IsAutomaticFill": false,
+      "Name": "Chart3",
+      "Location": "19,341",
+      "Size": "320,240"
+    },
+    {
+      "ChartType": 29,
+      "DisplayEmptyCellsAs": 1,
+      "DisplayHidden": true,
+      "ChartColorPalette": {
+        "RepeatAlgorithmTint": [
+          0.0,
+          -40.0,
+          20.0,
+          -20.0,
+          40.0,
+          -50.0,
+          30.0,
+          -30.0,
+          50.0
+        ],
+        "ColorList": [
+          "Accent 1",
+          "Accent 2",
+          "Accent 3",
+          "Accent 4",
+          "Accent 5",
+          "Accent 6"
+        ]
+      },
+      "DataSeries": [
+        {
+          "Values": [],
+          "Name": "女",
+          "DataLabelStyle": {
+            "StyleInfo": {
+              "FontSize": 13.0,
+              "Foreground": "Background 1 -5"
+            }
+          },
+          "DataLabelSettings": {
+            "ShowValue": true
+          },
+          "MarkerSize": "7,7",
+          "StyleInfo": {
+            "Fill": "Accent 1 0 255",
+            "Stroke": "Accent 1 0 255",
+            "StrokeThickness": 1.0
+          },
+          "IsAutomaticStroke": false,
+          "IsAutomaticFill": false
+        },
+        {
+          "Values": [],
+          "Name": "男",
+          "DataLabelStyle": {
+            "StyleInfo": {
+              "FontSize": 13.0,
+              "Foreground": "Background 1 -5"
+            }
+          },
+          "DataLabelSettings": {
+            "ShowValue": true
+          },
+          "MarkerSize": "7,7",
+          "StyleInfo": {
+            "Fill": "Accent 2 0 255",
+            "Stroke": "Accent 2 0 255",
+            "StrokeThickness": 1.0
+          },
+          "IsAutomaticStroke": false,
+          "IsAutomaticFill": false
+        }
+      ],
+      "XAxises": [
+        {
+          "UseCustomItems": true,
+          "LabelFormatter": "General",
+          "ShowMajorGridlines": false,
+          "MajorTickStroke": "#868686",
+          "MajorUnit": 1.0,
+          "MinorTickStroke": "#868686",
+          "MinorUnit": 0.5,
+          "Visible": false,
+          "StyleInfo": {
+            "FontSize": 13.0,
+            "Foreground": "Background 1 -5",
+            "Stroke": "Background 1 -5"
+          },
+          "IsAutomaticStroke": false
+        }
+      ],
+      "YAxises": [
+        {
+          "Items": [
+            0.0,
+            0.2,
+            0.4,
+            0.60000000000000009,
+            0.8,
+            1.0,
+            1.2
+          ],
+          "Orientation": 1,
+          "LabelFormatter": "General",
+          "MajorTickStroke": "#868686",
+          "MajorUnit": 0.2,
+          "MinorTickStroke": "#868686",
+          "MinorUnit": 0.04,
+          "StyleInfo": {
+            "FontSize": 13.0,
+            "Foreground": "Background 1 -5",
+            "Stroke": "Background 1 -5"
+          },
+          "IsAutomaticStroke": false
+        },
+        {
+          "Orientation": 1,
+          "LabelFormatter": "General",
+          "ShowMajorGridlines": false,
+          "MajorTickStroke": "#868686",
+          "MajorUnit": 1.0,
+          "MinorTickStroke": "#868686",
+          "MinorUnit": 0.02,
+          "Visible": false,
+          "AxisPosition": 1,
+          "StyleInfo": {
+            "FontSize": 13.0,
+            "Foreground": "Background 1 -5",
+            "Stroke": "Background 1 -5"
+          },
+          "IsAutomaticStroke": false
+        }
+      ],
+      "Legend": {
+        "Orientation": 0,
+        "Alignment": 6,
+        "StyleInfo": {
+          "FontSize": 13.0,
+          "Foreground": "Background 1 -5"
+        }
+      },
+      "PlotArea": {
+        "StyleInfo": {
+          "Fill": "transparent"
+        },
+        "IsAutomaticFill": false
+      },
+      "ChartTitle": {
+        "Text": "堆积面积图",
+        "StyleInfo": {
+          "Fill": "transparent",
+          "FontFamily": "Body",
+          "FontSize": 18.666666666666664,
+          "FontStretch": "Normal",
+          "FontStyle": "Normal",
+          "FontWeight": "Normal",
+          "Foreground": "Background 1 -5",
+          "StrokeDashType": 8,
+          "Stroke": "transparent",
+          "StrokeThickness": 1.0
+        },
+        "IsAutomaticStroke": false,
+        "IsAutomaticFill": false
+      },
+      "Tag": {
+        "$type": "Forguncy.Model.ChartDataMapping, ServerDesignerCommon",
+        "ChartName": "Chart2",
+        "DataSeriesMapping": [
+          {
+            "SheetName": "面积图",
+            "ListViewName": "表格2",
+            "ListViewColumnFormula": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "=面积图!Y12"
+            }
+          },
+          {
+            "SheetName": "面积图",
+            "ListViewName": "表格4",
+            "ListViewColumnFormula": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "=面积图!Y7"
+            }
+          }
+        ],
+        "ItemsMapping": {
+          "SheetName": "面积图",
+          "ListViewName": "表格4",
+          "ListViewColumnFormula": {
+            "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+            "SerializeProperty": "=面积图!T7"
+          }
+        }
+      },
+      "StyleInfo": {
+        "Fill": "Text 1 25"
+      },
+      "IsAutomaticFill": false,
+      "Name": "Chart4",
+      "Location": "360,340",
+      "Size": "320,240"
+    },
+    {
+      "ChartType": 30,
+      "DisplayEmptyCellsAs": 1,
+      "DisplayHidden": true,
+      "ChartColorPalette": {
+        "RepeatAlgorithmTint": [
+          0.0,
+          -40.0,
+          20.0,
+          -20.0,
+          40.0,
+          -50.0,
+          30.0,
+          -30.0,
+          50.0
+        ],
+        "ColorList": [
+          "Accent 1",
+          "Accent 2",
+          "Accent 3",
+          "Accent 4",
+          "Accent 5",
+          "Accent 6"
+        ]
+      },
+      "DataSeries": [
+        {
+          "Values": [],
+          "Name": "女",
+          "DataLabelStyle": {
+            "StyleInfo": {
+              "FontSize": 13.0,
+              "Foreground": "Background 1 -5"
+            }
+          },
+          "DataLabelSettings": {
+            "ShowValue": true
+          },
+          "MarkerSize": "7,7",
+          "StyleInfo": {
+            "Fill": "Accent 1",
+            "Stroke": "Accent 1",
+            "StrokeThickness": 1.0
+          },
+          "IsAutomaticStroke": false,
+          "IsAutomaticFill": false
+        },
+        {
+          "Values": [],
+          "Name": "男",
+          "DataLabelStyle": {
+            "StyleInfo": {
+              "FontSize": 13.0,
+              "Foreground": "Background 1 -5"
+            }
+          },
+          "DataLabelSettings": {
+            "ShowValue": true
+          },
+          "MarkerSize": "7,7",
+          "StyleInfo": {
+            "Fill": "Accent 2",
+            "Stroke": "Accent 2",
+            "StrokeThickness": 1.0
+          },
+          "IsAutomaticStroke": false,
+          "IsAutomaticFill": false
+        }
+      ],
+      "XAxises": [
+        {
+          "UseCustomItems": true,
+          "LabelFormatter": "General",
+          "ShowMajorGridlines": false,
+          "MajorTickStroke": "#868686",
+          "MajorUnit": 1.0,
+          "MinorTickStroke": "#868686",
+          "MinorUnit": 0.5,
+          "Visible": false,
+          "StyleInfo": {
+            "FontSize": 13.0,
+            "Foreground": "Background 1 -5",
+            "Stroke": "Background 1 -5"
+          },
+          "IsAutomaticStroke": false
+        }
+      ],
+      "YAxises": [
+        {
+          "Items": [
+            0.0,
+            0.1,
+            0.2,
+            0.30000000000000004,
+            0.4,
+            0.5,
+            0.6,
+            0.7,
+            0.79999999999999993,
+            0.89999999999999991,
+            0.99999999999999989,
+            1.0999999999999999
+          ],
+          "Orientation": 1,
+          "LabelFormatter": "0%",
+          "MajorTickStroke": "#868686",
+          "MajorUnit": 0.1,
+          "MinorTickStroke": "#868686",
+          "MinorUnit": 0.02,
+          "StyleInfo": {
+            "FontSize": 13.0,
+            "Foreground": "Background 1 -5",
+            "Stroke": "Background 1 -5"
+          },
+          "IsAutomaticStroke": false
+        },
+        {
+          "Orientation": 1,
+          "LabelFormatter": "General",
+          "ShowMajorGridlines": false,
+          "MajorTickStroke": "#868686",
+          "MajorUnit": 1.0,
+          "MinorTickStroke": "#868686",
+          "MinorUnit": 0.02,
+          "Visible": false,
+          "AxisPosition": 1,
+          "StyleInfo": {
+            "FontSize": 13.0,
+            "Foreground": "Background 1 -5",
+            "Stroke": "Background 1 -5"
+          },
+          "IsAutomaticStroke": false
+        }
+      ],
+      "Legend": {
+        "Orientation": 0,
+        "Alignment": 6,
+        "StyleInfo": {
+          "FontSize": 13.0,
+          "Foreground": "Background 1 -5"
+        }
+      },
+      "PlotArea": {
+        "StyleInfo": {
+          "Fill": "transparent"
+        },
+        "IsAutomaticFill": false
+      },
+      "ChartTitle": {
+        "Text": "百分比堆积面积图",
+        "StyleInfo": {
+          "Fill": "transparent",
+          "FontFamily": "Body",
+          "FontSize": 18.666666666666664,
+          "FontStretch": "Normal",
+          "FontStyle": "Normal",
+          "FontWeight": "Normal",
+          "Foreground": "Background 1 -5",
+          "StrokeDashType": 8,
+          "Stroke": "transparent",
+          "StrokeThickness": 1.0
+        },
+        "IsAutomaticStroke": false,
+        "IsAutomaticFill": false
+      },
+      "Tag": {
+        "$type": "Forguncy.Model.ChartDataMapping, ServerDesignerCommon",
+        "ChartName": "Chart2",
+        "DataSeriesMapping": [
+          {
+            "SheetName": "面积图",
+            "ListViewName": "表格2",
+            "ListViewColumnFormula": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "=面积图!Y12"
+            }
+          },
+          {
+            "SheetName": "面积图",
+            "ListViewName": "表格4",
+            "ListViewColumnFormula": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "=面积图!Y7"
+            }
+          }
+        ],
+        "ItemsMapping": {
+          "SheetName": "面积图",
+          "ListViewName": "表格4",
+          "ListViewColumnFormula": {
+            "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+            "SerializeProperty": "=面积图!T7"
+          }
+        }
+      },
+      "StyleInfo": {
+        "Fill": "Text 1 25"
+      },
+      "IsAutomaticFill": false,
+      "Name": "Chart5",
+      "Location": "701,340",
+      "Size": "320,240"
+    }
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "MasterPageName": "母版页",
+    "PageOverflowMode": 1,
+    "AuthorizeInfo": {
+      "VisitMode": 2
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
+  },
+  "PrintInfo": {
+    "Margin": {},
+    "PaperSize": {}
+  }
+}//oxIq3p3xbW792PZ2vQn0tDskL2WN8Nu3WwtfukXEB6CxMWesxAL9iiAGXdzJpsQFrJcR/ut6S4ihKErm75aXQocfyRfADXKhVP9DRkzfkYY+XZ1JtWNW7aIg3vnWURFf8Fmt6rRZEVN6P+k9CthCbkPmk0W34xPRzg+tCWA1HG5gRtDHV7kt0IOqmW+hv6l18xD4r4Mi1D3y+S1SN7h04l45lwa2PjFWeuCQy+egx9L7tYIDYacNX3gBuSbIkCvHehA2oyTmPHLkbA2FRI/RCzFj40VvUlFWPrsjeKu6NRPJCp/GyGU5cSZTkpM9OXfqNxLuGZpkHbgQKKpWGerb15jCosnj6fpg+Obk0v+10YJmXNUSaAsvvkQPf+1xi2Ejq6DocgBxckfn6fbJcr8X17X3f9F4JJlmhCTBK1mX4suCn9MpXz3CaCAvopUaTe+5tBpBvbgFIWA7pZ8mbhQx01EvUyreBcZgpJcB2iXCuh2xLz1p71BU+RyKObRFqgXoZiDI7Yv8dzOYSKEq0LR37R3gSh/Nq1+eluhhLpNfq9fzrCFf1c+Op1WUnoZ0ssnEJYTpE4qx8Nh5RyeZmgos9NFoPrfeNoZo3/IKcDJB57mJWPXPw1Zib9DQ9X/SrmhJnn8mdBPSGKhmdt5ucQ2dtItvVLZtKaHmSH5jSLRdYz2zXxTRfkMQfnKIAQ8pYPI8LOznifKRwTIUr8XYzw7QvXTLXDB8OBiqFkf5BzNHP4Zh34vGk80XvNxnDnhve/qB62j8R8u3BvFvGeumm9aXvOHnOoZHgs+E7rYK9wZbCak9bmjnGt8Ddu1F4RmrF9WoCtriQP7iP/qGV0i49BdBdzNETTJrsqh4a6MNLQy09f10SJND3WznIuHoWD4bYaaUg75Ps9ALchp2CuoF4qDrEQ==|920

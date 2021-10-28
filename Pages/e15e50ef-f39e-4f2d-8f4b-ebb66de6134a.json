@@ -1,0 +1,86 @@
+{
+  "Rows": {
+    "RowColumnAttachedInfos": {
+      "1": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "2": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      }
+    },
+    "Count": 4,
+    "DefaultSize": 10.0
+  },
+  "Cols": {
+    "Count": 9
+  },
+  "Values": {
+    "1,5": "员工数"
+  },
+  "AttachInfos": {
+    "1,4": {
+      "TemplateCellSource": "性别"
+    },
+    "2,4": {
+      "TemplateCellSource": "性别统计"
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "Foreground": 0
+      },
+      {
+        "FontFamily": 1,
+        "Foreground": 0
+      },
+      {
+        "FontFamily": 1,
+        "FontSize": 24.0,
+        "Foreground": 2
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "#FF55FFE8",
+        "Body",
+        "#FFFFC000"
+      ]
+    },
+    "CellStyles": {
+      "1,1": 0,
+      "1,2": 0,
+      "1,4": 1,
+      "1,5": 0,
+      "2,1": 0,
+      "2,2": 0,
+      "2,4": 2
+    },
+    "SheetStyle": {
+      "FontFamily": 1
+    }
+  },
+  "Pictures": [
+    {
+      "ForguncyPictureName": "icon5.png",
+      "Stretch": 2,
+      "ForguncyPictureSourceType": 0,
+      "Name": "47af8f41-5041-4240-9b83-4d8c4c99fabb.png",
+      "Location": "20,10",
+      "Size": "60,60"
+    }
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.TemplatePage, ServerDesignerCommon",
+    "ParentPageName": "图表大屏1",
+    "PageResponsiveMode": 2
+  },
+  "PrintInfo": {
+    "Margin": {},
+    "PaperSize": {}
+  }
+}//u3GDrh13hZjTNubUmg1cACXlD49TLRr5ZY4z93a8RjL+fgtjoKMKq/kFmYb7rRNmajQDAYULXBas3D6N5iuyuYUUa0ng3DB0aneHtSHHVOUCaYGW6mPNwXd9W/XJc8XwNCDtN4djR7O9jssYuYSknjniPZQRsBJRVq8dy5qvgemD1+NrYZaGuHuKmWEzq79g1A8uYOfhpbTm1ieVpf4gErapF1ml2tbql9/3cSI+wOxka/MBLx/SxGCn4d0cur4jY0XaaGwuRwRaHIDt7Bby9VfgqvA19wY7BqffgFfR45J8TpWlF8mhPLpHCZwJ3ZNYmDe1QCfZxCZv9lPCKgxIUvS7bQcREiz7A7pe/w8iA98VDnGPIWSQiIWaVKi1Zxp8QC7bEi170rx4jNkpenCbTdkaMfutwxBlML3QsIHQYUB8rkLVDnkY3r+JgTsnGhVqu6tiDGSeu5/PLneWaNQ2hdUJSsewL+mzqISDMHzO+/FcTg7dVqIlIMcDuK5G2t0Tnbp9ymRG1Yujb/PcVqsdGYw33yZYmGIAr2sKjGdbSpZ2r/HPyJli960SG9VCB7CJRZePrzvuYV+RpHPBwuaP0Lr+19QAgQhnXeS8MDIOy785hGgGKakMml5OcN31SJxRlXjajaa0Rl5btUFPDVci/4D5dBGsh2Q3qHqe+rL51a7gRCxqZX8RkjwLaR7+rqsGZhz6XxX2zh84QLEGyTTExplAmInYpAhn2EtyMQRIQwJNC/Zn9teCU7BdGSy0B1dhcX57rluOVzG3lxMSBmeHsXWFZlsm6exixNjJPi7YlMYQmb4tZ8pRJipLPs4fNBohZUpUbtFLX03RTmfshHMv1KX9cVjKNgkaqPRH8a8rkNpJUw1bBFt2sySG7nKtx9lqrd9xuv45SRnbfINS56EEQw==|920

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Theme xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Colors>
+    <Dark1>#000000</Dark1>
+    <Dark2>#008C82</Dark2>
+    <Light1>#FFFFFF</Light1>
+    <Light2>#003F95</Light2>
+    <Accent1>#498DFF</Accent1>
+    <Accent2>#FFB34E</Accent2>
+    <Accent3>#FF4E4E</Accent3>
+    <Accent4>#2B6672</Accent4>
+    <Accent5>#FF4EEC</Accent5>
+    <Accent6>#0DAEFF</Accent6>
+    <Hyperlink>#FFFFFF</Hyperlink>
+    <HyperlinkFollowed>#FFFFFF</HyperlinkFollowed>
+  </Colors>
+  <Fonts>
+    <MajorFont>
+      <Family>微软雅黑</Family>
+    </MajorFont>
+    <MinorFont>
+      <Family>微软雅黑</Family>
+    </MinorFont>
+  </Fonts>
+  <Images />
+  <Constants />
+</Theme>
